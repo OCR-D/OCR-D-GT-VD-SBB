@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:lc/xmlns/premis-v2 http://www.loc.gov/standards/premis/v2/premis-v2-0.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd http://www.loc.gov/mix/v10 http://www.loc.gov/standards/mix/mix10/mix10.xsd">
+  <mets:metsHdr CREATEDATE="2025-11-13T16:39:46.751363">
+    <mets:agent TYPE="OTHER" OTHERTYPE="SOFTWARE" ROLE="CREATOR">
+      <mets:name>ocrd/core v3.5.1</mets:name>
+    </mets:agent>
+  </mets:metsHdr>
+  <mets:dmdSec ID="DMDLOG_0001">
+    <mets:mdWrap MDTYPE="MODS">
+      <mets:xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+                </mods:mods>
+      </mets:xmlData>
+    </mets:mdWrap>
+  </mets:dmdSec>
+  <mets:amdSec ID="AMD">
+    </mets:amdSec>
+  <mets:fileSec>
+    <mets:fileGrp USE="OCR-D-GT-PAGE">
+      <mets:file ID="OCR-D-GT-PAGE_0067" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000067.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000067.xml" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-GT-PAGE_0068" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000068.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000068.xml" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-GT-PAGE_0069" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000069.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000069.xml" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-GT-PAGE_0070" MIMETYPE="application/vnd.prima.page+xml">
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000070.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-GT-PAGE/OCR-D-GT-PAGE_00000070.xml" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+    <mets:fileGrp USE="OCR-D-IMG">
+      <mets:file ID="OCR-D-IMG_0067" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000067.tif" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000067.tif" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-IMG_0068" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000068.tif" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000068.tif" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-IMG_0069" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000069.tif" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000069.tif" LOCTYPE="URL"/>
+      </mets:file>
+      <mets:file ID="OCR-D-IMG_0070" MIMETYPE="image/tiff">
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000070.tif" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+        <mets:FLocat xlink:href="OCR-D-IMG/OCR-D-IMG_00000070.tif" LOCTYPE="URL"/>
+      </mets:file>
+    </mets:fileGrp>
+  </mets:fileSec>
+  <mets:structMap TYPE="PHYSICAL">
+    <mets:div TYPE="physSequence">
+      <mets:div TYPE="page" ID="PHYS_0067">
+        <mets:fptr FILEID="OCR-D-GT-PAGE_0067"/>
+        <mets:fptr FILEID="OCR-D-IMG_0067"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PHYS_0068">
+        <mets:fptr FILEID="OCR-D-GT-PAGE_0068"/>
+        <mets:fptr FILEID="OCR-D-IMG_0068"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PHYS_0069">
+        <mets:fptr FILEID="OCR-D-GT-PAGE_0069"/>
+        <mets:fptr FILEID="OCR-D-IMG_0069"/>
+      </mets:div>
+      <mets:div TYPE="page" ID="PHYS_0070">
+        <mets:fptr FILEID="OCR-D-GT-PAGE_0070"/>
+        <mets:fptr FILEID="OCR-D-IMG_0070"/>
+      </mets:div>
+    </mets:div>
+  </mets:structMap>
+</mets:mets>
