@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-GT-PAGE_00000303">
+    <pc:Metadata>
+        <pc:Creator>doculibtopagexml</pc:Creator>
+        <pc:Created>2019-01-08T10:00:09</pc:Created>
+        <pc:LastChange>2019-04-03T10:26:28</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_00000303.tif" imageWidth="2018" imageHeight="2516" imageXResolution="300." imageYResolution="300." type="content" primaryLanguage="German" readingDirection="left-to-right">
+        <pc:GraphicRegion id="r0" type="handwritten-annotation">
+            <pc:Coords points="30,103 1790,103 1790,2275 30,2275"/>
+        </pc:GraphicRegion>
+    </pc:Page>
+</pc:PcGts>

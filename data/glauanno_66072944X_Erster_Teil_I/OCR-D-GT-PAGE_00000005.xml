@@ -1,0 +1,2690 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-GT-PAGE_00000005">
+    <pc:Metadata>
+        <pc:Creator>doculibtopagexml</pc:Creator>
+        <pc:Created>2019-01-08T09:28:26</pc:Created>
+        <pc:LastChange>2019-04-24T12:16:51</pc:LastChange>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_00000005.tif" imageWidth="1204" imageHeight="1955" imageXResolution="300." imageYResolution="300." type="title" primaryLanguage="German" secondaryLanguage="Latin" readingDirection="left-to-right" textLineOrder="top-to-bottom">
+        <pc:PrintSpace>
+            <pc:Coords points="30,100 30,1848 1086,1848 1086,100"/>
+        </pc:PrintSpace>
+        <pc:ReadingOrder>
+            <pc:OrderedGroup id="ro357564684568544579089">
+                <pc:RegionRefIndexed index="0" regionRef="r0"/>
+                <pc:RegionRefIndexed index="1" regionRef="r4"/>
+                <pc:RegionRefIndexed index="2" regionRef="r5"/>
+                <pc:RegionRefIndexed index="3" regionRef="r7"/>
+            </pc:OrderedGroup>
+        </pc:ReadingOrder>
+        <pc:TextRegion id="r4" type="heading" readingDirection="left-to-right" textLineOrder="top-to-bottom" align="centre" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="447,641 492,641 492,646 602,646 602,644 618,644 618,645 630,645 630,648 748,648 748,644 768,644 768,687 806,687 806,692 922,692 922,689 981,689 981,701 1000,701 1000,702 1025,702 1025,707 1042,707 1042,726 1025,726 1025,736 981,736 981,740 960,740 960,788 940,788 940,787 797,787 797,827 782,827 782,828 724,828 724,830 610,830 610,862 541,862 541,870 502,870 502,871 491,871 491,833 456,833 456,831 330,831 330,837 314,837 314,834 301,834 301,788 158,788 158,786 142,786 142,732 67,732 67,679 116,679 116,688 215,688 215,701 320,701 320,692 338,692 338,643 447,643"/>
+            <pc:TextLine id="l250">
+                <pc:Coords points="447,641 492,641 492,646 602,646 602,644 618,644 618,645 630,645 630,648 748,648 748,644 768,644 768,678 721,678 721,679 653,679 653,687 540,687 540,689 522,689 522,681 397,681 397,682 338,682 338,643 447,643"/>
+                <pc:Word id="w252" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="338,643 374,643 374,645 397,645 397,653 412,653 412,654 437,654 437,680 397,680 397,682 338,682"/>
+                    <pc:Glyph id="c862">
+                        <pc:Coords points="338,643 374,643 374,682 338,682"/>
+                        <pc:TextEquiv conf="0.77528">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c864">
+                        <pc:Coords points="376,645 397,645 397,682 376,682"/>
+                        <pc:TextEquiv conf="0.81502">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c866">
+                        <pc:Coords points="398,653 412,653 412,680 398,680"/>
+                        <pc:TextEquiv conf="0.82096">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c868">
+                        <pc:Coords points="414,654 437,654 437,680 414,680"/>
+                        <pc:TextEquiv conf="0.88923">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.77231">
+                        <pc:Unicode>Aen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w7" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="447,641 492,641 492,646 602,646 602,644 618,644 618,645 630,645 630,651 692,651 692,679 653,679 653,687 540,687 540,689 522,689 522,681 447,681"/>
+                    <pc:Glyph id="c1170">
+                        <pc:Coords points="447,641 492,641 492,681 447,681"/>
+                        <pc:TextEquiv conf="0.83611">
+                            <pc:Unicode>V</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1172">
+                        <pc:Coords points="497,653 519,653 519,681 497,681"/>
+                        <pc:TextEquiv conf="0.86249">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1174">
+                        <pc:Coords points="522,653 540,653 540,689 522,689"/>
+                        <pc:TextEquiv conf="0.79543">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1176">
+                        <pc:Coords points="542,646 553,646 553,682 542,682"/>
+                        <pc:TextEquiv conf="0.64936">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1178">
+                        <pc:Coords points="555,654 574,654 574,681 555,681"/>
+                        <pc:TextEquiv conf="0.81002">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1180">
+                        <pc:Coords points="577,654 598,654 598,681 577,681"/>
+                        <pc:TextEquiv conf="0.78126">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1182">
+                        <pc:Coords points="602,644 618,644 618,681 602,681"/>
+                        <pc:TextEquiv conf="0.89047">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1184">
+                        <pc:Coords points="620,645 630,645 630,680 620,680"/>
+                        <pc:TextEquiv conf="0.79346">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1186">
+                        <pc:Coords points="633,651 653,651 653,687 633,687"/>
+                        <pc:TextEquiv conf="0.77160">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1188">
+                        <pc:Coords points="654,651 668,651 668,679 654,679"/>
+                        <pc:TextEquiv conf="0.82879">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1190">
+                        <pc:Coords points="671,651 692,651 692,679 671,679"/>
+                        <pc:TextEquiv conf="0.82458">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.64936">
+                        <pc:Unicode>Vnglaubigen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w19" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="748,644 768,644 768,678 721,678 721,679 701,679 701,648 748,648"/>
+                    <pc:Glyph id="c820">
+                        <pc:Coords points="701,648 721,648 721,679 701,679"/>
+                        <pc:TextEquiv conf="0.80853">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c822">
+                        <pc:Coords points="725,651 745,651 745,678 725,678"/>
+                        <pc:TextEquiv conf="0.84263">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c824">
+                        <pc:Coords points="748,644 768,644 768,678 748,678"/>
+                        <pc:TextEquiv conf="0.77530">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.77450">
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.73206">
+                    <pc:Unicode>Aen Vnglaubigen vnd</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l23">
+                <pc:Coords points="67,679 116,679 116,688 215,688 215,701 320,701 320,692 344,692 344,704 622,704 622,703 667,703 667,702 718,702 718,701 756,701 756,692 772,692 772,687 806,687 806,692 922,692 922,689 981,689 981,701 1000,701 1000,702 1025,702 1025,707 1042,707 1042,726 1025,726 1025,736 981,736 981,740 922,740 922,732 806,732 806,736 772,736 772,731 604,731 604,732 582,732 582,731 430,731 430,732 309,732 309,734 241,734 241,735 215,735 215,737 168,737 168,732 67,732"/>
+                <pc:Word id="w24" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="67,679 116,679 116,696 155,696 155,727 116,727 116,732 67,732"/>
+                    <pc:Glyph id="c850">
+                        <pc:Coords points="67,679 116,679 116,732 67,732"/>
+                        <pc:TextEquiv conf="0.80628">
+                            <pc:Unicode>D</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c852">
+                        <pc:Coords points="120,696 135,696 135,726 120,726"/>
+                        <pc:TextEquiv conf="0.77549">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c854">
+                        <pc:Coords points="137,696 155,696 155,727 137,727"/>
+                        <pc:TextEquiv conf="0.78180">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.68169">
+                        <pc:Unicode>Der</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w28" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="168,688 215,688 215,701 257,701 257,702 309,702 309,734 241,734 241,735 215,735 215,737 168,737"/>
+                    <pc:Glyph id="c870">
+                        <pc:Coords points="168,688 215,688 215,737 168,737"/>
+                        <pc:TextEquiv conf="0.78657">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c872">
+                        <pc:Coords points="218,704 241,704 241,735 218,735"/>
+                        <pc:TextEquiv conf="0.84368">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c874">
+                        <pc:Coords points="243,701 257,701 257,734 243,734"/>
+                        <pc:TextEquiv conf="0.76250">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c876">
+                        <pc:Coords points="261,703 286,703 286,734 261,734"/>
+                        <pc:TextEquiv conf="0.83626">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c878">
+                        <pc:Coords points="289,702 309,702 309,734 289,734"/>
+                        <pc:TextEquiv conf="0.83995">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.75903">
+                        <pc:Unicode>Natur</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w34" language="Latin" readingDirection="left-to-right">
+                    <pc:Coords points="320,692 344,692 344,704 622,704 622,703 649,703 649,731 604,731 604,732 582,732 582,731 430,731 430,732 320,732"/>
+                    <pc:Glyph id="c916">
+                        <pc:Coords points="320,692 344,692 344,732 320,732"/>
+                        <pc:TextEquiv conf="0.86204">
+                            <pc:Unicode>S</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c918">
+                        <pc:Coords points="368,706 390,706 390,731 368,731"/>
+                        <pc:TextEquiv conf="0.78084">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c950">
+                        <pc:Coords points="407,704 430,704 430,732 407,732"/>
+                        <pc:TextEquiv conf="0.89871">
+                            <pc:Unicode>C</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c956">
+                        <pc:Coords points="447,704 474,704 474,731 447,731"/>
+                        <pc:TextEquiv conf="0.72179">
+                            <pc:Unicode>R</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c960">
+                        <pc:Coords points="493,705 515,705 515,731 493,731"/>
+                        <pc:TextEquiv conf="0.77347">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c980">
+                        <pc:Coords points="532,704 559,704 559,731 532,731"/>
+                        <pc:TextEquiv conf="0.81735">
+                            <pc:Unicode>T</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c908">
+                        <pc:Coords points="582,705 604,705 604,732 582,732"/>
+                        <pc:TextEquiv conf="0.71914">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c998">
+                        <pc:Coords points="622,703 649,703 649,731 622,731"/>
+                        <pc:TextEquiv conf="0.77165">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.87420">
+                        <pc:Unicode>SECRETEN</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:Word id="w51" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="772,687 806,687 806,692 866,692 866,700 882,700 882,702 905,702 905,703 907,703 907,707 908,707 908,727 907,727 907,728 906,728 906,729 905,729 905,730 866,730 866,731 842,731 842,732 806,732 806,736 772,736 772,731 667,731 667,702 718,702 718,701 756,701 756,692 772,692"/>
+                    <pc:Glyph id="c1026">
+                        <pc:Coords points="667,702 691,702 691,731 667,731"/>
+                        <pc:TextEquiv conf="0.86758">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1028">
+                        <pc:Coords points="692,702 716,702 716,730 692,730"/>
+                        <pc:TextEquiv conf="0.84796">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1030">
+                        <pc:Coords points="718,701 754,701 754,731 718,731"/>
+                        <pc:TextEquiv conf="0.85201">
+                            <pc:Unicode>w</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1032">
+                        <pc:Coords points="756,692 768,692 768,730 756,730"/>
+                        <pc:TextEquiv conf="0.82650">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1034">
+                        <pc:Coords points="772,687 806,687 806,736 772,736"/>
+                        <pc:TextEquiv conf="0.81336">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1036">
+                        <pc:Coords points="801,701 817,701 817,730 801,730"/>
+                        <pc:TextEquiv conf="0.80144">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1038">
+                        <pc:Coords points="818,700 842,700 842,732 818,732"/>
+                        <pc:TextEquiv conf="0.85475">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1040">
+                        <pc:Coords points="843,692 866,692 866,731 843,731"/>
+                        <pc:TextEquiv conf="0.84548">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c24">
+                        <pc:Coords points="882,700 882,707 883,707 883,708 882,708 882,710 881,710 881,711 880,711 880,725 879,725 879,726 878,726 878,728 877,728 877,729 876,729 876,730 874,730 874,728 873,728 873,727 872,727 872,726 871,726 871,725 870,725 870,723 869,723 869,716 870,716 870,709 871,709 871,708 872,708 872,707 873,707 873,706 874,706 874,705 875,705 875,704 876,704 876,703 878,703 878,702 880,702 880,701 881,701 881,700"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c25">
+                        <pc:Coords points="905,702 905,703 907,703 907,707 908,707 908,727 907,727 907,728 906,728 906,729 905,729 905,730 904,730 904,729 890,729 890,728 889,728 889,727 888,727 888,708 887,708 887,707 888,707 888,706 889,706 889,705 890,705 890,704 891,704 891,703 904,703 904,702"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80891">
+                        <pc:Unicode>vnwienden</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w62" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="922,689 981,689 981,701 1000,701 1000,702 1025,702 1025,707 1042,707 1042,726 1025,726 1025,736 981,736 981,740 922,740"/>
+                    <pc:Glyph id="c1150">
+                        <pc:Coords points="922,689 981,689 981,740 922,740"/>
+                        <pc:TextEquiv conf="0.77182">
+                            <pc:Unicode>M</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1152">
+                        <pc:Coords points="984,701 1000,701 1000,735 984,735"/>
+                        <pc:TextEquiv conf="0.78962">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1154">
+                        <pc:Coords points="1001,702 1025,702 1025,736 1001,736"/>
+                        <pc:TextEquiv conf="0.88212">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1156">
+                        <pc:Coords points="1026,707 1042,707 1042,726 1026,726"/>
+                        <pc:TextEquiv conf="0.80550">
+                            <pc:Unicode>⸗</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74945">
+                        <pc:Unicode>Men⸗</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.76150">
+                    <pc:Unicode>Der Natur SECRETEN vnwienden Men⸗</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l67">
+                <pc:Coords points="142,742 162,742 162,745 190,745 190,755 338,755 338,751 348,751 348,754 452,754 452,751 538,751 538,746 632,746 632,745 660,745 660,746 794,746 794,744 822,744 822,755 940,755 940,753 960,753 960,788 940,788 940,787 708,787 708,788 697,788 697,786 566,786 566,792 538,792 538,785 418,785 418,786 301,786 301,787 283,787 283,788 158,788 158,786 142,786"/>
+                <pc:Word id="w68" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="142,742 162,742 162,745 190,745 190,758 208,758 208,759 233,759 233,787 190,787 190,788 158,788 158,786 142,786"/>
+                    <pc:Glyph id="c1160">
+                        <pc:Coords points="142,742 162,742 162,786 142,786"/>
+                        <pc:TextEquiv conf="0.81667">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1162">
+                        <pc:Coords points="158,745 190,745 190,788 158,788"/>
+                        <pc:TextEquiv conf="0.81451">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1164">
+                        <pc:Coords points="194,758 208,758 208,786 194,786"/>
+                        <pc:TextEquiv conf="0.79350">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1166">
+                        <pc:Coords points="212,759 233,759 233,787 212,787"/>
+                        <pc:TextEquiv conf="0.86573">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.82571">
+                        <pc:Unicode>ſen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w360" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="338,751 348,751 348,757 362,757 362,785 348,785 348,786 301,786 301,787 283,787 283,788 264,788 264,787 244,787 244,755 338,755"/>
+                    <pc:Glyph id="c922">
+                        <pc:Coords points="244,755 262,755 262,787 244,787"/>
+                        <pc:TextEquiv conf="0.78085">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c924">
+                        <pc:Coords points="264,761 283,761 283,788 264,788"/>
+                        <pc:TextEquiv conf="0.83956">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c926">
+                        <pc:Coords points="285,761 301,761 301,787 285,787"/>
+                        <pc:TextEquiv conf="0.82897">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c928">
+                        <pc:Coords points="304,758 336,758 336,785 304,785"/>
+                        <pc:TextEquiv conf="0.87025">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c930">
+                        <pc:Coords points="338,751 348,751 348,786 338,786"/>
+                        <pc:TextEquiv conf="0.76280">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c932">
+                        <pc:Coords points="351,757 362,757 362,785 351,785"/>
+                        <pc:TextEquiv conf="0.78633">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.76251">
+                        <pc:Unicode>darmit</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w80" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="421,754 440,754 440,785 418,785 418,786 397,786 397,785 374,785 374,759 421,759"/>
+                    <pc:Glyph id="c1210">
+                        <pc:Coords points="374,759 393,759 393,785 374,785"/>
+                        <pc:TextEquiv conf="0.71572">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1212">
+                        <pc:Coords points="397,759 418,759 418,786 397,786"/>
+                        <pc:TextEquiv conf="0.76388">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1214">
+                        <pc:Coords points="421,754 440,754 440,785 421,785"/>
+                        <pc:TextEquiv conf="0.68483">
+                            <pc:Unicode>s</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.71849">
+                        <pc:Unicode>aus</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w84" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="452,751 471,751 471,757 523,757 523,785 490,785 490,784 452,784"/>
+                    <pc:Glyph id="c1234">
+                        <pc:Coords points="452,751 471,751 471,784 452,784"/>
+                        <pc:TextEquiv conf="0.82470">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1236">
+                        <pc:Coords points="473,757 485,757 485,783 473,783"/>
+                        <pc:TextEquiv conf="0.69821">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1238">
+                        <pc:Coords points="490,757 523,757 523,785 490,785"/>
+                        <pc:TextEquiv conf="0.84851">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80768">
+                        <pc:Unicode>dem</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w88" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="632,745 660,745 660,748 686,748 686,783 660,783 660,786 566,786 566,792 538,792 538,746 632,746"/>
+                    <pc:Glyph id="c1254">
+                        <pc:Coords points="538,746 566,746 566,792 538,792"/>
+                        <pc:TextEquiv conf="0.75623">
+                            <pc:Unicode>Z</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1256">
+                        <pc:Coords points="569,758 598,758 598,785 569,785"/>
+                        <pc:TextEquiv conf="0.86617">
+                            <pc:Unicode>w</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1258">
+                        <pc:Coords points="603,757 615,757 615,784 603,784"/>
+                        <pc:TextEquiv conf="0.86325">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1260">
+                        <pc:Coords points="618,749 628,749 628,783 618,783"/>
+                        <pc:TextEquiv conf="0.75983">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1262">
+                        <pc:Coords points="632,745 660,745 660,786 632,786"/>
+                        <pc:TextEquiv conf="0.80038">
+                            <pc:Unicode>ﬀ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1264">
+                        <pc:Coords points="659,756 672,756 672,782 659,782"/>
+                        <pc:TextEquiv conf="0.84842">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1266">
+                        <pc:Coords points="677,748 686,748 686,783 677,783"/>
+                        <pc:TextEquiv conf="0.83755">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.75648">
+                        <pc:Unicode>Zweiﬀel</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w398" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="711,755 734,755 734,782 708,782 708,788 697,788 697,756 711,756"/>
+                    <pc:Glyph id="c952">
+                        <pc:Coords points="697,756 708,756 708,788 697,788"/>
+                        <pc:TextEquiv conf="0.74635">
+                            <pc:Unicode>z</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c954">
+                        <pc:Coords points="711,755 734,755 734,782 711,782"/>
+                        <pc:TextEquiv conf="0.82521">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80153">
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w99" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="794,744 822,744 822,755 875,755 875,756 876,756 876,757 877,757 876,757 876,761 875,761 875,762 874,762 874,765 873,765 873,768 872,768 872,773 871,773 871,775 870,775 870,781 869,781 869,783 868,783 868,784 867,784 867,785 836,785 836,786 822,786 822,787 794,787 794,783 745,783 745,746 794,746"/>
+                    <pc:Glyph id="c1298">
+                        <pc:Coords points="745,746 763,746 763,783 745,783"/>
+                        <pc:TextEquiv conf="0.79453">
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1300">
+                        <pc:Coords points="765,755 779,755 779,783 765,783"/>
+                        <pc:TextEquiv conf="0.86928">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1302">
+                        <pc:Coords points="782,748 791,748 791,783 782,783"/>
+                        <pc:TextEquiv conf="0.84875">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1304">
+                        <pc:Coords points="794,744 822,744 822,787 794,787"/>
+                        <pc:TextEquiv conf="0.76996">
+                            <pc:Unicode>ﬀ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1306">
+                        <pc:Coords points="821,756 836,756 836,786 821,786"/>
+                        <pc:TextEquiv conf="0.80751">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1313">
+                        <pc:Coords points="856,757 856,758 857,758 857,759 858,759 858,761 859,761 859,763 860,763 860,776 861,776 861,777 862,777 861,777 861,781 860,781 860,782 859,782 859,783 858,783 858,784 846,784 846,785 844,785 844,784 843,784 843,783 842,783 842,782 841,782 841,780 840,780 840,762 841,762 841,759 842,759 842,758 843,758 843,757"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1314">
+                        <pc:Coords points="875,756 876,756 876,757 877,757 876,757 876,761 875,761 875,762 874,762 874,765 873,765 873,768 872,768 872,773 871,773 871,775 870,775 870,781 869,781 869,783 868,783 868,784 867,784 867,785 866,785 866,784 865,784 865,783 864,783 864,781 865,781 865,780 866,780 866,778 867,778 867,773 868,773 868,772 869,772 869,770 870,770 870,766 871,766 871,763 872,763 872,761 873,761 873,758 874,758 874,756 875,756 875,755"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.77229">
+                        <pc:Unicode>helﬀen/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w106" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="940,753 960,753 960,788 940,788 940,787 889,787 889,756 940,756"/>
+                    <pc:Glyph id="c672">
+                        <pc:Coords points="889,756 911,756 911,787 889,787"/>
+                        <pc:TextEquiv conf="0.82262">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c674">
+                        <pc:Coords points="915,758 937,758 937,787 915,787"/>
+                        <pc:TextEquiv conf="0.78090">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c676">
+                        <pc:Coords points="940,753 960,753 960,788 940,788"/>
+                        <pc:TextEquiv conf="0.75966">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.84200">
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.78584">
+                    <pc:Unicode>ſen darmit aus dem Zweiﬀel zu helﬀen/ vnd</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l110">
+                <pc:Coords points="726,792 745,792 745,794 782,794 782,802 797,802 797,827 782,827 782,828 724,828 724,830 693,830 693,828 642,828 642,827 506,827 506,828 492,828 492,833 456,833 456,831 330,831 330,837 314,837 314,834 301,834 301,799 314,799 314,798 456,798 456,796 492,796 492,797 506,797 506,798 642,798 642,796 660,796 660,795 693,795 693,793 726,793"/>
+                <pc:Word id="w111" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="314,798 330,798 330,805 364,805 364,806 384,806 384,830 364,830 364,831 330,831 330,837 314,837 314,834 301,834 301,799 314,799"/>
+                    <pc:Glyph id="c694">
+                        <pc:Coords points="301,799 312,799 312,834 301,834"/>
+                        <pc:TextEquiv conf="0.77181">
+                            <pc:Unicode>j</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c696">
+                        <pc:Coords points="314,798 330,798 330,837 314,837"/>
+                        <pc:TextEquiv conf="0.73197">
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c698">
+                        <pc:Coords points="332,805 350,805 350,829 332,829"/>
+                        <pc:TextEquiv conf="0.86038">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c700">
+                        <pc:Coords points="351,805 364,805 364,831 351,831"/>
+                        <pc:TextEquiv conf="0.78679">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c702">
+                        <pc:Coords points="366,806 384,806 384,830 366,830"/>
+                        <pc:TextEquiv conf="0.85217">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74132">
+                        <pc:Unicode>jhnen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w431" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="393,798 410,798 410,804 424,804 424,806 446,806 446,829 410,829 410,831 393,831"/>
+                    <pc:Glyph id="c974">
+                        <pc:Coords points="393,798 410,798 410,831 393,831"/>
+                        <pc:TextEquiv conf="0.81307">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c976">
+                        <pc:Coords points="412,804 424,804 424,828 412,828"/>
+                        <pc:TextEquiv conf="0.80397">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c978">
+                        <pc:Coords points="426,806 446,806 446,829 426,829"/>
+                        <pc:TextEquiv conf="0.81908">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.81510">
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w121" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="456,796 492,796 492,797 506,797 506,798 561,798 561,803 576,803 576,804 597,804 597,827 506,827 506,828 492,828 492,833 456,833"/>
+                    <pc:Glyph id="c730">
+                        <pc:Coords points="456,796 492,796 492,833 456,833"/>
+                        <pc:TextEquiv conf="0.81432">
+                            <pc:Unicode>G</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c732">
+                        <pc:Coords points="494,797 506,797 506,828 494,828"/>
+                        <pc:TextEquiv conf="0.82852">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c734">
+                        <pc:Coords points="506,804 524,804 524,827 506,827"/>
+                        <pc:TextEquiv conf="0.82975">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c736">
+                        <pc:Coords points="526,804 543,804 543,827 526,827"/>
+                        <pc:TextEquiv conf="0.87216">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c738">
+                        <pc:Coords points="546,798 561,798 561,826 546,826"/>
+                        <pc:TextEquiv conf="0.76421">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c740">
+                        <pc:Coords points="563,803 576,803 576,826 563,826"/>
+                        <pc:TextEquiv conf="0.82217">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c742">
+                        <pc:Coords points="579,804 597,804 597,827 579,827"/>
+                        <pc:TextEquiv conf="0.85086">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.45122">
+                        <pc:Unicode>Glauben</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w133" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="618,803 628,803 628,804 629,804 629,805 631,805 631,817 633,817 633,820 632,820 632,821 631,821 631,822 629,822 629,823 608,823 608,821 607,821 607,812 606,812 606,810 605,810 605,806 606,806 606,805 609,805 609,804 618,804"/>
+                    <pc:Glyph id="c26">
+                        <pc:Coords points="609,805 610,805 610,806 611,806 611,819 612,819 612,821 611,821 611,823 608,823 608,821 607,821 607,812 606,812 606,810 605,810 605,806 606,806 606,805 609,805 609,804"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c27">
+                        <pc:Coords points="628,803 628,804 629,804 629,805 631,805 631,817 633,817 633,820 632,820 632,821 631,821 631,822 629,822 629,823 618,823 618,822 616,822 616,806 617,806 617,805 618,805 618,803"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.87516">
+                        <pc:Unicode>in</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w135" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="660,795 669,795 669,800 683,800 683,825 658,825 658,828 642,828 642,796 660,796"/>
+                    <pc:Glyph id="c768">
+                        <pc:Coords points="642,796 658,796 658,828 642,828"/>
+                        <pc:TextEquiv conf="0.82503">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c770">
+                        <pc:Coords points="660,795 669,795 669,825 660,825"/>
+                        <pc:TextEquiv conf="0.83059">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c772">
+                        <pc:Coords points="671,800 683,800 683,825 671,825"/>
+                        <pc:TextEquiv conf="0.80953">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.81774">
+                        <pc:Unicode>die</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w139" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="726,792 745,792 745,794 782,794 782,802 797,802 797,827 782,827 782,828 724,828 724,830 693,830 693,793 726,793"/>
+                    <pc:Glyph id="c774">
+                        <pc:Coords points="693,793 724,793 724,830 693,830"/>
+                        <pc:TextEquiv conf="0.69238">
+                            <pc:Unicode>H</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c776">
+                        <pc:Coords points="726,792 745,792 745,827 726,827"/>
+                        <pc:TextEquiv conf="0.73363">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c778">
+                        <pc:Coords points="747,802 766,802 766,827 747,827"/>
+                        <pc:TextEquiv conf="0.87822">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c780">
+                        <pc:Coords points="766,794 782,794 782,828 766,828"/>
+                        <pc:TextEquiv conf="0.84383">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c782">
+                        <pc:Coords points="784,802 797,802 797,827 784,827"/>
+                        <pc:TextEquiv conf="0.77149">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.67822">
+                        <pc:Unicode>Hnde</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.72979">
+                    <pc:Unicode>jhnen den Glauben in die Hnde</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l145">
+                <pc:Coords points="556,835 570,835 570,843 599,843 599,853 610,853 610,862 541,862 541,870 502,870 502,871 491,871 491,845 526,845 526,844 543,844 543,843 556,843"/>
+                <pc:Word id="w31">
+                    <pc:Coords points="491,845 519,845 519,864 502,864 502,871 491,871"/>
+                    <pc:Glyph id="c784">
+                        <pc:Coords points="491,845 502,845 502,871 491,871"/>
+                        <pc:TextEquiv conf="0.62198">
+                            <pc:Unicode>z</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c786">
+                        <pc:Coords points="504,845 519,845 519,864 504,864"/>
+                        <pc:TextEquiv conf="0.79573">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:Word id="w33">
+                    <pc:Coords points="556,835 570,835 570,843 599,843 599,853 610,853 610,862 541,862 541,870 526,870 526,844 543,844 543,843 556,843"/>
+                    <pc:Glyph id="c788">
+                        <pc:Coords points="526,844 541,844 541,870 526,870"/>
+                        <pc:TextEquiv conf="0.78752">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c790">
+                        <pc:Coords points="543,843 553,843 553,862 543,862"/>
+                        <pc:TextEquiv conf="0.83115">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c792">
+                        <pc:Coords points="556,835 570,835 570,862 556,862"/>
+                        <pc:TextEquiv conf="0.80965">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c794">
+                        <pc:Coords points="571,844 582,844 582,862 571,862"/>
+                        <pc:TextEquiv conf="0.75564">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c796">
+                        <pc:Coords points="585,843 599,843 599,862 585,862"/>
+                        <pc:TextEquiv conf="0.86409">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c798">
+                        <pc:Coords points="602,853 610,853 610,862 602,862"/>
+                        <pc:TextEquiv conf="0.68885">
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>geben.</pc:Unicode>
+                    </pc:TextEquiv>
+                </pc:Word>
+                <pc:TextEquiv conf="0.75613">
+                    <pc:Unicode>zu geben.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Aen Vnglaubigen vnd
+Der Natur SECRETEN vnwienden Men⸗
+ſen darmit aus dem Zweiﬀel zu helﬀen/ vnd
+jhnen den Glauben in die Hnde
+zu geben.</pc:Unicode>
+            </pc:TextEquiv>
+            <pc:TextStyle fontFamily="Fraktur; Antiqua"/>
+        </pc:TextRegion>
+        <pc:TextRegion id="r7" type="paragraph" readingDirection="left-to-right" textLineOrder="top-to-bottom" align="centre" primaryLanguage="German">
+            <pc:Coords points="347,1621 383,1621 383,1622 415,1622 415,1624 576,1624 576,1625 644,1625 644,1628 691,1628 691,1634 709,1634 709,1635 740,1635 740,1636 761,1636 761,1702 805,1702 805,1703 871,1703 871,1704 872,1704 872,1705 873,1705 873,1717 874,1717 874,1724 875,1724 875,1725 876,1725 876,1727 882,1727 882,1728 883,1728 883,1729 884,1729 884,1732 885,1732 884,1732 884,1735 883,1735 883,1736 882,1736 882,1738 880,1738 880,1739 856,1739 856,1747 855,1747 855,1748 854,1748 854,1749 853,1749 853,1750 805,1750 805,1753 705,1753 705,1815 666,1815 666,1820 524,1820 524,1821 523,1821 523,1823 521,1823 521,1822 520,1822 520,1821 399,1821 399,1745 390,1745 390,1741 273,1741 273,1733 209,1733 209,1692 347,1692"/>
+            <pc:TextLine id="l530">
+                <pc:Coords points="347,1621 383,1621 383,1622 415,1622 415,1624 576,1624 576,1625 644,1625 644,1628 691,1628 691,1634 709,1634 709,1635 740,1635 740,1636 761,1636 761,1660 691,1660 691,1662 674,1662 674,1660 511,1660 511,1668 497,1668 497,1655 383,1655 383,1658 347,1658"/>
+                <pc:Word id="w532" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="347,1621 383,1621 383,1622 415,1622 415,1624 478,1624 478,1629 491,1629 491,1655 383,1655 383,1658 347,1658"/>
+                    <pc:Glyph id="c1068">
+                        <pc:Coords points="347,1621 383,1621 383,1658 347,1658"/>
+                        <pc:TextEquiv conf="0.79461">
+                            <pc:Unicode>G</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1070">
+                        <pc:Coords points="385,1630 397,1630 397,1654 385,1654"/>
+                        <pc:TextEquiv conf="0.79009">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1072">
+                        <pc:Coords points="398,1622 415,1622 415,1655 398,1655"/>
+                        <pc:TextEquiv conf="0.75937">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1074">
+                        <pc:Coords points="417,1631 432,1631 432,1654 417,1654"/>
+                        <pc:TextEquiv conf="0.76147">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1076">
+                        <pc:Coords points="433,1629 452,1629 452,1654 433,1654"/>
+                        <pc:TextEquiv conf="0.84398">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1078">
+                        <pc:Coords points="455,1624 478,1624 478,1654 455,1654"/>
+                        <pc:TextEquiv conf="0.80023">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1080">
+                        <pc:Coords points="478,1629 491,1629 491,1655 478,1655"/>
+                        <pc:TextEquiv conf="0.74085">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.73852">
+                        <pc:Unicode>Gedrut</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w548" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="497,1628 511,1628 511,1631 534,1631 534,1656 511,1656 511,1668 497,1668"/>
+                    <pc:Glyph id="c1094">
+                        <pc:Coords points="497,1628 511,1628 511,1668 497,1668"/>
+                        <pc:TextEquiv conf="0.65134">
+                            <pc:Unicode>z</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1096">
+                        <pc:Coords points="515,1631 534,1631 534,1656 515,1656"/>
+                        <pc:TextEquiv conf="0.70834">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.73695">
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w13" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="543,1624 576,1624 576,1625 644,1625 644,1628 691,1628 691,1634 709,1634 709,1635 740,1635 740,1636 761,1636 761,1660 691,1660 691,1662 674,1662 674,1660 543,1660"/>
+                    <pc:Glyph id="c746">
+                        <pc:Coords points="543,1624 576,1624 576,1660 543,1660"/>
+                        <pc:TextEquiv conf="0.78356">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c748">
+                        <pc:Coords points="576,1633 603,1633 603,1659 576,1659"/>
+                        <pc:TextEquiv conf="0.87227">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c750">
+                        <pc:Coords points="604,1626 621,1626 621,1659 604,1659"/>
+                        <pc:TextEquiv conf="0.73214">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c752">
+                        <pc:Coords points="624,1625 644,1625 644,1659 624,1659"/>
+                        <pc:TextEquiv conf="0.80270">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c754">
+                        <pc:Coords points="645,1635 655,1635 655,1659 645,1659"/>
+                        <pc:TextEquiv conf="0.83458">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c756">
+                        <pc:Coords points="659,1636 673,1636 673,1658 659,1658"/>
+                        <pc:TextEquiv conf="0.73525">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c758">
+                        <pc:Coords points="674,1628 691,1628 691,1662 674,1662"/>
+                        <pc:TextEquiv conf="0.80106">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c760">
+                        <pc:Coords points="694,1634 709,1634 709,1658 694,1658"/>
+                        <pc:TextEquiv conf="0.74515">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c762">
+                        <pc:Coords points="712,1635 740,1635 740,1659 712,1659"/>
+                        <pc:TextEquiv conf="0.82736">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c764">
+                        <pc:Coords points="746,1636 761,1636 761,1660 746,1660"/>
+                        <pc:TextEquiv conf="0.58680">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.58680">
+                        <pc:Unicode>Amberdam/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.68742">
+                    <pc:Unicode>Gedrut zu Amberdam/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l24">
+                <pc:Coords points="209,1692 253,1692 253,1695 342,1695 342,1697 410,1697 410,1699 452,1699 452,1700 525,1700 525,1701 658,1701 658,1700 691,1700 691,1702 805,1702 805,1703 871,1703 871,1704 872,1704 872,1705 873,1705 873,1717 874,1717 874,1724 875,1724 875,1725 876,1725 876,1727 882,1727 882,1728 883,1728 883,1729 884,1729 884,1732 885,1732 884,1732 884,1735 883,1735 883,1736 882,1736 882,1738 880,1738 880,1739 856,1739 856,1747 855,1747 855,1748 854,1748 854,1749 853,1749 853,1750 805,1750 805,1753 792,1753 792,1747 658,1747 658,1741 586,1741 586,1738 559,1738 559,1737 452,1737 452,1746 422,1746 422,1745 390,1745 390,1741 273,1741 273,1733 209,1733"/>
+                <pc:Word id="w25" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="209,1692 253,1692 253,1702 269,1702 269,1703 291,1703 291,1741 273,1741 273,1733 209,1733"/>
+                    <pc:Glyph id="c856">
+                        <pc:Coords points="209,1692 253,1692 253,1733 209,1733"/>
+                        <pc:TextEquiv conf="0.70785">
+                            <pc:Unicode>B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c858">
+                        <pc:Coords points="255,1702 269,1702 269,1732 255,1732"/>
+                        <pc:TextEquiv conf="0.73277">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c860">
+                        <pc:Coords points="273,1703 291,1703 291,1741 273,1741"/>
+                        <pc:TextEquiv conf="0.73680">
+                            <pc:Unicode>y</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.71269">
+                        <pc:Unicode>Bey</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w29" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="303,1695 342,1695 342,1697 410,1697 410,1745 390,1745 390,1741 303,1741"/>
+                    <pc:Glyph id="c880">
+                        <pc:Coords points="303,1695 342,1695 342,1741 303,1741"/>
+                        <pc:TextEquiv conf="0.74656">
+                            <pc:Unicode>H</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c882">
+                        <pc:Coords points="344,1705 363,1705 363,1734 344,1734"/>
+                        <pc:TextEquiv conf="0.67007">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c884">
+                        <pc:Coords points="366,1706 388,1706 388,1735 366,1735"/>
+                        <pc:TextEquiv conf="0.76484">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c886">
+                        <pc:Coords points="390,1697 410,1697 410,1745 390,1745"/>
+                        <pc:TextEquiv conf="0.61061">
+                            <pc:Unicode>ß</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74414">
+                        <pc:Unicode>Hanß</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w588" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="422,1699 452,1699 452,1700 525,1700 525,1707 574,1707 574,1738 559,1738 559,1737 452,1737 452,1746 422,1746"/>
+                    <pc:Glyph id="c1132">
+                        <pc:Coords points="422,1699 452,1699 452,1746 422,1746"/>
+                        <pc:TextEquiv conf="0.77364">
+                            <pc:Unicode>F</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1134">
+                        <pc:Coords points="456,1708 475,1708 475,1737 456,1737"/>
+                        <pc:TextEquiv conf="0.83903">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1136">
+                        <pc:Coords points="478,1700 495,1700 495,1737 478,1737"/>
+                        <pc:TextEquiv conf="0.83227">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1138">
+                        <pc:Coords points="499,1709 512,1709 512,1737 499,1737"/>
+                        <pc:TextEquiv conf="0.81767">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1140">
+                        <pc:Coords points="514,1700 525,1700 525,1737 514,1737"/>
+                        <pc:TextEquiv conf="0.77082">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1142">
+                        <pc:Coords points="526,1710 549,1710 549,1737 526,1737"/>
+                        <pc:TextEquiv conf="0.85067">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c958">
+                        <pc:Coords points="559,1707 574,1707 574,1738 559,1738"/>
+                        <pc:TextEquiv conf="0.67949">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.76390">
+                        <pc:Unicode>Fabeln/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w43" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="658,1700 691,1700 691,1707 713,1707 713,1713 731,1713 731,1730 741,1730 741,1739 731,1739 731,1741 691,1741 691,1747 658,1747 658,1741 586,1741 586,1701 658,1701"/>
+                    <pc:Glyph id="c962">
+                        <pc:Coords points="586,1701 630,1701 630,1741 586,1741"/>
+                        <pc:TextEquiv conf="0.80846">
+                            <pc:Unicode>B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c964">
+                        <pc:Coords points="633,1712 655,1712 655,1741 633,1741"/>
+                        <pc:TextEquiv conf="0.81037">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c966">
+                        <pc:Coords points="658,1700 691,1700 691,1747 658,1747"/>
+                        <pc:TextEquiv conf="0.86025">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c968">
+                        <pc:Coords points="694,1707 713,1707 713,1741 694,1741"/>
+                        <pc:TextEquiv conf="0.84399">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c970">
+                        <pc:Coords points="714,1713 731,1713 731,1741 714,1741"/>
+                        <pc:TextEquiv conf="0.85845">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c972">
+                        <pc:Coords points="733,1730 741,1730 741,1739 733,1739"/>
+                        <pc:TextEquiv conf="0.92831">
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80789">
+                        <pc:Unicode>Budr.</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w50" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="792,1702 805,1702 805,1703 871,1703 871,1704 872,1704 872,1705 873,1705 873,1717 874,1717 874,1724 875,1724 875,1725 876,1725 876,1727 882,1727 882,1728 883,1728 883,1729 884,1729 884,1732 885,1732 884,1732 884,1735 883,1735 883,1736 882,1736 882,1738 880,1738 880,1739 856,1739 856,1747 855,1747 855,1748 854,1748 854,1749 853,1749 853,1750 805,1750 805,1753 792,1753 792,1743 771,1743 771,1742 750,1742 750,1706 792,1706"/>
+                    <pc:Glyph id="c1008">
+                        <pc:Coords points="750,1706 770,1706 770,1742 750,1742"/>
+                        <pc:TextEquiv conf="0.80040">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1010">
+                        <pc:Coords points="771,1713 790,1713 790,1743 771,1743"/>
+                        <pc:TextEquiv conf="0.81650">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1012">
+                        <pc:Coords points="792,1702 805,1702 805,1753 792,1753"/>
+                        <pc:TextEquiv conf="0.82898">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1014">
+                        <pc:Coords points="803,1713 816,1713 816,1743 803,1743"/>
+                        <pc:TextEquiv conf="0.74659">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1317">
+                        <pc:Coords points="828,1704 828,1708 827,1708 827,1738 826,1738 826,1739 825,1739 825,1740 823,1740 823,1741 822,1741 822,1742 822,1741 821,1741 821,1740 820,1740 820,1739 819,1739 819,1731 820,1731 820,1710 821,1710 821,1709 822,1709 822,1708 825,1708 825,1706 826,1706 826,1705 827,1705 827,1704"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1319">
+                        <pc:Coords points="843,1703 843,1716 845,1716 845,1719 846,1719 846,1723 847,1723 847,1725 846,1725 846,1730 845,1730 845,1731 844,1731 844,1733 843,1733 843,1735 842,1735 842,1736 841,1736 841,1738 840,1738 840,1739 839,1739 839,1740 837,1740 837,1741 836,1741 836,1742 836,1741 835,1741 835,1740 834,1740 834,1738 833,1738 833,1737 832,1737 832,1736 831,1736 831,1731 832,1731 832,1708 834,1708 834,1707 835,1707 835,1706 836,1706 836,1705 837,1705 837,1704 840,1704 840,1703"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1320">
+                        <pc:Coords points="871,1703 871,1704 872,1704 872,1705 873,1705 873,1717 874,1717 874,1724 875,1724 875,1725 876,1725 876,1727 882,1727 882,1728 883,1728 883,1729 884,1729 884,1732 885,1732 884,1732 884,1735 883,1735 883,1736 882,1736 882,1738 880,1738 880,1739 856,1739 856,1747 855,1747 855,1748 854,1748 854,1749 853,1749 853,1750 852,1750 852,1748 851,1748 851,1721 850,1721 850,1716 851,1716 851,1714 852,1714 852,1712 853,1712 853,1710 854,1710 854,1708 855,1708 855,1707 856,1707 856,1706 857,1706 857,1705 858,1705 858,1704 859,1704 859,1703"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.70006">
+                        <pc:Unicode>daſelb</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.75261">
+                    <pc:Unicode>Bey Hanß Fabeln/ Budr. daſelb</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l57">
+                <pc:Coords points="468,1779 495,1779 495,1781 523,1781 523,1782 524,1782 524,1783 525,1783 525,1790 545,1790 545,1791 639,1791 639,1794 694,1794 694,1805 705,1805 705,1815 666,1815 666,1820 524,1820 524,1821 523,1821 523,1823 521,1823 521,1822 520,1822 520,1821 399,1821 399,1781 468,1781"/>
+                <pc:Word id="w58" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="399,1781 429,1781 429,1784 458,1784 458,1814 429,1814 429,1821 399,1821"/>
+                    <pc:Glyph id="c1128">
+                        <pc:Coords points="399,1781 429,1781 429,1821 399,1821"/>
+                        <pc:TextEquiv conf="0.74320">
+                            <pc:Unicode>I</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1130">
+                        <pc:Coords points="431,1784 458,1784 458,1814 431,1814"/>
+                        <pc:TextEquiv conf="0.76480">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.73653">
+                        <pc:Unicode>Im</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w61" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="468,1779 495,1779 495,1781 523,1781 523,1782 524,1782 524,1783 525,1783 525,1790 545,1790 545,1791 546,1791 546,1792 567,1792 567,1820 524,1820 524,1821 523,1821 523,1823 521,1823 521,1822 520,1822 520,1821 519,1821 519,1820 468,1820"/>
+                    <pc:Glyph id="c1144">
+                        <pc:Coords points="468,1779 495,1779 495,1820 468,1820"/>
+                        <pc:TextEquiv conf="0.76926">
+                            <pc:Unicode>J</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1321">
+                        <pc:Coords points="506,1790 508,1790 508,1791 509,1791 509,1792 511,1792 511,1794 512,1794 512,1808 513,1808 512,1808 512,1810 511,1810 511,1812 501,1812 501,1811 500,1811 500,1808 499,1808 499,1801 498,1801 499,1801 499,1800 503,1800 503,1793 504,1793 504,1791 505,1791 505,1790 506,1790 506,1789"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1323">
+                        <pc:Coords points="523,1781 523,1782 524,1782 524,1783 525,1783 525,1792 527,1792 527,1793 528,1793 528,1795 529,1795 529,1801 530,1801 530,1805 529,1805 529,1806 528,1806 528,1812 527,1812 527,1815 526,1815 526,1817 525,1817 525,1819 524,1819 524,1821 523,1821 523,1823 521,1823 521,1822 520,1822 520,1821 519,1821 519,1812 518,1812 518,1811 517,1811 517,1810 516,1810 516,1788 515,1788 515,1786 516,1786 516,1785 517,1785 517,1784 519,1784 519,1783 521,1783 521,1782 522,1782 522,1781"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1324">
+                        <pc:Coords points="545,1790 545,1791 546,1791 546,1792 547,1792 547,1793 548,1793 548,1795 547,1795 547,1797 545,1797 545,1798 544,1798 544,1809 543,1809 543,1810 542,1810 542,1811 540,1811 540,1812 539,1812 539,1813 537,1813 537,1812 536,1812 536,1811 535,1811 535,1810 534,1810 534,1792 535,1792 535,1791 536,1791 536,1790"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1148">
+                        <pc:Coords points="553,1792 567,1792 567,1820 553,1820"/>
+                        <pc:TextEquiv conf="0.80735">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.62657">
+                        <pc:Unicode>Jahr/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w67" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="617,1791 639,1791 639,1794 694,1794 694,1805 705,1805 705,1815 666,1815 666,1820 653,1820 653,1816 617,1816 617,1814 594,1814 594,1793 617,1793"/>
+                    <pc:Glyph id="c1158">
+                        <pc:Coords points="594,1793 605,1793 605,1814 594,1814"/>
+                        <pc:TextEquiv conf="0.77865">
+                            <pc:Unicode>1</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1168">
+                        <pc:Coords points="617,1791 639,1791 639,1816 617,1816"/>
+                        <pc:TextEquiv conf="0.90612">
+                            <pc:Unicode>6</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1192">
+                        <pc:Coords points="653,1794 666,1794 666,1820 653,1820"/>
+                        <pc:TextEquiv conf="0.67959">
+                            <pc:Unicode>5</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1194">
+                        <pc:Coords points="675,1794 694,1794 694,1815 675,1815"/>
+                        <pc:TextEquiv conf="0.78158">
+                            <pc:Unicode>0</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1196">
+                        <pc:Coords points="695,1805 705,1805 705,1815 695,1815"/>
+                        <pc:TextEquiv conf="0.81676">
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.77729">
+                        <pc:Unicode>1650.</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.71494">
+                    <pc:Unicode>Im Jahr/ 1650.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Gedrut zu Amberdam/
+Bey Hanß Fabeln/ Budr. daſelb
+Im Jahr/ 1650.</pc:Unicode>
+            </pc:TextEquiv>
+            <pc:TextStyle fontFamily="Fraktur"/>
+        </pc:TextRegion>
+        <pc:TextRegion id="r5" type="credit" readingDirection="left-to-right" textLineOrder="top-to-bottom" align="centre" primaryLanguage="German">
+            <pc:Coords points="503,925 545,925 545,928 612,928 612,990 735,990 735,988 763,988 763,992 819,992 819,995 877,995 877,996 975,996 975,997 1002,997 1002,998 1003,998 1003,1022 1012,1022 1012,1023 1013,1023 1013,1024 1014,1024 1014,1027 1015,1027 1015,1028 1014,1028 1014,1030 1013,1030 1013,1031 1009,1031 1009,1032 934,1032 934,1033 897,1033 897,1031 844,1031 844,1028 788,1028 788,1025 735,1025 735,1024 674,1024 674,1023 541,1023 541,1025 454,1025 454,1031 444,1031 444,1030 348,1030 348,1029 288,1029 288,1027 228,1027 228,1026 108,1026 108,1029 89,1029 89,979 108,979 108,987 168,987 168,990 226,990 226,995 408,995 408,994 503,994"/>
+            <pc:TextLine id="l476">
+                <pc:Coords points="503,925 545,925 545,928 612,928 612,963 586,963 586,962 503,962"/>
+                <pc:Word id="w478" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="503,925 545,925 545,928 612,928 612,963 586,963 586,962 503,962"/>
+                    <pc:Glyph id="c984">
+                        <pc:Coords points="503,925 545,925 545,962 503,962"/>
+                        <pc:TextEquiv conf="0.78163">
+                            <pc:Unicode>D</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c986">
+                        <pc:Coords points="547,934 566,934 566,958 547,958"/>
+                        <pc:TextEquiv conf="0.88885">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c988">
+                        <pc:Coords points="568,934 584,934 584,958 568,958"/>
+                        <pc:TextEquiv conf="0.84418">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c990">
+                        <pc:Coords points="586,928 612,928 612,963 586,963"/>
+                        <pc:TextEquiv conf="0.83193">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.78163">
+                        <pc:Unicode>Dur</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.78163">
+                    <pc:Unicode>Dur</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l488">
+                <pc:Coords points="89,979 108,979 108,987 168,987 168,990 226,990 226,995 408,995 408,994 506,994 506,992 619,992 619,990 735,990 735,988 763,988 763,992 819,992 819,995 877,995 877,996 975,996 975,997 1002,997 1002,998 1003,998 1003,1022 1012,1022 1012,1023 1013,1023 1013,1024 1014,1024 1014,1027 1015,1027 1015,1028 1014,1028 1014,1030 1013,1030 1013,1031 1009,1031 1009,1032 934,1032 934,1033 897,1033 897,1031 844,1031 844,1028 788,1028 788,1025 735,1025 735,1024 674,1024 674,1023 541,1023 541,1025 454,1025 454,1031 444,1031 444,1030 348,1030 348,1029 288,1029 288,1027 228,1027 228,1026 108,1026 108,1029 89,1029"/>
+                <pc:Word id="w490" readingDirection="left-to-right">
+                    <pc:Coords points="89,979 108,979 108,987 168,987 168,990 226,990 226,1018 237,1018 237,1027 228,1027 228,1026 108,1026 108,1029 89,1029"/>
+                    <pc:Glyph id="c1000">
+                        <pc:Coords points="89,979 108,979 108,1029 89,1029"/>
+                        <pc:TextEquiv conf="0.88341">
+                            <pc:Unicode>J</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1002">
+                        <pc:Coords points="132,987 168,987 168,1022 132,1022"/>
+                        <pc:TextEquiv conf="0.88319">
+                            <pc:Unicode>O</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1004">
+                        <pc:Coords points="192,990 226,990 226,1026 192,1026"/>
+                        <pc:TextEquiv conf="0.83421">
+                            <pc:Unicode>H</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1006">
+                        <pc:Coords points="228,1018 237,1018 237,1027 228,1027"/>
+                        <pc:TextEquiv conf="0.93433">
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.83857">
+                        <pc:Unicode>JOH.</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:Word id="w500" readingDirection="left-to-right">
+                    <pc:Coords points="408,994 443,994 443,1021 454,1021 454,1031 444,1031 444,1030 348,1030 348,1029 288,1029 288,995 408,995"/>
+                    <pc:Glyph id="c1018">
+                        <pc:Coords points="288,995 323,995 323,1029 288,1029"/>
+                        <pc:TextEquiv conf="0.80134">
+                            <pc:Unicode>R</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1020">
+                        <pc:Coords points="348,996 385,996 385,1030 348,1030"/>
+                        <pc:TextEquiv conf="0.86662">
+                            <pc:Unicode>U</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1022">
+                        <pc:Coords points="408,994 443,994 443,1027 408,1027"/>
+                        <pc:TextEquiv conf="0.91072">
+                            <pc:Unicode>D</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1024">
+                        <pc:Coords points="444,1021 454,1021 454,1031 444,1031"/>
+                        <pc:TextEquiv conf="0.87209">
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.70872">
+                        <pc:Unicode>RUD.</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:Word id="w510" readingDirection="left-to-right">
+                    <pc:Coords points="735,988 763,988 763,992 819,992 819,995 877,995 877,996 975,996 975,997 1002,997 1002,998 1003,998 1003,1022 1012,1022 1012,1023 1013,1023 1013,1024 1014,1024 1014,1027 1015,1027 1015,1028 1014,1028 1014,1030 1013,1030 1013,1031 1009,1031 1009,1032 934,1032 934,1033 897,1033 897,1031 844,1031 844,1028 788,1028 788,1025 735,1025 735,1024 674,1024 674,1023 541,1023 541,1025 506,1025 506,992 619,992 619,990 735,990"/>
+                    <pc:Glyph id="c1044">
+                        <pc:Coords points="506,992 541,992 541,1025 506,1025"/>
+                        <pc:TextEquiv conf="0.81687">
+                            <pc:Unicode>G</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1046">
+                        <pc:Coords points="568,993 596,993 596,1023 568,1023"/>
+                        <pc:TextEquiv conf="0.68145">
+                            <pc:Unicode>L</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1048">
+                        <pc:Coords points="619,990 648,990 648,1022 619,1022"/>
+                        <pc:TextEquiv conf="0.79890">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1050">
+                        <pc:Coords points="674,991 711,991 711,1024 674,1024"/>
+                        <pc:TextEquiv conf="0.87600">
+                            <pc:Unicode>U</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1052">
+                        <pc:Coords points="735,988 763,988 763,1025 735,1025"/>
+                        <pc:TextEquiv conf="0.84141">
+                            <pc:Unicode>B</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1054">
+                        <pc:Coords points="788,992 819,992 819,1028 788,1028"/>
+                        <pc:TextEquiv conf="0.77481">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1056">
+                        <pc:Coords points="844,995 877,995 877,1031 844,1031"/>
+                        <pc:TextEquiv conf="0.75827">
+                            <pc:Unicode>R</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1058">
+                        <pc:Coords points="897,998 934,998 934,1033 897,1033"/>
+                        <pc:TextEquiv conf="0.82769">
+                            <pc:Unicode>U</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1315">
+                        <pc:Coords points="975,996 975,997 1002,997 1002,998 1003,998 1003,1028 1002,1028 1002,1029 1001,1029 1001,1030 966,1030 966,1031 965,1031 965,1030 964,1030 964,997 965,997 965,996"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>M</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1316">
+                        <pc:Coords points="1012,1022 1012,1023 1013,1023 1013,1024 1014,1024 1014,1027 1015,1027 1015,1028 1014,1028 1014,1030 1013,1030 1013,1031 1009,1031 1009,1032 1009,1031 1007,1031 1007,1030 1006,1030 1006,1027 1007,1027 1007,1025 1008,1025 1008,1024 1009,1024 1009,1023 1010,1023 1010,1022"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>.</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.66166">
+                        <pc:Unicode>GLAUBERUM.</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.73631">
+                    <pc:Unicode>JOH. RUD. GLAUBERUM.</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>Dur
+JOH. RUD. GLAUBERUM.</pc:Unicode>
+            </pc:TextEquiv>
+            <pc:TextStyle fontFamily="Fraktur; Antiqua"/>
+        </pc:TextRegion>
+        <pc:TextRegion id="r0" type="heading" readingDirection="left-to-right" textLineOrder="top-to-bottom" align="centre" primaryLanguage="German" secondaryLanguage="Latin">
+            <pc:Coords points="166,150 203,150 203,152 350,152 350,156 556,156 556,157 815,157 815,159 877,159 877,160 933,160 933,290 1044,290 1044,340 1043,340 1043,478 1012,478 1012,535 895,535 895,582 852,582 852,581 723,581 723,583 630,583 630,624 595,624 595,623 478,623 478,584 393,584 393,583 280,583 280,589 264,589 264,582 237,582 237,581 213,581 213,533 150,533 150,532 100,532 100,468 66,468 66,324 65,324 65,277 166,277"/>
+            <pc:TextLine id="l1">
+                <pc:Coords points="166,150 203,150 203,152 350,152 350,156 556,156 556,157 815,157 815,159 877,159 877,160 933,160 933,199 844,199 844,198 773,198 773,196 626,196 626,198 587,198 587,197 518,197 518,194 306,194 306,191 234,191 234,189 166,189"/>
+                <pc:Word id="w2" language="Latin" readingDirection="left-to-right">
+                    <pc:Coords points="166,150 203,150 203,152 350,152 350,156 556,156 556,157 815,157 815,159 877,159 877,160 933,160 933,199 844,199 844,198 773,198 773,196 626,196 626,198 587,198 587,197 518,197 518,194 306,194 306,191 234,191 234,189 166,189"/>
+                    <pc:Glyph id="c826">
+                        <pc:Coords points="166,150 203,150 203,189 166,189"/>
+                        <pc:TextEquiv conf="0.80476">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c828">
+                        <pc:Coords points="234,152 275,152 275,191 234,191"/>
+                        <pc:TextEquiv conf="0.88430">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c830">
+                        <pc:Coords points="306,152 350,152 350,194 306,194"/>
+                        <pc:TextEquiv conf="0.86519">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c832">
+                        <pc:Coords points="380,156 420,156 420,194 380,194"/>
+                        <pc:TextEquiv conf="0.85583">
+                            <pc:Unicode>O</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c834">
+                        <pc:Coords points="452,156 490,156 490,193 452,193"/>
+                        <pc:TextEquiv conf="0.84597">
+                            <pc:Unicode>T</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c836">
+                        <pc:Coords points="518,156 556,156 556,197 518,197"/>
+                        <pc:TextEquiv conf="0.77787">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c838">
+                        <pc:Coords points="587,158 626,158 626,198 587,198"/>
+                        <pc:TextEquiv conf="0.79986">
+                            <pc:Unicode>T</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c840">
+                        <pc:Coords points="655,157 672,157 672,196 655,196"/>
+                        <pc:TextEquiv conf="0.92718">
+                            <pc:Unicode>I</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c842">
+                        <pc:Coords points="703,157 743,157 743,196 703,196"/>
+                        <pc:TextEquiv conf="0.87295">
+                            <pc:Unicode>O</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c844">
+                        <pc:Coords points="773,157 815,157 815,198 773,198"/>
+                        <pc:TextEquiv conf="0.87877">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c846">
+                        <pc:Coords points="844,159 877,159 877,199 844,199"/>
+                        <pc:TextEquiv conf="0.81518">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c848">
+                        <pc:Coords points="906,160 933,160 933,199 906,199"/>
+                        <pc:TextEquiv conf="0.80362">
+                            <pc:Unicode>S</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.78286">
+                        <pc:Unicode>ANNOTATIONES</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.78286">
+                    <pc:Unicode>ANNOTATIONES</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l15">
+                <pc:Coords points="467,221 512,221 512,225 533,225 533,229 597,229 597,235 639,235 639,263 569,263 569,264 516,264 516,262 467,262"/>
+                <pc:Word id="w14" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="467,221 512,221 512,225 533,225 533,236 550,236 550,237 569,237 569,264 516,264 516,262 467,262"/>
+                    <pc:Glyph id="c800">
+                        <pc:Coords points="467,221 512,221 512,262 467,262"/>
+                        <pc:TextEquiv conf="0.82487">
+                            <pc:Unicode>V</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c802">
+                        <pc:Coords points="516,225 533,225 533,264 516,264"/>
+                        <pc:TextEquiv conf="0.85069">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c804">
+                        <pc:Coords points="536,236 550,236 550,264 536,264"/>
+                        <pc:TextEquiv conf="0.81543">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c806">
+                        <pc:Coords points="553,237 569,237 569,264 553,264"/>
+                        <pc:TextEquiv conf="0.84205">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Vber</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w15" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="579,229 597,229 597,235 639,235 639,263 579,263"/>
+                    <pc:Glyph id="c808">
+                        <pc:Coords points="579,229 597,229 597,263 579,263"/>
+                        <pc:TextEquiv conf="0.83941">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c810">
+                        <pc:Coords points="599,236 614,236 614,263 599,263"/>
+                        <pc:TextEquiv conf="0.82149">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c812">
+                        <pc:Coords points="617,235 639,235 639,263 617,263"/>
+                        <pc:TextEquiv conf="0.80797">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>den</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.80797">
+                    <pc:Unicode>Vber den</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l28">
+                <pc:Coords points="65,277 106,277 106,282 206,282 206,287 310,287 310,289 463,289 463,288 629,288 629,289 708,289 708,290 823,290 823,291 984,291 984,290 1044,290 1044,340 984,340 984,337 780,337 780,335 629,335 629,336 577,336 577,335 365,335 365,333 276,333 276,328 174,328 174,324 65,324"/>
+                <pc:Word id="w30" language="Latin" readingDirection="left-to-right">
+                    <pc:Coords points="65,277 106,277 106,282 206,282 206,287 310,287 310,289 463,289 463,288 629,288 629,289 708,289 708,290 823,290 823,291 984,291 984,290 1044,290 1044,340 984,340 984,337 780,337 780,335 629,335 629,336 577,336 577,335 365,335 365,333 276,333 276,328 174,328 174,324 65,324"/>
+                    <pc:Glyph id="c888">
+                        <pc:Coords points="65,277 106,277 106,324 65,324"/>
+                        <pc:TextEquiv conf="0.83962">
+                            <pc:Unicode>A</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c890">
+                        <pc:Coords points="174,282 206,282 206,328 174,328"/>
+                        <pc:TextEquiv conf="0.82583">
+                            <pc:Unicode>P</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c892">
+                        <pc:Coords points="276,287 310,287 310,333 276,333"/>
+                        <pc:TextEquiv conf="0.83831">
+                            <pc:Unicode>P</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c894">
+                        <pc:Coords points="365,289 406,289 406,335 365,335"/>
+                        <pc:TextEquiv conf="0.85800">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c896">
+                        <pc:Coords points="463,288 513,288 513,335 463,335"/>
+                        <pc:TextEquiv conf="0.92404">
+                            <pc:Unicode>N</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c898">
+                        <pc:Coords points="577,288 629,288 629,336 577,336"/>
+                        <pc:TextEquiv conf="0.90491">
+                            <pc:Unicode>D</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c900">
+                        <pc:Coords points="686,289 708,289 708,335 686,335"/>
+                        <pc:TextEquiv conf="0.91884">
+                            <pc:Unicode>I</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c902">
+                        <pc:Coords points="780,290 823,290 823,337 780,337"/>
+                        <pc:TextEquiv conf="0.90132">
+                            <pc:Unicode>C</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c904">
+                        <pc:Coords points="886,291 929,291 929,337 886,337"/>
+                        <pc:TextEquiv conf="0.81690">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c906">
+                        <pc:Coords points="984,290 1044,290 1044,340 984,340"/>
+                        <pc:TextEquiv conf="0.88035">
+                            <pc:Unicode>M</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.81690">
+                        <pc:Unicode>APPENDICEM</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua" letterSpaced="true"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.81690">
+                    <pc:Unicode>APPENDICEM</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l52">
+                <pc:Coords points="377,364 423,364 423,367 476,367 476,373 578,373 578,366 607,366 607,367 643,367 643,368 692,368 692,371 726,371 726,399 692,399 692,400 607,400 607,402 536,402 536,410 523,410 523,402 452,402 452,398 377,398"/>
+                <pc:Word id="w54" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="377,364 423,364 423,367 476,367 476,375 490,375 490,376 507,376 507,397 490,397 490,398 476,398 476,402 452,402 452,398 377,398"/>
+                    <pc:Glyph id="c1082">
+                        <pc:Coords points="377,364 423,364 423,398 377,398"/>
+                        <pc:TextEquiv conf="0.77138">
+                            <pc:Unicode>W</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1084">
+                        <pc:Coords points="425,375 437,375 437,396 425,396"/>
+                        <pc:TextEquiv conf="0.79932">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1086">
+                        <pc:Coords points="439,367 451,367 451,398 439,398"/>
+                        <pc:TextEquiv conf="0.81822">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1088">
+                        <pc:Coords points="452,367 476,367 476,402 452,402"/>
+                        <pc:TextEquiv conf="0.77200">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1090">
+                        <pc:Coords points="479,375 490,375 490,398 479,398"/>
+                        <pc:TextEquiv conf="0.82467">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1092">
+                        <pc:Coords points="491,376 507,376 507,397 491,397"/>
+                        <pc:TextEquiv conf="0.83576">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.77007">
+                        <pc:Unicode>Weler</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w9" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="523,373 536,373 536,375 559,375 559,400 536,400 536,410 523,410"/>
+                    <pc:Glyph id="c1268">
+                        <pc:Coords points="523,373 536,373 536,410 523,410"/>
+                        <pc:TextEquiv conf="0.59250">
+                            <pc:Unicode>z</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1270">
+                        <pc:Coords points="539,375 559,375 559,400 539,400"/>
+                        <pc:TextEquiv conf="0.70859">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.68102">
+                        <pc:Unicode>zu</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w12" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="578,366 607,366 607,367 643,367 643,374 658,374 658,399 607,399 607,402 578,402"/>
+                    <pc:Glyph id="c722">
+                        <pc:Coords points="578,366 607,366 607,402 578,402"/>
+                        <pc:TextEquiv conf="0.77869">
+                            <pc:Unicode>E</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c724">
+                        <pc:Coords points="608,376 626,376 626,399 608,399"/>
+                        <pc:TextEquiv conf="0.88277">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c726">
+                        <pc:Coords points="627,367 643,367 643,399 627,399"/>
+                        <pc:TextEquiv conf="0.84590">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c728">
+                        <pc:Coords points="646,374 658,374 658,399 646,399"/>
+                        <pc:TextEquiv conf="0.83689">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.78689">
+                        <pc:Unicode>Ende</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w17" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="675,368 692,368 692,371 726,371 726,399 692,399 692,400 675,400"/>
+                    <pc:Glyph id="c814">
+                        <pc:Coords points="675,368 692,368 692,400 675,400"/>
+                        <pc:TextEquiv conf="0.84106">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c816">
+                        <pc:Coords points="695,375 704,375 704,399 695,399"/>
+                        <pc:TextEquiv conf="0.84759">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c818">
+                        <pc:Coords points="707,371 726,371 726,399 707,399"/>
+                        <pc:TextEquiv conf="0.73551">
+                            <pc:Unicode>s</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.73551">
+                        <pc:Unicode>des</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.74337">
+                    <pc:Unicode>Weler zu Ende des</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l84">
+                <pc:Coords points="66,400 105,400 105,413 191,413 191,417 326,417 326,420 475,420 475,417 625,417 625,416 640,416 640,420 755,420 755,418 774,418 774,419 904,419 904,420 973,420 973,421 976,421 976,422 979,422 979,423 980,423 980,431 1043,431 1043,478 968,478 968,482 967,482 967,479 966,479 966,477 819,477 819,478 774,478 774,480 702,480 702,481 674,481 674,477 559,477 559,484 530,484 530,483 475,483 475,474 356,474 356,480 328,480 328,474 279,474 279,473 174,473 174,468 66,468"/>
+                <pc:Word id="w86" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="66,400 105,400 105,413 191,413 191,425 211,425 211,433 268,433 268,471 191,471 191,473 174,473 174,468 66,468"/>
+                    <pc:Glyph id="c1240">
+                        <pc:Coords points="66,400 105,400 105,468 66,468"/>
+                        <pc:TextEquiv conf="0.76768">
+                            <pc:Unicode>F</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1242">
+                        <pc:Coords points="109,414 141,414 141,465 109,465"/>
+                        <pc:TextEquiv conf="0.83380">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1244">
+                        <pc:Coords points="142,428 170,428 170,466 142,466"/>
+                        <pc:TextEquiv conf="0.89514">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1246">
+                        <pc:Coords points="174,413 191,413 191,473 174,473"/>
+                        <pc:TextEquiv conf="0.76413">
+                            <pc:Unicode>f</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1248">
+                        <pc:Coords points="195,425 211,425 211,468 195,468"/>
+                        <pc:TextEquiv conf="0.84103">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1250">
+                        <pc:Coords points="215,433 234,433 234,470 215,470"/>
+                        <pc:TextEquiv conf="0.86893">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1252">
+                        <pc:Coords points="238,433 268,433 268,471 238,471"/>
+                        <pc:TextEquiv conf="0.85620">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74792">
+                        <pc:Unicode>Fnften</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w16" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="279,417 326,417 326,420 413,420 413,425 447,425 447,431 471,431 471,472 413,472 413,474 356,474 356,480 328,480 328,474 279,474"/>
+                    <pc:Glyph id="c3">
+                        <pc:Coords points="279,417 326,417 326,474 279,474"/>
+                        <pc:TextEquiv conf="0.75861">
+                            <pc:Unicode>T</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c4">
+                        <pc:Coords points="328,420 356,420 356,480 328,480"/>
+                        <pc:TextEquiv conf="0.82224">
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c5">
+                        <pc:Coords points="361,434 380,434 380,472 361,472"/>
+                        <pc:TextEquiv conf="0.85024">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c6">
+                        <pc:Coords points="382,423 396,423 396,472 382,472"/>
+                        <pc:TextEquiv conf="0.77495">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c7">
+                        <pc:Coords points="398,420 413,420 413,474 398,474"/>
+                        <pc:TextEquiv conf="0.81202">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c8">
+                        <pc:Coords points="416,425 447,425 447,471 416,471"/>
+                        <pc:TextEquiv conf="0.74323">
+                            <pc:Unicode>s</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c9">
+                        <pc:Coords points="448,431 471,431 471,472 448,472"/>
+                        <pc:TextEquiv conf="0.86838">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Theils/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w18" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="625,416 640,416 640,420 755,420 755,418 774,418 774,419 819,419 819,434 869,434 869,474 819,474 819,478 774,478 774,480 702,480 702,481 674,481 674,477 559,477 559,484 530,484 530,483 475,483 475,417 625,417"/>
+                    <pc:Glyph id="c10">
+                        <pc:Coords points="475,417 526,417 526,483 475,483"/>
+                        <pc:TextEquiv conf="0.74969">
+                            <pc:Unicode>P</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c11">
+                        <pc:Coords points="530,421 559,421 559,484 530,484"/>
+                        <pc:TextEquiv conf="0.79692">
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c12">
+                        <pc:Coords points="560,423 577,423 577,471 560,471"/>
+                        <pc:TextEquiv conf="0.79519">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c13">
+                        <pc:Coords points="578,419 593,419 593,472 578,472"/>
+                        <pc:TextEquiv conf="0.87951">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c14">
+                        <pc:Coords points="596,431 621,431 621,472 596,472"/>
+                        <pc:TextEquiv conf="0.82446">
+                            <pc:Unicode>o</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c15">
+                        <pc:Coords points="625,416 640,416 640,477 625,477"/>
+                        <pc:TextEquiv conf="0.79134">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c16">
+                        <pc:Coords points="643,431 670,431 670,472 643,472"/>
+                        <pc:TextEquiv conf="0.86622">
+                            <pc:Unicode>o</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c17">
+                        <pc:Coords points="674,432 702,432 702,481 674,481"/>
+                        <pc:TextEquiv conf="0.84877">
+                            <pc:Unicode>p</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c18">
+                        <pc:Coords points="707,420 737,420 737,478 707,478"/>
+                        <pc:TextEquiv conf="0.85338">
+                            <pc:Unicode>h</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c19">
+                        <pc:Coords points="738,423 753,423 753,471 738,471"/>
+                        <pc:TextEquiv conf="0.84014">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c20">
+                        <pc:Coords points="755,418 774,418 774,480 755,480"/>
+                        <pc:TextEquiv conf="0.78452">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c21">
+                        <pc:Coords points="773,419 819,419 819,478 773,478"/>
+                        <pc:TextEquiv conf="0.84561">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c22">
+                        <pc:Coords points="823,435 844,435 844,473 823,473"/>
+                        <pc:TextEquiv conf="0.87972">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c23">
+                        <pc:Coords points="846,434 869,434 869,474 846,474"/>
+                        <pc:TextEquiv conf="0.89305">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv>
+                        <pc:Unicode>Philoſophiſer</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w32" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="898,419 904,419 904,420 973,420 973,421 976,421 976,422 979,422 979,423 980,423 980,431 1043,431 1043,478 968,478 968,482 967,482 967,479 966,479 966,477 905,477 905,476 902,476 902,475 901,475 901,474 899,474 899,473 897,473 897,472 882,472 882,471 881,471 881,470 880,470 880,468 881,468 881,467 882,467 882,466 883,466 883,441 884,441 884,439 885,439 885,438 886,438 886,437 887,437 887,436 888,436 888,434 889,434 889,432 890,432 890,430 891,430 891,428 892,428 892,427 893,427 893,426 894,426 894,425 895,425 895,424 896,424 896,422 897,422 897,421 898,421"/>
+                    <pc:Glyph id="c1309">
+                        <pc:Coords points="904,419 904,420 905,420 905,421 906,421 906,422 907,422 907,423 908,423 908,424 910,424 910,425 920,425 920,426 923,426 923,427 925,427 925,428 926,428 926,429 928,429 928,430 929,430 929,431 930,431 930,432 931,432 931,433 932,433 932,434 933,434 933,436 934,436 934,437 935,437 935,439 936,439 936,440 937,440 937,442 938,442 938,454 937,454 937,456 936,456 936,459 935,459 935,462 934,462 934,464 933,464 933,465 932,465 932,466 931,466 931,468 930,468 930,469 929,469 929,470 928,470 928,471 926,471 926,472 925,472 925,473 921,473 921,474 919,474 919,475 918,475 918,476 914,476 914,477 905,477 905,476 902,476 902,475 901,475 901,474 899,474 899,473 897,473 897,472 882,472 882,471 881,471 881,470 880,470 880,468 881,468 881,467 882,467 882,466 883,466 883,441 884,441 884,439 885,439 885,438 886,438 886,437 887,437 887,436 888,436 888,434 889,434 889,432 890,432 890,430 891,430 891,428 892,428 892,427 893,427 893,426 894,426 894,425 895,425 895,424 896,424 896,422 897,422 897,421 898,421 898,419"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>O</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1312">
+                        <pc:Coords points="958,438 959,438 959,439 960,439 960,442 961,442 961,447 962,447 961,447 961,467 960,467 960,468 959,468 959,469 958,469 958,470 956,470 956,471 955,471 955,472 954,472 954,473 953,473 953,474 952,474 952,475 951,475 951,474 950,474 950,473 949,473 949,472 947,472 947,471 946,471 946,470 945,470 945,469 944,469 944,468 943,468 943,451 944,451 944,450 945,450 945,448 946,448 946,447 947,447 947,446 948,446 948,444 949,444 949,443 951,443 951,442 952,442 952,441 953,441 953,440 954,440 954,439 956,439 956,438 958,438 958,437"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1311">
+                        <pc:Coords points="973,421 976,421 976,422 979,422 979,423 980,423 980,437 981,437 981,474 969,474 969,476 968,476 968,482 967,482 967,479 966,479 966,459 965,459 965,443 966,443 966,433 967,433 967,432 968,432 968,429 969,429 969,428 970,428 970,426 971,426 971,423 972,423 972,422 973,422 973,420"/>
+                        <pc:TextEquiv>
+                            <pc:Unicode>f</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c912">
+                        <pc:Coords points="985,437 1006,437 1006,475 985,475"/>
+                        <pc:TextEquiv conf="0.88450">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c914">
+                        <pc:Coords points="1009,431 1043,431 1043,478 1009,478"/>
+                        <pc:TextEquiv conf="0.74932">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74932">
+                        <pc:Unicode>Oefen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.75053">
+                    <pc:Unicode>Fnften Theils/ Philoſophiſer Oefen</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l36">
+                <pc:Coords points="150,483 171,483 171,494 197,494 197,496 243,496 243,498 351,498 351,491 373,491 373,499 521,499 521,498 547,498 547,490 613,490 613,488 726,488 726,487 738,487 738,490 794,490 794,500 919,500 919,498 989,498 989,497 1012,497 1012,535 889,535 889,543 864,543 864,537 667,537 667,538 628,538 628,537 613,537 613,529 425,529 425,531 399,531 399,530 273,530 273,533 150,533 150,532 100,532 100,491 150,491"/>
+                <pc:Word id="w37" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="150,483 171,483 171,494 197,494 197,496 243,496 243,498 273,498 273,533 150,533 150,532 100,532 100,491 150,491"/>
+                    <pc:Glyph id="c934">
+                        <pc:Coords points="100,491 125,491 125,532 100,532"/>
+                        <pc:TextEquiv conf="0.71045">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c936">
+                        <pc:Coords points="129,493 144,493 144,523 129,523"/>
+                        <pc:TextEquiv conf="0.79892">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c938">
+                        <pc:Coords points="150,483 171,483 171,533 150,533"/>
+                        <pc:TextEquiv conf="0.75071">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c940">
+                        <pc:Coords points="168,496 183,496 183,526 168,526"/>
+                        <pc:TextEquiv conf="0.80330">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c942">
+                        <pc:Coords points="186,494 197,494 197,497 207,497 207,533 194,533 194,526 186,526"/>
+                        <pc:TextEquiv conf="0.72517">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c946">
+                        <pc:Coords points="210,498 224,498 224,527 210,527"/>
+                        <pc:TextEquiv conf="0.80176">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c948">
+                        <pc:Coords points="227,496 243,496 243,528 227,528"/>
+                        <pc:TextEquiv conf="0.83776">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c982">
+                        <pc:Coords points="252,498 273,498 273,533 252,533"/>
+                        <pc:TextEquiv conf="0.73529">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.70090">
+                        <pc:Unicode>geſeet/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w48" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="351,491 373,491 373,530 351,530 351,529 298,529 298,500 351,500"/>
+                    <pc:Glyph id="c992">
+                        <pc:Coords points="298,500 323,500 323,529 298,529"/>
+                        <pc:TextEquiv conf="0.89829">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c994">
+                        <pc:Coords points="325,501 348,501 348,529 325,529"/>
+                        <pc:TextEquiv conf="0.80086">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c996">
+                        <pc:Coords points="351,491 373,491 373,530 351,530"/>
+                        <pc:TextEquiv conf="0.85640">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80779">
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w52" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="452,499 475,499 475,529 425,529 425,531 399,531 399,501 428,501 428,500 452,500"/>
+                    <pc:Glyph id="c1062">
+                        <pc:Coords points="399,501 425,501 425,531 399,531"/>
+                        <pc:TextEquiv conf="0.86488">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1064">
+                        <pc:Coords points="428,500 449,500 449,529 428,529"/>
+                        <pc:TextEquiv conf="0.77071">
+                            <pc:Unicode>o</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1066">
+                        <pc:Coords points="452,499 475,499 475,529 452,529"/>
+                        <pc:TextEquiv conf="0.80878">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.85921">
+                        <pc:Unicode>von</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w56" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="726,487 738,487 738,490 794,490 794,500 814,500 814,501 839,501 839,531 794,531 794,537 667,537 667,538 628,538 628,537 613,537 613,529 495,529 495,500 521,500 521,498 547,498 547,490 613,490 613,488 726,488"/>
+                    <pc:Glyph id="c1098">
+                        <pc:Coords points="495,500 520,500 520,529 495,529"/>
+                        <pc:TextEquiv conf="0.88715">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1100">
+                        <pc:Coords points="521,498 545,498 545,529 521,529"/>
+                        <pc:TextEquiv conf="0.89913">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1102">
+                        <pc:Coords points="547,490 569,490 569,528 547,528"/>
+                        <pc:TextEquiv conf="0.82499">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1104">
+                        <pc:Coords points="572,499 587,499 587,529 572,529"/>
+                        <pc:TextEquiv conf="0.80413">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1106">
+                        <pc:Coords points="590,498 609,498 609,529 590,529"/>
+                        <pc:TextEquiv conf="0.77329">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1108">
+                        <pc:Coords points="613,488 631,488 631,537 613,537"/>
+                        <pc:TextEquiv conf="0.81364">
+                            <pc:Unicode>ſ</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1110">
+                        <pc:Coords points="628,489 667,489 667,538 628,538"/>
+                        <pc:TextEquiv conf="0.82537">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1112">
+                        <pc:Coords points="668,489 681,489 681,531 668,531"/>
+                        <pc:TextEquiv conf="0.81211">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1114">
+                        <pc:Coords points="683,500 698,500 698,530 683,530"/>
+                        <pc:TextEquiv conf="0.80780">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1116">
+                        <pc:Coords points="700,493 722,493 722,532 700,532"/>
+                        <pc:TextEquiv conf="0.84934">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1118">
+                        <pc:Coords points="726,487 738,487 738,529 726,529"/>
+                        <pc:TextEquiv conf="0.78485">
+                            <pc:Unicode>l</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1120">
+                        <pc:Coords points="741,491 752,491 752,529 741,529"/>
+                        <pc:TextEquiv conf="0.81172">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1122">
+                        <pc:Coords points="756,490 794,490 794,537 756,537"/>
+                        <pc:TextEquiv conf="0.79733">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1124">
+                        <pc:Coords points="798,500 814,500 814,530 798,530"/>
+                        <pc:TextEquiv conf="0.89495">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1126">
+                        <pc:Coords points="815,501 839,501 839,531 815,531"/>
+                        <pc:TextEquiv conf="0.83997">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.78144">
+                        <pc:Unicode>vnderſiedlien</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w73" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="989,497 1012,497 1012,535 889,535 889,543 864,543 864,500 919,500 919,498 989,498"/>
+                    <pc:Glyph id="c1198">
+                        <pc:Coords points="864,500 889,500 889,543 864,543"/>
+                        <pc:TextEquiv conf="0.82121">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1200">
+                        <pc:Coords points="891,500 917,500 917,531 891,531"/>
+                        <pc:TextEquiv conf="0.86597">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1202">
+                        <pc:Coords points="919,498 934,498 934,533 919,533"/>
+                        <pc:TextEquiv conf="0.85189">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1204">
+                        <pc:Coords points="936,500 953,500 953,534 936,534"/>
+                        <pc:TextEquiv conf="0.82082">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1206">
+                        <pc:Coords points="955,502 979,502 979,534 955,534"/>
+                        <pc:TextEquiv conf="0.85572">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1208">
+                        <pc:Coords points="989,497 1012,497 1012,535 989,535"/>
+                        <pc:TextEquiv conf="0.74816">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.82063">
+                        <pc:Unicode>guten/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.80395">
+                    <pc:Unicode>geſeet/ vnd von vnderſiedlien guten/</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l81">
+                <pc:Coords points="283,544 300,544 300,552 481,552 481,549 499,549 499,550 529,550 529,553 646,553 646,547 735,547 735,546 754,546 754,556 849,556 849,559 895,559 895,582 852,582 852,581 723,581 723,583 683,583 683,582 577,582 577,589 558,589 558,584 393,584 393,583 280,583 280,589 264,589 264,582 237,582 237,581 213,581 213,552 283,552"/>
+                <pc:Word id="w82" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="283,544 300,544 300,552 408,552 408,584 393,584 393,583 280,583 280,589 264,589 264,582 237,582 237,581 213,581 213,552 283,552"/>
+                    <pc:Glyph id="c1216">
+                        <pc:Coords points="213,552 235,552 235,581 213,581"/>
+                        <pc:TextEquiv conf="0.85380">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1218">
+                        <pc:Coords points="237,553 260,553 260,582 237,582"/>
+                        <pc:TextEquiv conf="0.84009">
+                            <pc:Unicode>u</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1220">
+                        <pc:Coords points="264,555 280,555 280,589 264,589"/>
+                        <pc:TextEquiv conf="0.66394">
+                            <pc:Unicode></pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1222">
+                        <pc:Coords points="283,544 300,544 300,582 283,582"/>
+                        <pc:TextEquiv conf="0.73362">
+                            <pc:Unicode>b</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1224">
+                        <pc:Coords points="304,555 322,555 322,582 304,582"/>
+                        <pc:TextEquiv conf="0.84919">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1226">
+                        <pc:Coords points="324,555 340,555 340,583 324,583"/>
+                        <pc:TextEquiv conf="0.79346">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1228">
+                        <pc:Coords points="342,555 356,555 356,583 342,583"/>
+                        <pc:TextEquiv conf="0.81428">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1230">
+                        <pc:Coords points="360,556 383,556 383,583 360,583"/>
+                        <pc:TextEquiv conf="0.85892">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1232">
+                        <pc:Coords points="393,552 408,552 408,584 393,584"/>
+                        <pc:TextEquiv conf="0.68865">
+                            <pc:Unicode>/</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.66394">
+                        <pc:Unicode>nubaren/</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w92" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="481,549 499,549 499,580 478,580 478,584 431,584 431,553 481,553"/>
+                    <pc:Glyph id="c1272">
+                        <pc:Coords points="431,553 452,553 452,584 431,584"/>
+                        <pc:TextEquiv conf="0.76436">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1274">
+                        <pc:Coords points="456,556 478,556 478,584 456,584"/>
+                        <pc:TextEquiv conf="0.84468">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1276">
+                        <pc:Coords points="481,549 499,549 499,580 481,580"/>
+                        <pc:TextEquiv conf="0.85566">
+                            <pc:Unicode>d</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.83062">
+                        <pc:Unicode>vnd</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w96" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="646,547 656,547 656,555 697,555 697,556 723,556 723,583 683,583 683,582 577,582 577,589 558,589 558,581 508,581 508,550 529,550 529,553 646,553"/>
+                    <pc:Glyph id="c1278">
+                        <pc:Coords points="508,550 529,550 529,581 508,581"/>
+                        <pc:TextEquiv conf="0.85569">
+                            <pc:Unicode>v</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1280">
+                        <pc:Coords points="533,554 554,554 554,581 533,581"/>
+                        <pc:TextEquiv conf="0.90857">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1282">
+                        <pc:Coords points="558,553 577,553 577,589 558,589"/>
+                        <pc:TextEquiv conf="0.80809">
+                            <pc:Unicode>g</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1284">
+                        <pc:Coords points="579,554 592,554 592,580 579,580"/>
+                        <pc:TextEquiv conf="0.81771">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1286">
+                        <pc:Coords points="596,555 629,555 629,581 596,581"/>
+                        <pc:TextEquiv conf="0.85801">
+                            <pc:Unicode>m</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1288">
+                        <pc:Coords points="631,554 643,554 643,582 631,582"/>
+                        <pc:TextEquiv conf="0.81272">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1290">
+                        <pc:Coords points="646,547 656,547 656,582 646,582"/>
+                        <pc:TextEquiv conf="0.80769">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1292">
+                        <pc:Coords points="660,555 680,555 680,582 660,582"/>
+                        <pc:TextEquiv conf="0.87981">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1294">
+                        <pc:Coords points="683,555 697,555 697,583 683,583"/>
+                        <pc:TextEquiv conf="0.83120">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c1296">
+                        <pc:Coords points="701,556 723,556 723,583 701,583"/>
+                        <pc:TextEquiv conf="0.85816">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.80676">
+                        <pc:Unicode>vngemeinen</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:Word id="w107" language="Latin" readingDirection="left-to-right">
+                    <pc:Coords points="735,546 754,546 754,556 849,556 849,559 895,559 895,582 852,582 852,581 816,581 816,580 735,580"/>
+                    <pc:Glyph id="c678">
+                        <pc:Coords points="735,546 754,546 754,580 735,580"/>
+                        <pc:TextEquiv conf="0.84751">
+                            <pc:Unicode>S</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c680">
+                        <pc:Coords points="759,557 775,557 775,580 759,580"/>
+                        <pc:TextEquiv conf="0.87367">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c682">
+                        <pc:Coords points="777,556 795,556 795,579 777,579"/>
+                        <pc:TextEquiv conf="0.89015">
+                            <pc:Unicode>c</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c684">
+                        <pc:Coords points="798,558 814,558 814,580 798,580"/>
+                        <pc:TextEquiv conf="0.81469">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c686">
+                        <pc:Coords points="816,558 833,558 833,581 816,581"/>
+                        <pc:TextEquiv conf="0.80724">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c688">
+                        <pc:Coords points="836,556 849,556 849,581 836,581"/>
+                        <pc:TextEquiv conf="0.86498">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c690">
+                        <pc:Coords points="852,559 870,559 870,582 852,582"/>
+                        <pc:TextEquiv conf="0.76010">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c692">
+                        <pc:Coords points="872,559 895,559 895,582 872,582"/>
+                        <pc:TextEquiv conf="0.79194">
+                            <pc:Unicode>n</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.74877">
+                        <pc:Unicode>Secreten</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Antiqua"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.76253">
+                    <pc:Unicode>nubaren/ vnd vngemeinen Secreten</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextLine id="l116">
+                <pc:Coords points="555,593 564,593 564,599 608,599 608,604 630,604 630,624 595,624 595,623 478,623 478,597 542,597 542,596 555,596"/>
+                <pc:Word id="w117" language="German" readingDirection="left-to-right">
+                    <pc:Coords points="555,593 564,593 564,599 608,599 608,604 630,604 630,624 595,624 595,623 478,623 478,597 542,597 542,596 555,596"/>
+                    <pc:Glyph id="c704">
+                        <pc:Coords points="478,597 491,597 491,623 478,623"/>
+                        <pc:TextEquiv conf="0.79337">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c706">
+                        <pc:Coords points="493,601 508,601 508,623 493,623"/>
+                        <pc:TextEquiv conf="0.79310">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c708">
+                        <pc:Coords points="509,600 526,600 526,622 509,622"/>
+                        <pc:TextEquiv conf="0.86247">
+                            <pc:Unicode>a</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c710">
+                        <pc:Coords points="527,600 541,600 541,622 527,622"/>
+                        <pc:TextEquiv conf="0.83146">
+                            <pc:Unicode>c</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c712">
+                        <pc:Coords points="542,596 553,596 553,623 542,623"/>
+                        <pc:TextEquiv conf="0.81654">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c714">
+                        <pc:Coords points="555,593 564,593 564,621 555,621"/>
+                        <pc:TextEquiv conf="0.84676">
+                            <pc:Unicode>i</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c716">
+                        <pc:Coords points="565,599 580,599 580,622 565,622"/>
+                        <pc:TextEquiv conf="0.90341">
+                            <pc:Unicode>r</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c718">
+                        <pc:Coords points="583,600 594,600 594,622 583,622"/>
+                        <pc:TextEquiv conf="0.81798">
+                            <pc:Unicode>e</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c720">
+                        <pc:Coords points="595,599 608,599 608,624 595,624"/>
+                        <pc:TextEquiv conf="0.78165">
+                            <pc:Unicode>t</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:Glyph id="c744">
+                        <pc:Coords points="620,604 630,604 630,624 620,624"/>
+                        <pc:TextEquiv conf="0.66604">
+                            <pc:Unicode>;</pc:Unicode>
+                        </pc:TextEquiv>
+                    </pc:Glyph>
+                    <pc:TextEquiv conf="0.78409">
+                        <pc:Unicode>tractiret;</pc:Unicode>
+                    </pc:TextEquiv>
+                    <pc:TextStyle fontFamily="Fraktur"/>
+                </pc:Word>
+                <pc:TextEquiv conf="0.75378">
+                    <pc:Unicode>tractiret;</pc:Unicode>
+                </pc:TextEquiv>
+            </pc:TextLine>
+            <pc:TextEquiv>
+                <pc:Unicode>ANNOTATIONES
+Vber den
+APPENDICEM
+Weler zu Ende des
+Fnften Theils/ Philoſophiſer Oefen
+geſeet/ vnd von vnderſiedlien guten/
+nubaren/ vnd vngemeinen Secreten
+tractiret;</pc:Unicode>
+            </pc:TextEquiv>
+            <pc:TextStyle fontFamily="Fraktur; Antiqua"/>
+        </pc:TextRegion>
+        <pc:ImageRegion id="r12">
+            <pc:Coords points="250,1089 752,1089 752,1530 250,1530"/>
+        </pc:ImageRegion>
+        <pc:GraphicRegion id="r13" type="handwritten-annotation">
+            <pc:Coords points="1023,126 1061,126 1061,211 1023,211"/>
+        </pc:GraphicRegion>
+    </pc:Page>
+</pc:PcGts>

@@ -1,0 +1,2399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-GT-PAGE_00000147">
+	<Metadata>
+	<Creator>doculibtopagexml</Creator>
+	<Created>2019-01-08T20:29:23</Created>
+	<LastChange>2025-10-27T16:29:28</LastChange></Metadata>
+	<Page imageFilename="OCR-D-IMG/OCR-D-IMG_00000147.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1139" imageHeight="1911" type="content" readingDirection="left-to-right" textLineOrder="top-to-bottom" primaryLanguage="German" secondaryLanguage="Latin">
+	<PrintSpace>
+	<Coords points="69,97 69,1735 961,1735 961,97"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r6" index="4"/>
+	<RegionRefIndexed regionRef="r7" index="5"/>
+	<RegionRefIndexed regionRef="r8" index="6"/>
+	<RegionRefIndexed regionRef="r9" index="7"/>
+	<RegionRefIndexed regionRef="r10" index="8"/>
+	<RegionRefIndexed regionRef="r12" index="9"/>
+	<RegionRefIndexed regionRef="r13" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="132,112 228,112 228,113 249,113 249,122 399,122 399,121 400,121 400,120 410,120 410,113 424,113 424,123 460,123 460,125 580,125 580,113 601,113 601,118 641,118 641,120 720,120 720,159 693,159 693,205 653,205 653,246 569,246 569,252 457,252 457,247 322,247 322,251 312,251 312,241 222,241 222,198 175,198 175,153 132,153"/>
+	<TextLine id="l16">
+	<Coords points="132,112 228,112 228,113 249,113 249,122 399,122 399,121 400,121 400,120 410,120 410,113 424,113 424,123 460,123 460,125 580,125 580,113 601,113 601,118 641,118 641,120 720,120 720,159 625,159 625,157 580,157 580,150 410,150 410,149 249,149 249,154 228,154 228,155 195,155 195,153 132,153"/>
+	<Word id="w36" language="German" readingDirection="left-to-right">
+	<Coords points="132,112 228,112 228,155 195,155 195,153 132,153"/>
+	<Glyph id="c599">
+	<Coords points="132,112 172,112 172,153 132,153"/>
+	<TextEquiv conf="0.71669">
+	<Unicode>N</Unicode></TextEquiv></Glyph>
+	<Glyph id="c601">
+	<Coords points="174,122 192,122 192,148 174,148"/>
+	<TextEquiv conf="0.76203">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c603">
+	<Coords points="195,112 228,112 228,155 195,155"/>
+	<TextEquiv conf="0.79633">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Na</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w37" language="German" readingDirection="left-to-right">
+	<Coords points="238,113 249,113 249,122 316,122 316,149 249,149 249,154 238,154"/>
+	<Glyph id="c605">
+	<Coords points="238,113 249,113 249,154 238,154"/>
+	<TextEquiv conf="0.78149">
+	<Unicode>j</Unicode></TextEquiv></Glyph>
+	<Glyph id="c607">
+	<Coords points="251,124 265,124 265,149 251,149"/>
+	<TextEquiv conf="0.74662">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c609">
+	<Coords points="267,122 281,122 281,148 267,148"/>
+	<TextEquiv conf="0.78782">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c611">
+	<Coords points="284,122 316,122 316,149 284,149"/>
+	<TextEquiv conf="0.80229">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>jrem</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w136" language="German" readingDirection="left-to-right">
+	<Coords points="410,113 424,113 424,150 410,150 410,149 363,149 363,147 328,147 328,122 399,122 399,121 400,121 400,120 410,120"/>
+	<Glyph id="c419">
+	<Coords points="328,122 361,122 361,147 328,147"/>
+	<TextEquiv conf="0.66881">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c421">
+	<Coords points="363,122 381,122 381,149 363,149"/>
+	<TextEquiv conf="0.80925">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c996">
+	<Coords points="387,122 387,123 388,123 388,124 389,124 389,125 390,125 390,141 389,141 389,144 387,144 387,145 386,145 386,146 386,145 384,145 384,144 383,144 383,143 382,143 382,142 381,142 381,127 382,127 382,124 383,124 383,123 384,123 384,122"/>
+	<TextEquiv>
+	<Unicode>ꝛ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c997">
+	<Coords points="401,120 401,121 403,121 403,123 404,123 404,124 406,124 406,125 407,125 407,126 408,126 408,129 407,129 407,141 406,141 406,142 404,142 404,143 403,143 403,145 401,145 401,146 400,146 400,147 400,146 398,146 398,145 397,145 397,144 396,144 396,143 395,143 395,141 394,141 395,141 395,126 396,126 396,124 397,124 397,123 398,123 398,122 399,122 399,121 400,121 400,120"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c425">
+	<Coords points="410,113 424,113 424,150 410,150"/>
+	<TextEquiv conf="0.77128">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>woꝛt/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w137" language="German" readingDirection="left-to-right">
+	<Coords points="427,123 460,123 460,125 526,125 526,150 427,150"/>
+	<Glyph id="c427">
+	<Coords points="427,123 460,123 460,150 427,150"/>
+	<TextEquiv conf="0.65794">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c429">
+	<Coords points="462,125 476,125 476,149 462,149"/>
+	<TextEquiv conf="0.73756">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c431">
+	<Coords points="479,125 500,125 500,150 479,150"/>
+	<TextEquiv conf="0.80871">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c433">
+	<Coords points="504,125 526,125 526,150 504,150"/>
+	<TextEquiv conf="0.81216">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w39" language="German" readingDirection="left-to-right">
+	<Coords points="539,125 554,125 554,127 570,127 570,149 539,149"/>
+	<Glyph id="c613">
+	<Coords points="539,125 554,125 554,149 539,149"/>
+	<TextEquiv conf="0.74542">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c615">
+	<Coords points="556,127 570,127 570,149 556,149"/>
+	<TextEquiv conf="0.82557">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>er</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w40" language="German" readingDirection="left-to-right">
+	<Coords points="580,113 601,113 601,129 614,129 614,153 601,153 601,157 580,157"/>
+	<Glyph id="c617">
+	<Coords points="580,113 601,113 601,157 580,157"/>
+	<TextEquiv conf="0.77138">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c619">
+	<Coords points="600,129 614,129 614,153 600,153"/>
+	<TextEquiv conf="0.70208">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w41" language="German" readingDirection="left-to-right">
+	<Coords points="625,118 641,118 641,120 720,120 720,159 625,159"/>
+	<Glyph id="c621">
+	<Coords points="625,118 641,118 641,159 625,159"/>
+	<TextEquiv conf="0.68073">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c998">
+	<Coords points="650,130 650,131 653,131 653,132 654,132 654,133 655,133 655,134 653,134 653,135 652,135 652,148 651,148 651,149 650,149 650,151 649,151 649,152 648,152 648,153 645,153 645,152 644,152 644,150 643,150 643,149 642,149 642,148 641,148 641,147 640,147 640,138 641,138 641,137 642,137 642,135 643,135 643,134 645,134 645,133 646,133 646,132 647,132 647,131 648,131 648,130"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c999">
+	<Coords points="669,131 669,132 671,132 671,133 672,133 672,134 673,134 673,135 674,135 674,148 675,148 674,148 674,151 672,151 672,152 671,152 671,153 669,153 669,152 659,152 659,151 658,151 658,132 660,132 660,131"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c625">
+	<Coords points="678,120 700,120 700,154 678,154"/>
+	<TextEquiv conf="0.70598">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c627">
+	<Coords points="702,120 720,120 720,159 702,159"/>
+	<TextEquiv conf="0.69460">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſend/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Na jrem woꝛt/ wenn er e ſend/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="175,158 302,158 302,163 341,163 341,165 465,165 465,161 484,161 484,163 573,163 573,166 612,166 612,167 693,167 693,205 678,205 678,201 654,201 654,200 631,200 631,199 615,199 615,198 606,198 606,197 496,197 496,199 484,199 484,206 465,206 465,199 392,199 392,195 234,195 234,197 216,197 216,198 175,198"/>
+	<Word id="w42" language="German" readingDirection="left-to-right">
+	<Coords points="175,158 216,158 216,171 234,171 234,197 216,197 216,198 175,198"/>
+	<Glyph id="c629">
+	<Coords points="175,158 216,158 216,198 175,198"/>
+	<TextEquiv conf="0.73703">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c631">
+	<Coords points="216,171 234,171 234,197 216,197"/>
+	<TextEquiv conf="0.88924">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>So</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w43" language="German" readingDirection="left-to-right">
+	<Coords points="282,158 302,158 302,163 341,163 341,170 358,170 358,172 381,172 381,195 321,195 321,194 246,194 246,170 282,170"/>
+	<Glyph id="c633">
+	<Coords points="246,170 278,170 278,194 246,194"/>
+	<TextEquiv conf="0.75057">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c635">
+	<Coords points="282,158 302,158 302,193 282,193"/>
+	<TextEquiv conf="0.73967">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c637">
+	<Coords points="305,170 320,170 320,194 305,194"/>
+	<TextEquiv conf="0.71696">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c639">
+	<Coords points="321,163 341,163 341,195 321,195"/>
+	<TextEquiv conf="0.81784">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c641">
+	<Coords points="343,170 358,170 358,195 343,195"/>
+	<TextEquiv conf="0.81672">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c643">
+	<Coords points="360,172 381,172 381,195 360,195"/>
+	<TextEquiv conf="0.85402">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wrden</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w44" language="German" readingDirection="left-to-right">
+	<Coords points="428,165 439,165 439,173 455,173 455,196 424,196 424,199 392,199 392,171 428,171"/>
+	<Glyph id="c645">
+	<Coords points="392,171 424,171 424,199 392,199"/>
+	<TextEquiv conf="0.65309">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c649">
+	<Coords points="428,165 439,165 439,196 428,196"/>
+	<TextEquiv conf="0.80532">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c651">
+	<Coords points="440,173 455,173 455,196 440,196"/>
+	<TextEquiv conf="0.71811">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w46" language="German" readingDirection="left-to-right">
+	<Coords points="465,161 484,161 484,174 496,174 496,199 484,199 484,206 465,206"/>
+	<Glyph id="c653">
+	<Coords points="465,161 484,161 484,206 465,206"/>
+	<TextEquiv conf="0.71278">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c655">
+	<Coords points="478,174 496,174 496,199 478,199"/>
+	<TextEquiv conf="0.78710">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſo</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w47" language="German" readingDirection="left-to-right">
+	<Coords points="563,163 573,163 573,197 513,197 513,175 534,175 534,166 563,166"/>
+	<Glyph id="c657">
+	<Coords points="513,175 533,175 533,197 513,197"/>
+	<TextEquiv conf="0.80212">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c659">
+	<Coords points="534,166 546,166 546,197 534,197"/>
+	<TextEquiv conf="0.81158">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c661">
+	<Coords points="549,177 561,177 561,197 549,197"/>
+	<TextEquiv conf="0.79234">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c663">
+	<Coords points="563,163 573,163 573,197 563,197"/>
+	<TextEquiv conf="0.65679">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>viel</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w48" language="German" readingDirection="left-to-right">
+	<Coords points="607,166 612,166 612,167 693,167 693,205 678,205 678,201 654,201 654,200 631,200 631,199 615,199 615,198 606,198 606,197 595,197 595,196 591,196 591,194 590,194 590,191 589,191 589,189 588,189 588,186 589,186 589,182 590,182 590,180 592,180 592,179 593,179 593,177 596,177 596,176 606,176 606,167 607,167"/>
+	<Glyph id="c38">
+	<Coords points="598,176 598,177 600,177 600,179 601,179 601,181 600,181 600,194 599,194 599,195 598,195 598,196 597,196 597,197 595,197 595,196 591,196 591,194 590,194 590,191 589,191 589,189 588,189 588,186 589,186 589,182 590,182 590,180 592,180 592,179 593,179 593,177 596,177 596,176"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c39">
+	<Coords points="612,166 612,197 611,197 611,198 606,198 606,196 605,196 605,193 606,193 606,167 607,167 607,166"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c667">
+	<Coords points="615,176 630,176 630,199 615,199"/>
+	<TextEquiv conf="0.75705">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c669">
+	<Coords points="631,177 652,177 652,200 631,200"/>
+	<TextEquiv conf="0.80740">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c671">
+	<Coords points="654,169 675,169 675,201 654,201"/>
+	<TextEquiv conf="0.61530">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c673">
+	<Coords points="678,167 693,167 693,205 678,205"/>
+	<TextEquiv conf="0.72955">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>elend/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>So wrden wir ſo viel elend/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="312,208 322,208 322,216 444,216 444,215 549,215 549,208 569,208 569,220 583,220 583,222 624,222 624,223 635,223 635,224 636,224 636,225 637,225 637,226 638,226 638,234 653,234 653,246 569,246 569,252 457,252 457,247 322,247 322,251 312,251 312,241 222,241 222,210 312,210"/>
+	<Word id="w49" language="German" readingDirection="left-to-right">
+	<Coords points="222,210 301,210 301,241 222,241"/>
+	<Glyph id="c675">
+	<Coords points="222,210 254,210 254,241 222,241"/>
+	<TextEquiv conf="0.80464">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c677">
+	<Coords points="259,218 279,218 279,241 259,241"/>
+	<TextEquiv conf="0.77151">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c679">
+	<Coords points="281,210 301,210 301,241 281,241"/>
+	<TextEquiv conf="0.84009">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w50" language="German" readingDirection="left-to-right">
+	<Coords points="312,208 322,208 322,216 344,216 344,219 394,219 394,221 414,221 414,246 322,246 322,251 312,251"/>
+	<Glyph id="c681">
+	<Coords points="312,208 322,208 322,251 312,251"/>
+	<TextEquiv conf="0.78674">
+	<Unicode>j</Unicode></TextEquiv></Glyph>
+	<Glyph id="c683">
+	<Coords points="326,216 344,216 344,242 326,242"/>
+	<TextEquiv conf="0.71491">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c685">
+	<Coords points="346,219 381,219 381,246 346,246"/>
+	<TextEquiv conf="0.84408">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c687">
+	<Coords points="378,219 394,219 394,246 378,246"/>
+	<TextEquiv conf="0.75868">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c689">
+	<Coords points="397,221 414,221 414,246 397,246"/>
+	<TextEquiv conf="0.72237">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>jamer</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w139" language="German" readingDirection="left-to-right">
+	<Coords points="444,215 455,215 455,216 487,216 487,221 505,221 505,247 487,247 487,252 457,252 457,247 420,247 420,223 444,223"/>
+	<Glyph id="c435">
+	<Coords points="420,223 441,223 441,247 420,247"/>
+	<TextEquiv conf="0.77411">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c437">
+	<Coords points="444,215 455,215 455,247 444,247"/>
+	<TextEquiv conf="0.77932">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c439">
+	<Coords points="457,216 487,216 487,252 457,252"/>
+	<TextEquiv conf="0.75098">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c443">
+	<Coords points="492,221 505,221 505,247 492,247"/>
+	<TextEquiv conf="0.69260">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>nit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w141" language="German" readingDirection="left-to-right">
+	<Coords points="549,208 569,208 569,220 583,220 583,222 624,222 624,223 635,223 635,224 636,224 636,225 637,225 637,226 638,226 638,234 653,234 653,246 569,246 569,252 549,252 549,248 512,248 512,225 530,225 530,222 549,222"/>
+	<Glyph id="c455">
+	<Coords points="512,225 528,225 528,248 512,248"/>
+	<TextEquiv conf="0.83210">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c457">
+	<Coords points="530,222 545,222 545,246 530,246"/>
+	<TextEquiv conf="0.66304">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c445">
+	<Coords points="549,208 569,208 569,252 549,252"/>
+	<TextEquiv conf="0.73261">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c447">
+	<Coords points="564,220 583,220 583,246 564,246"/>
+	<TextEquiv conf="0.72623">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c449">
+	<Coords points="586,222 601,222 601,245 586,245"/>
+	<TextEquiv conf="0.74656">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c40">
+	<Coords points="612,222 612,223 614,223 614,226 615,226 615,228 614,228 614,241 613,241 613,243 608,243 608,244 608,243 606,243 606,241 605,241 605,240 604,240 604,239 603,239 603,232 602,232 602,230 603,230 603,229 607,229 607,225 608,225 608,224 609,224 609,223 610,223 610,222"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c41">
+	<Coords points="624,223 635,223 635,224 636,224 636,225 637,225 637,226 638,226 638,240 637,240 637,241 636,241 636,242 635,242 635,243 634,243 634,242 623,242 623,241 622,241 622,240 619,240 619,237 620,237 620,229 621,229 621,224 623,224 623,223 624,223 624,222"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c453">
+	<Coords points="644,234 653,234 653,246 644,246"/>
+	<TextEquiv conf="0.87549">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>erfaren.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vnd jamer nit erfaren.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Na jrem woꝛt/ wenn er e ſend/
+So wrden wir ſo viel elend/
+Vnd jamer nit erfaren.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r3" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="304,528 420,528 420,529 541,529 541,530 629,530 629,533 675,533 675,534 819,534 819,541 878,541 878,578 864,578 864,573 728,573 728,577 705,577 705,575 593,575 593,568 501,568 501,563 377,563 377,565 338,565 338,571 304,571 304,568 218,568 218,530 304,530"/>
+	<TextLine id="l21">
+	<Coords points="304,528 420,528 420,529 541,529 541,530 629,530 629,533 675,533 675,534 819,534 819,541 878,541 878,578 864,578 864,573 728,573 728,577 705,577 705,575 593,575 593,568 501,568 501,563 377,563 377,565 338,565 338,571 304,571 304,568 218,568 218,530 304,530"/>
+	<Word id="w58" language="German" readingDirection="left-to-right">
+	<Coords points="218,530 252,530 252,532 264,532 264,539 284,539 284,568 218,568"/>
+	<Glyph id="c711">
+	<Coords points="218,530 252,530 252,568 218,568"/>
+	<TextEquiv conf="0.67448">
+	<Unicode>A</Unicode></TextEquiv></Glyph>
+	<Glyph id="c713">
+	<Coords points="255,532 264,532 264,568 255,568"/>
+	<TextEquiv conf="0.70019">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c715">
+	<Coords points="265,539 284,539 284,568 265,568"/>
+	<TextEquiv conf="0.73967">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Als</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w59" language="German" readingDirection="left-to-right">
+	<Coords points="304,528 377,528 377,565 338,565 338,571 304,571"/>
+	<Glyph id="c717">
+	<Coords points="304,528 338,528 338,571 304,571"/>
+	<TextEquiv conf="0.80518">
+	<Unicode>J</Unicode></TextEquiv></Glyph>
+	<Glyph id="c719">
+	<Coords points="333,539 355,539 355,565 333,565"/>
+	<TextEquiv conf="0.74339">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c721">
+	<Coords points="356,528 377,528 377,565 356,565"/>
+	<TextEquiv conf="0.80419">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Job</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w60" language="German" readingDirection="left-to-right">
+	<Coords points="399,528 420,528 420,536 437,536 437,538 455,538 455,563 399,563"/>
+	<Glyph id="c723">
+	<Coords points="399,528 420,528 420,563 399,563"/>
+	<TextEquiv conf="0.79734">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c725">
+	<Coords points="423,536 437,536 437,562 423,562"/>
+	<TextEquiv conf="0.79625">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c727">
+	<Coords points="439,538 455,538 455,563 439,563"/>
+	<TextEquiv conf="0.80556">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w61" language="German" readingDirection="left-to-right">
+	<Coords points="501,529 541,529 541,530 629,530 629,533 675,533 675,537 703,537 703,541 728,541 728,544 745,544 745,567 728,567 728,577 705,577 705,575 593,575 593,568 501,568"/>
+	<Glyph id="c729">
+	<Coords points="501,529 541,529 541,568 501,568"/>
+	<TextEquiv conf="0.83881">
+	<Unicode>G</Unicode></TextEquiv></Glyph>
+	<Glyph id="c731">
+	<Coords points="541,540 560,540 560,567 541,567"/>
+	<TextEquiv conf="0.83998">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c733">
+	<Coords points="561,540 577,540 577,566 561,566"/>
+	<TextEquiv conf="0.80692">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c735">
+	<Coords points="579,541 592,541 592,566 579,566"/>
+	<TextEquiv conf="0.76918">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c737">
+	<Coords points="593,531 608,531 608,575 593,575"/>
+	<TextEquiv conf="0.64220">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c739">
+	<Coords points="607,530 629,530 629,569 607,569"/>
+	<TextEquiv conf="0.80360">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c741">
+	<Coords points="627,543 640,543 640,569 627,569"/>
+	<TextEquiv conf="0.67431">
+	<Unicode>ꝛ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c743">
+	<Coords points="643,533 675,533 675,572 643,572"/>
+	<TextEquiv conf="0.76367">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c745">
+	<Coords points="678,543 691,543 691,567 678,567"/>
+	<TextEquiv conf="0.77046">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c747">
+	<Coords points="693,537 703,537 703,568 693,568"/>
+	<TextEquiv conf="0.76895">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c749">
+	<Coords points="705,541 728,541 728,577 705,577"/>
+	<TextEquiv conf="0.77655">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c751">
+	<Coords points="730,544 745,544 745,567 730,567"/>
+	<TextEquiv conf="0.82658">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Gottfꝛtige</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w62" language="German" readingDirection="left-to-right">
+	<Coords points="764,534 819,534 819,541 878,541 878,578 864,578 864,573 764,573"/>
+	<Glyph id="c753">
+	<Coords points="764,534 819,534 819,573 764,573"/>
+	<TextEquiv conf="0.71213">
+	<Unicode>M</Unicode></TextEquiv></Glyph>
+	<Glyph id="c755">
+	<Coords points="822,547 840,547 840,573 822,573"/>
+	<TextEquiv conf="0.77145">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c757">
+	<Coords points="843,549 863,549 863,572 843,572"/>
+	<TextEquiv conf="0.76229">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c759">
+	<Coords points="864,541 878,541 878,578 864,578"/>
+	<TextEquiv conf="0.78876">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Man/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Als Job der Gottfꝛtige Man/</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Als Job der Gottfꝛtige Man/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r4" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="318,720 328,720 328,721 428,721 428,725 559,725 559,722 709,722 709,727 815,727 815,729 862,729 862,763 840,763 840,762 764,762 764,761 709,761 709,760 607,760 607,762 559,762 559,760 453,760 453,761 328,761 328,766 318,766 318,759 202,759 202,760 171,760 171,726 237,726 237,721 318,721"/>
+	<TextLine id="l22">
+	<Coords points="318,720 328,720 328,721 428,721 428,725 559,725 559,722 709,722 709,727 815,727 815,729 862,729 862,763 840,763 840,762 764,762 764,761 709,761 709,760 607,760 607,762 559,762 559,760 453,760 453,761 328,761 328,766 318,766 318,759 202,759 202,760 171,760 171,726 237,726 237,721 318,721"/>
+	<Word id="w63" language="German" readingDirection="left-to-right">
+	<Coords points="237,721 257,721 257,759 202,759 202,760 171,760 171,726 237,726"/>
+	<Glyph id="c761">
+	<Coords points="171,726 202,726 202,760 171,760"/>
+	<TextEquiv conf="0.78757">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c763">
+	<Coords points="204,732 236,732 236,759 204,759"/>
+	<TextEquiv conf="0.84304">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c765">
+	<Coords points="237,721 257,721 257,759 237,759"/>
+	<TextEquiv conf="0.75152">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vmb</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w64" language="German" readingDirection="left-to-right">
+	<Coords points="290,722 295,722 295,724 304,724 304,725 305,725 305,726 306,726 306,755 307,755 307,757 306,757 306,758 302,758 302,759 301,759 301,758 266,758 266,731 288,731 288,724 289,724 289,723 290,723"/>
+	<Glyph id="c767">
+	<Coords points="266,731 285,731 285,758 266,758"/>
+	<TextEquiv conf="0.82771">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c769">
+	<Coords points="290,722 295,722 295,724 304,724 304,725 305,725 305,726 306,726 306,755 307,755 307,757 306,757 306,758 302,758 302,759 301,759 301,758 300,758 300,757 288,757 288,724 289,724 289,723 290,723"/>
+	<TextEquiv conf="0.74929">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w65" language="German" readingDirection="left-to-right">
+	<Coords points="318,720 328,720 328,724 357,724 357,733 378,733 378,759 328,759 328,766 318,766"/>
+	<Glyph id="c773">
+	<Coords points="318,720 328,720 328,766 318,766"/>
+	<TextEquiv conf="0.73674">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c775">
+	<Coords points="333,733 343,733 343,757 333,757"/>
+	<TextEquiv conf="0.70030">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c777">
+	<Coords points="345,724 357,724 357,759 345,759"/>
+	<TextEquiv conf="0.78958">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c779">
+	<Coords points="357,733 378,733 378,759 357,759"/>
+	<TextEquiv conf="0.86453">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w66" language="German" readingDirection="left-to-right">
+	<Coords points="388,721 428,721 428,731 468,731 468,760 453,760 453,761 388,761"/>
+	<Glyph id="c781">
+	<Coords points="388,721 428,721 428,761 388,761"/>
+	<TextEquiv conf="0.82297">
+	<Unicode>G</Unicode></TextEquiv></Glyph>
+	<Glyph id="c783">
+	<Coords points="431,735 453,735 453,761 431,761"/>
+	<TextEquiv conf="0.79877">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c785">
+	<Coords points="455,731 468,731 468,760 455,760"/>
+	<TextEquiv conf="0.86600">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Gut</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w67" language="German" readingDirection="left-to-right">
+	<Coords points="522,725 544,725 544,760 478,760 478,735 522,735"/>
+	<Glyph id="c787">
+	<Coords points="478,735 499,735 499,760 478,760"/>
+	<TextEquiv conf="0.82913">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c789">
+	<Coords points="501,735 521,735 521,760 501,760"/>
+	<TextEquiv conf="0.85521">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c791">
+	<Coords points="522,725 544,725 544,760 522,760"/>
+	<TextEquiv conf="0.88112">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w68" language="German" readingDirection="left-to-right">
+	<Coords points="559,722 594,722 594,725 653,725 653,734 685,734 685,760 607,760 607,762 559,762"/>
+	<Glyph id="c793">
+	<Coords points="559,722 594,722 594,762 559,762"/>
+	<TextEquiv conf="0.79353">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c795">
+	<Coords points="595,730 607,730 607,762 595,762"/>
+	<TextEquiv conf="0.75911">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c797">
+	<Coords points="608,733 629,733 629,760 608,760"/>
+	<TextEquiv conf="0.76779">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c799">
+	<Coords points="632,725 653,725 653,760 632,760"/>
+	<TextEquiv conf="0.87668">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c801">
+	<Coords points="654,735 669,735 669,760 654,760"/>
+	<TextEquiv conf="0.80601">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c803">
+	<Coords points="670,734 685,734 685,760 670,760"/>
+	<TextEquiv conf="0.76582">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Kinder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w69" language="German" readingDirection="left-to-right">
+	<Coords points="693,722 709,722 709,728 776,728 776,762 764,762 764,761 709,761 709,760 693,760"/>
+	<Glyph id="c805">
+	<Coords points="693,722 709,722 709,760 693,760"/>
+	<TextEquiv conf="0.75939">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c807">
+	<Coords points="709,733 727,733 727,761 709,761"/>
+	<TextEquiv conf="0.75918">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c809">
+	<Coords points="731,733 762,733 762,761 731,761"/>
+	<TextEquiv conf="0.83935">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c811">
+	<Coords points="764,728 776,728 776,762 764,762"/>
+	<TextEquiv conf="0.72183">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>kam/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w70" language="German" readingDirection="left-to-right">
+	<Coords points="785,727 815,727 815,729 862,729 862,763 840,763 840,762 817,762 817,760 785,760"/>
+	<Glyph id="c813">
+	<Coords points="785,727 815,727 815,760 785,760"/>
+	<TextEquiv conf="0.81447">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c815">
+	<Coords points="817,738 836,738 836,762 817,762"/>
+	<TextEquiv conf="0.67878">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c817">
+	<Coords points="840,729 862,729 862,763 840,763"/>
+	<TextEquiv conf="0.88848">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vmb a ſein Gut vnd Kinder kam/ Vnd</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Vmb a ſein Gut vnd Kinder kam/ Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r6" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="219,908 416,908 416,919 555,919 555,914 655,914 655,915 765,915 765,919 817,919 817,925 871,925 871,926 872,926 872,927 875,927 875,928 877,928 877,929 878,929 878,938 879,938 879,947 878,947 878,948 877,948 877,949 876,949 876,950 875,950 875,951 873,951 873,952 863,952 863,951 862,951 862,950 860,950 860,949 741,949 741,952 703,952 703,955 627,955 627,954 585,954 585,945 416,945 416,952 396,952 396,948 237,948 237,951 219,951 219,947 167,947 167,920 219,920"/>
+	<TextLine id="l23">
+	<Coords points="219,908 416,908 416,919 555,919 555,914 655,914 655,915 765,915 765,919 817,919 817,925 871,925 871,926 872,926 872,927 875,927 875,928 877,928 877,929 878,929 878,938 879,938 879,947 878,947 878,948 877,948 877,949 876,949 876,950 875,950 875,951 873,951 873,952 863,952 863,951 862,951 862,950 860,950 860,949 741,949 741,952 703,952 703,955 627,955 627,954 585,954 585,945 416,945 416,952 396,952 396,948 237,948 237,951 219,951 219,947 167,947 167,920 219,920"/>
+	<Word id="w71" language="German" readingDirection="left-to-right">
+	<Coords points="167,920 187,920 187,921 210,921 210,946 187,946 187,947 167,947"/>
+	<Glyph id="c819">
+	<Coords points="167,920 187,920 187,947 167,947"/>
+	<TextEquiv conf="0.60426">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c821">
+	<Coords points="189,921 210,921 210,946 189,946"/>
+	<TextEquiv conf="0.71626">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w72" language="German" readingDirection="left-to-right">
+	<Coords points="219,908 237,908 237,914 259,914 259,921 296,921 296,948 237,948 237,951 219,951"/>
+	<Glyph id="c823">
+	<Coords points="219,908 237,908 237,951 219,951"/>
+	<TextEquiv conf="0.78387">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c825">
+	<Coords points="231,920 246,920 246,946 231,946"/>
+	<TextEquiv conf="0.78618">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c827">
+	<Coords points="248,914 259,914 259,946 248,946"/>
+	<TextEquiv conf="0.74744">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c829">
+	<Coords points="262,921 296,921 296,948 262,948"/>
+	<TextEquiv conf="0.87124">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſeim</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w73" language="German" readingDirection="left-to-right">
+	<Coords points="305,908 337,908 337,910 387,910 387,946 305,946"/>
+	<Glyph id="c831">
+	<Coords points="305,908 337,908 337,946 305,946"/>
+	<TextEquiv conf="0.82804">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c833">
+	<Coords points="337,921 351,921 351,944 337,944"/>
+	<TextEquiv conf="0.75118">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c835">
+	<Coords points="354,922 364,922 364,946 354,946"/>
+	<TextEquiv conf="0.73723">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c837">
+	<Coords points="367,910 387,910 387,946 367,946"/>
+	<TextEquiv conf="0.77564">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Leib</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w74" language="German" readingDirection="left-to-right">
+	<Coords points="396,908 416,908 416,919 436,919 436,920 453,920 453,922 470,922 470,945 416,945 416,952 396,952"/>
+	<Glyph id="c839">
+	<Coords points="396,908 416,908 416,952 396,952"/>
+	<TextEquiv conf="0.69054">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c841">
+	<Coords points="417,919 436,919 436,945 417,945"/>
+	<TextEquiv conf="0.77854">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c843">
+	<Coords points="438,920 453,920 453,943 438,943"/>
+	<TextEquiv conf="0.73007">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c845">
+	<Coords points="455,922 470,922 470,945 455,945"/>
+	<TextEquiv conf="0.79358">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>hart</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w75" language="German" readingDirection="left-to-right">
+	<Coords points="555,914 576,914 576,944 536,944 536,945 514,945 514,943 480,943 480,919 555,919"/>
+	<Glyph id="c847">
+	<Coords points="480,919 512,919 512,943 480,943"/>
+	<TextEquiv conf="0.80573">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c849">
+	<Coords points="514,921 536,921 536,945 514,945"/>
+	<TextEquiv conf="0.76705">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c851">
+	<Coords points="539,920 554,920 554,942 539,942"/>
+	<TextEquiv conf="0.77114">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c853">
+	<Coords points="555,914 576,914 576,944 555,944"/>
+	<TextEquiv conf="0.79306">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wurd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w76" language="German" readingDirection="left-to-right">
+	<Coords points="651,914 655,914 655,915 657,915 657,917 741,917 741,952 703,952 703,955 627,955 627,954 585,954 585,921 651,921"/>
+	<Glyph id="c855">
+	<Coords points="585,921 606,921 606,954 585,954"/>
+	<TextEquiv conf="0.79164">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c857">
+	<Coords points="610,922 625,922 625,944 610,944"/>
+	<TextEquiv conf="0.79577">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c859">
+	<Coords points="627,922 649,922 649,955 627,955"/>
+	<TextEquiv conf="0.68912">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c42">
+	<Coords points="655,914 655,915 657,915 657,919 656,919 656,944 655,944 655,945 655,944 652,944 652,939 651,939 651,914"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c43">
+	<Coords points="668,924 668,925 673,925 673,926 674,926 674,928 675,928 675,938 676,938 676,939 677,939 676,939 676,941 675,941 675,944 674,944 674,945 669,945 669,944 663,944 663,943 662,943 662,942 661,942 661,941 660,941 660,937 659,937 659,936 660,936 660,935 663,935 663,931 664,931 664,928 666,928 666,926 667,926 667,924"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c863">
+	<Coords points="679,919 703,919 703,955 679,955"/>
+	<TextEquiv conf="0.74658">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c865">
+	<Coords points="705,923 718,923 718,947 705,947"/>
+	<TextEquiv conf="0.72898">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c867">
+	<Coords points="730,917 741,917 741,952 730,952"/>
+	<TextEquiv conf="0.86435">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>geplagt/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w78" language="German" readingDirection="left-to-right">
+	<Coords points="756,915 765,915 765,919 817,919 817,949 756,949"/>
+	<Glyph id="c869">
+	<Coords points="756,915 765,915 765,949 756,949"/>
+	<TextEquiv conf="0.80379">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c871">
+	<Coords points="766,919 778,919 778,949 766,949"/>
+	<TextEquiv conf="0.79960">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c873">
+	<Coords points="779,927 793,927 793,949 779,949"/>
+	<TextEquiv conf="0.77623">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c875">
+	<Coords points="795,919 817,919 817,949 795,949"/>
+	<TextEquiv conf="0.85643">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>lied</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w79" language="German" readingDirection="left-to-right">
+	<Coords points="870,925 871,925 871,926 872,926 872,927 875,927 875,928 877,928 877,929 878,929 878,938 879,938 879,947 878,947 878,948 877,948 877,949 876,949 876,950 875,950 875,951 873,951 873,952 863,952 863,951 862,951 862,950 860,950 860,949 825,949 825,927 869,927 869,926 870,926"/>
+	<Glyph id="c877">
+	<Coords points="825,927 839,927 839,949 825,949"/>
+	<TextEquiv conf="0.74088">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c44">
+	<Coords points="855,927 855,929 856,929 855,929 855,933 851,933 851,947 849,947 849,948 845,948 845,947 842,947 842,945 843,945 843,936 844,936 844,928 853,928 853,927"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c45">
+	<Coords points="871,925 871,926 872,926 872,927 875,927 875,928 877,928 877,929 878,929 878,938 879,938 879,947 878,947 878,948 877,948 877,949 876,949 876,950 875,950 875,951 873,951 873,952 863,952 863,951 862,951 862,950 860,950 860,949 859,949 859,948 858,948 858,940 859,940 859,935 860,935 860,934 861,934 861,933 862,933 862,931 863,931 863,930 864,930 864,929 867,929 867,928 868,928 868,927 869,927 869,926 870,926 870,925"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ers</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>an ſeim Leib hart wurd geplagt/ lied ers</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>an ſeim Leib hart wurd geplagt/ lied ers</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r7" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="227,1098 249,1098 249,1101 261,1101 261,1103 323,1103 323,1105 454,1105 454,1100 467,1100 467,1113 512,1113 512,1115 529,1115 529,1129 542,1129 542,1130 543,1130 543,1131 545,1131 545,1137 544,1137 544,1138 543,1138 543,1139 541,1139 541,1140 540,1140 540,1141 529,1141 529,1142 512,1142 512,1149 487,1149 487,1148 454,1148 454,1147 167,1147 167,1108 208,1108 208,1104 227,1104"/>
+	<TextLine id="l24">
+	<Coords points="227,1098 249,1098 249,1101 261,1101 261,1103 323,1103 323,1105 454,1105 454,1100 467,1100 467,1113 512,1113 512,1115 529,1115 529,1129 542,1129 542,1130 543,1130 543,1131 545,1131 545,1137 544,1137 544,1138 543,1138 543,1139 541,1139 541,1140 540,1140 540,1141 529,1141 529,1142 512,1142 512,1149 487,1149 487,1148 454,1148 454,1147 167,1147 167,1108 208,1108 208,1104 227,1104"/>
+	<Word id="w80" language="German" readingDirection="left-to-right">
+	<Coords points="227,1098 249,1098 249,1101 261,1101 261,1103 323,1103 323,1105 368,1105 368,1147 167,1147 167,1108 208,1108 208,1104 227,1104"/>
+	<Glyph id="c881">
+	<Coords points="167,1108 191,1108 191,1147 167,1147"/>
+	<TextEquiv conf="0.79121">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c883">
+	<Coords points="192,1112 208,1112 208,1136 192,1136"/>
+	<TextEquiv conf="0.72571">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c885">
+	<Coords points="208,1104 232,1104 232,1138 208,1138"/>
+	<TextEquiv conf="0.80079">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c887">
+	<Coords points="227,1098 249,1098 249,1138 227,1138"/>
+	<TextEquiv conf="0.75514">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c889">
+	<Coords points="251,1101 261,1101 261,1137 251,1137"/>
+	<TextEquiv conf="0.84505">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c891">
+	<Coords points="262,1110 276,1110 276,1137 262,1137"/>
+	<TextEquiv conf="0.74361">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c893">
+	<Coords points="278,1107 288,1107 288,1138 278,1138"/>
+	<TextEquiv conf="0.72649">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c895">
+	<Coords points="289,1112 312,1112 312,1147 289,1147"/>
+	<TextEquiv conf="0.71448">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c897">
+	<Coords points="312,1103 323,1103 323,1140 312,1140"/>
+	<TextEquiv conf="0.86813">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c899">
+	<Coords points="324,1117 334,1117 334,1142 324,1142"/>
+	<TextEquiv conf="0.80025">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c901">
+	<Coords points="337,1105 368,1105 368,1147 337,1147"/>
+	<TextEquiv conf="0.73520">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>gedltigli</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w81" language="German" readingDirection="left-to-right">
+	<Coords points="426,1107 447,1107 447,1141 377,1141 377,1113 426,1113"/>
+	<Glyph id="c903">
+	<Coords points="377,1113 400,1113 400,1141 377,1141"/>
+	<TextEquiv conf="0.76445">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c905">
+	<Coords points="402,1114 423,1114 423,1139 402,1139"/>
+	<TextEquiv conf="0.80475">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c907">
+	<Coords points="426,1107 447,1107 447,1141 426,1141"/>
+	<TextEquiv conf="0.86331">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w82" language="German" readingDirection="left-to-right">
+	<Coords points="454,1100 467,1100 467,1113 512,1113 512,1115 529,1115 529,1129 542,1129 542,1130 543,1130 543,1131 545,1131 545,1137 544,1137 544,1138 543,1138 543,1139 541,1139 541,1140 540,1140 540,1141 529,1141 529,1142 512,1142 512,1149 487,1149 487,1148 454,1148"/>
+	<Glyph id="c909">
+	<Coords points="454,1100 467,1100 467,1148 454,1148"/>
+	<TextEquiv conf="0.77338">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c911">
+	<Coords points="471,1113 487,1113 487,1140 471,1140"/>
+	<TextEquiv conf="0.79592">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c913">
+	<Coords points="487,1113 512,1113 512,1149 487,1149"/>
+	<TextEquiv conf="0.80430">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c915">
+	<Coords points="514,1115 529,1115 529,1142 514,1142"/>
+	<TextEquiv conf="0.74596">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c46">
+	<Coords points="542,1129 542,1130 543,1130 543,1131 545,1131 545,1137 544,1137 544,1138 543,1138 543,1139 541,1139 541,1140 540,1140 540,1141 540,1140 539,1140 539,1139 537,1139 537,1137 536,1137 536,1133 537,1133 537,1131 538,1131 538,1130 540,1130 540,1129"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſagt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>gedltigli vnd ſagt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>gedltigli vnd ſagt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r8" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="heading" align="centre" primaryLanguage="German">
+	<Coords points="405,1165 405,1166 413,1166 413,1167 414,1167 414,1168 415,1168 414,1168 414,1178 426,1178 426,1179 429,1179 429,1180 430,1180 430,1182 431,1182 431,1183 430,1183 430,1184 429,1184 429,1185 428,1185 428,1186 427,1186 427,1187 426,1187 426,1188 426,1187 424,1187 424,1186 405,1186 405,1185 403,1185 403,1183 404,1183 404,1166 405,1166"/>
+	<TextLine id="l25">
+	<Coords points="405,1165 405,1166 413,1166 413,1167 414,1167 414,1168 415,1168 414,1168 414,1178 426,1178 426,1179 429,1179 429,1180 430,1180 430,1182 431,1182 431,1183 430,1183 430,1184 429,1184 429,1185 428,1185 428,1186 427,1186 427,1187 426,1187 426,1188 426,1187 424,1187 424,1186 405,1186 405,1185 403,1185 403,1183 404,1183 404,1166 405,1166"/>
+	<Word id="w84" language="German" readingDirection="left-to-right">
+	<Coords points="405,1165 405,1166 413,1166 413,1167 414,1167 414,1168 415,1168 414,1168 414,1178 426,1178 426,1179 429,1179 429,1180 430,1180 430,1182 431,1182 431,1183 430,1183 430,1184 429,1184 429,1185 428,1185 428,1186 427,1186 427,1187 426,1187 426,1188 426,1187 424,1187 424,1186 405,1186 405,1185 403,1185 403,1183 404,1183 404,1166 405,1166"/>
+	<Glyph id="c1004">
+	<Coords points="405,1166 413,1166 413,1167 414,1167 414,1168 415,1168 414,1168 414,1178 413,1178 413,1185 408,1185 408,1186 405,1186 405,1185 403,1185 403,1183 404,1183 404,1166 405,1166 405,1165"/>
+	<TextEquiv>
+	<Unicode>1</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1005">
+	<Coords points="426,1179 429,1179 429,1180 430,1180 430,1182 431,1182 431,1183 430,1183 430,1184 429,1184 429,1185 428,1185 428,1186 427,1186 427,1187 426,1187 426,1188 426,1187 424,1187 424,1186 423,1186 423,1185 422,1185 422,1182 423,1182 423,1181 424,1181 424,1180 425,1180 425,1179 426,1179 426,1178"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r9" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="121,1180 181,1180 181,1193 288,1193 288,1197 329,1197 329,1201 496,1201 496,1200 497,1200 497,1199 498,1199 498,1198 499,1198 499,1197 500,1197 500,1196 502,1196 502,1197 513,1197 513,1198 514,1198 514,1199 566,1199 566,1200 699,1200 699,1206 763,1206 763,1249 786,1249 786,1256 854,1256 854,1302 855,1302 855,1341 823,1341 823,1343 779,1343 779,1375 778,1375 778,1377 776,1377 776,1378 775,1378 775,1380 749,1380 749,1389 727,1389 727,1386 689,1386 689,1384 581,1384 581,1385 580,1385 580,1386 579,1386 579,1387 570,1387 570,1385 491,1385 491,1384 371,1384 371,1378 339,1378 339,1376 320,1376 320,1375 246,1375 246,1374 213,1374 213,1260 121,1260"/>
+	<TextRegion id="r2" type="drop-capital">
+	<Coords points="120,1179 120,1262 181,1262 181,1179"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextLine id="l29">
+	<Coords points="121,1180 181,1180 181,1193 288,1193 288,1197 329,1197 329,1201 496,1201 496,1200 497,1200 497,1199 498,1199 498,1198 499,1198 499,1197 500,1197 500,1196 502,1196 502,1197 513,1197 513,1198 514,1198 514,1199 566,1199 566,1200 699,1200 699,1206 763,1206 763,1243 748,1243 748,1242 620,1242 620,1245 595,1245 595,1243 533,1243 533,1239 440,1239 440,1238 399,1238 399,1237 181,1237 181,1260 121,1260"/>
+	<Word id="w152" language="German" readingDirection="left-to-right">
+	<Coords points="121,1180 181,1180 181,1196 212,1196 212,1197 226,1197 226,1203 246,1203 246,1233 212,1233 212,1234 181,1234 181,1260 121,1260"/>
+	<Glyph id="c989">
+	<Coords points="121,1180 181,1180 181,1260 121,1260"/>
+	<TextEquiv conf="0.68608">
+	<Unicode>A</Unicode></TextEquiv></Glyph>
+	<Glyph id="c529">
+	<Coords points="185,1196 212,1196 212,1234 185,1234"/>
+	<TextEquiv conf="0.68536">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c531">
+	<Coords points="216,1197 226,1197 226,1231 216,1231"/>
+	<TextEquiv conf="0.69412">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c533">
+	<Coords points="226,1203 246,1203 246,1233 226,1233"/>
+	<TextEquiv conf="0.67448">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ALls</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w153" language="German" readingDirection="left-to-right">
+	<Coords points="253,1193 288,1193 288,1197 329,1197 329,1234 305,1234 305,1237 253,1237"/>
+	<Glyph id="c535">
+	<Coords points="253,1193 288,1193 288,1237 253,1237"/>
+	<TextEquiv conf="0.75460">
+	<Unicode>J</Unicode></TextEquiv></Glyph>
+	<Glyph id="c537">
+	<Coords points="285,1208 305,1208 305,1237 285,1237"/>
+	<TextEquiv conf="0.76468">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c539">
+	<Coords points="306,1197 329,1197 329,1234 306,1234"/>
+	<TextEquiv conf="0.73832">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Job</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w108" language="German" readingDirection="left-to-right">
+	<Coords points="336,1201 358,1201 358,1210 374,1210 374,1211 391,1211 391,1235 336,1235"/>
+	<Glyph id="c199">
+	<Coords points="336,1201 358,1201 358,1235 336,1235"/>
+	<TextEquiv conf="0.86496">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c201">
+	<Coords points="359,1210 374,1210 374,1233 359,1233"/>
+	<TextEquiv conf="0.83860">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c203">
+	<Coords points="375,1211 391,1211 391,1235 375,1235"/>
+	<TextEquiv conf="0.77167">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w109" language="German" readingDirection="left-to-right">
+	<Coords points="500,1196 502,1196 502,1197 513,1197 513,1198 514,1198 514,1199 566,1199 566,1205 596,1205 596,1207 620,1207 620,1212 633,1212 633,1236 620,1236 620,1245 595,1245 595,1243 533,1243 533,1239 440,1239 440,1238 399,1238 399,1201 496,1201 496,1200 497,1200 497,1199 498,1199 498,1198 499,1198 499,1197 500,1197"/>
+	<Glyph id="c205">
+	<Coords points="399,1201 441,1201 441,1238 399,1238"/>
+	<TextEquiv conf="0.79973">
+	<Unicode>G</Unicode></TextEquiv></Glyph>
+	<Glyph id="c207">
+	<Coords points="440,1211 460,1211 460,1239 440,1239"/>
+	<TextEquiv conf="0.81070">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c209">
+	<Coords points="461,1209 474,1209 474,1234 461,1234"/>
+	<TextEquiv conf="0.83057">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c211">
+	<Coords points="476,1209 490,1209 490,1234 476,1234"/>
+	<TextEquiv conf="0.86328">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1006">
+	<Coords points="502,1196 502,1197 503,1197 503,1198 504,1198 504,1232 497,1232 497,1237 495,1237 495,1236 494,1236 494,1233 493,1233 493,1232 492,1232 492,1211 493,1211 493,1210 494,1210 494,1204 495,1204 495,1201 496,1201 496,1200 497,1200 497,1199 498,1199 498,1198 499,1198 499,1197 500,1197 500,1196"/>
+	<TextEquiv>
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1007">
+	<Coords points="513,1197 513,1198 514,1198 514,1199 515,1199 515,1200 516,1200 516,1201 517,1201 517,1215 520,1215 520,1230 514,1230 514,1231 512,1231 512,1232 511,1232 511,1233 510,1233 510,1234 509,1234 509,1235 507,1235 507,1234 506,1234 506,1202 507,1202 507,1201 508,1201 508,1200 509,1200 509,1199 510,1199 510,1198 511,1198 511,1197"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c9">
+	<Coords points="520,1210 531,1210 531,1236 520,1236"/>
+	<TextEquiv conf="0.69061">
+	<Unicode>ꝛ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c10">
+	<Coords points="533,1199 566,1199 566,1243 533,1243"/>
+	<TextEquiv conf="0.71171">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c11">
+	<Coords points="568,1209 580,1209 580,1237 568,1237"/>
+	<TextEquiv conf="0.78501">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c12">
+	<Coords points="583,1205 596,1205 596,1238 583,1238"/>
+	<TextEquiv conf="0.74324">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c13">
+	<Coords points="595,1207 620,1207 620,1245 595,1245"/>
+	<TextEquiv conf="0.76279">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c14">
+	<Coords points="620,1212 633,1212 633,1236 620,1236"/>
+	<TextEquiv conf="0.85757">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Gottfꝛtige</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w110" language="German" readingDirection="left-to-right">
+	<Coords points="645,1200 699,1200 699,1206 763,1206 763,1243 748,1243 748,1242 645,1242"/>
+	<Glyph id="c223">
+	<Coords points="645,1200 699,1200 699,1242 645,1242"/>
+	<TextEquiv conf="0.68473">
+	<Unicode>M</Unicode></TextEquiv></Glyph>
+	<Glyph id="c225">
+	<Coords points="702,1213 720,1213 720,1240 702,1240"/>
+	<TextEquiv conf="0.72461">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c227">
+	<Coords points="724,1214 745,1214 745,1239 724,1239"/>
+	<TextEquiv conf="0.73477">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c229">
+	<Coords points="748,1206 763,1206 763,1243 748,1243"/>
+	<TextEquiv conf="0.81210">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Man/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>ALls Job der Gottfꝛtige Man/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="229,1244 261,1244 261,1245 320,1245 320,1246 390,1246 390,1247 493,1247 493,1252 620,1252 620,1249 655,1249 655,1252 767,1252 767,1249 786,1249 786,1256 854,1256 854,1291 837,1291 837,1287 671,1287 671,1286 620,1286 620,1285 543,1285 543,1284 390,1284 390,1286 379,1286 379,1281 329,1281 329,1277 265,1277 265,1274 229,1274"/>
+	<Word id="w99" language="German" readingDirection="left-to-right">
+	<Coords points="229,1244 261,1244 261,1245 320,1245 320,1277 265,1277 265,1274 229,1274"/>
+	<Glyph id="c991">
+	<Coords points="229,1244 261,1244 261,1274 229,1274"/>
+	<TextEquiv conf="0.82587">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c993">
+	<Coords points="265,1253 298,1253 298,1277 265,1277"/>
+	<TextEquiv conf="0.86046">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c995">
+	<Coords points="300,1245 320,1245 320,1277 300,1277"/>
+	<TextEquiv conf="0.77721">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vmb</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w100" language="German" readingDirection="left-to-right">
+	<Coords points="351,1246 369,1246 369,1281 329,1281 329,1257 351,1257"/>
+	<Glyph id="c3">
+	<Coords points="329,1257 349,1257 349,1281 329,1281"/>
+	<TextEquiv conf="0.79565">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c4">
+	<Coords points="351,1246 369,1246 369,1281 351,1281"/>
+	<TextEquiv conf="0.75778">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w101" language="German" readingDirection="left-to-right">
+	<Coords points="379,1246 390,1246 390,1252 421,1252 421,1259 443,1259 443,1283 390,1283 390,1286 379,1286"/>
+	<Glyph id="c163">
+	<Coords points="379,1246 390,1246 390,1286 379,1286"/>
+	<TextEquiv conf="0.65337">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c165">
+	<Coords points="391,1257 408,1257 408,1282 391,1282"/>
+	<TextEquiv conf="0.76441">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c5">
+	<Coords points="410,1252 421,1252 421,1283 410,1283"/>
+	<TextEquiv conf="0.78450">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c6">
+	<Coords points="423,1259 443,1259 443,1283 423,1283"/>
+	<TextEquiv conf="0.80410">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w102" language="German" readingDirection="left-to-right">
+	<Coords points="455,1247 493,1247 493,1256 535,1256 535,1282 493,1282 493,1284 455,1284"/>
+	<Glyph id="c169">
+	<Coords points="455,1247 493,1247 493,1284 455,1284"/>
+	<TextEquiv conf="0.77558">
+	<Unicode>G</Unicode></TextEquiv></Glyph>
+	<Glyph id="c171">
+	<Coords points="498,1257 519,1257 519,1282 498,1282"/>
+	<TextEquiv conf="0.81288">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c173">
+	<Coords points="521,1256 535,1256 535,1282 521,1282"/>
+	<TextEquiv conf="0.77472">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Gut</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w104" language="German" readingDirection="left-to-right">
+	<Coords points="589,1252 611,1252 611,1285 543,1285 543,1260 589,1260"/>
+	<Glyph id="c175">
+	<Coords points="543,1260 565,1260 565,1285 543,1285"/>
+	<TextEquiv conf="0.80860">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c177">
+	<Coords points="567,1260 587,1260 587,1284 567,1284"/>
+	<TextEquiv conf="0.80730">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c179">
+	<Coords points="589,1252 611,1252 611,1285 589,1285"/>
+	<TextEquiv conf="0.82016">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w105" language="German" readingDirection="left-to-right">
+	<Coords points="620,1249 655,1249 655,1252 670,1252 670,1254 716,1254 716,1262 733,1262 733,1264 752,1264 752,1287 671,1287 671,1286 620,1286"/>
+	<Glyph id="c181">
+	<Coords points="620,1249 655,1249 655,1286 620,1286"/>
+	<TextEquiv conf="0.75843">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c183">
+	<Coords points="657,1252 670,1252 670,1284 657,1284"/>
+	<TextEquiv conf="0.74254">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c185">
+	<Coords points="671,1264 693,1264 693,1287 671,1287"/>
+	<TextEquiv conf="0.75099">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c187">
+	<Coords points="695,1254 716,1254 716,1287 695,1287"/>
+	<TextEquiv conf="0.83396">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c7">
+	<Coords points="718,1262 733,1262 733,1285 718,1285"/>
+	<TextEquiv conf="0.82843">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c8">
+	<Coords points="736,1264 752,1264 752,1287 736,1287"/>
+	<TextEquiv conf="0.75329">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Kinder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w106" language="German" readingDirection="left-to-right">
+	<Coords points="767,1249 786,1249 786,1256 854,1256 854,1291 837,1291 837,1287 783,1287 783,1285 767,1285"/>
+	<Glyph id="c191">
+	<Coords points="767,1249 786,1249 786,1285 767,1285"/>
+	<TextEquiv conf="0.77014">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c193">
+	<Coords points="783,1260 803,1260 803,1287 783,1287"/>
+	<TextEquiv conf="0.79978">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c195">
+	<Coords points="805,1257 840,1257 840,1287 805,1287"/>
+	<TextEquiv conf="0.77921">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c197">
+	<Coords points="837,1256 854,1256 854,1291 837,1291"/>
+	<TextEquiv conf="0.63935">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>kam/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vmb a ſein Gut vnd Kinder kam/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="224,1290 255,1290 255,1293 363,1293 363,1290 381,1290 381,1293 534,1293 534,1305 554,1305 554,1306 675,1306 675,1301 768,1301 768,1299 772,1299 772,1298 774,1298 774,1302 855,1302 855,1341 823,1341 823,1343 744,1343 744,1340 704,1340 704,1332 534,1332 534,1335 514,1335 514,1330 486,1330 486,1329 381,1329 381,1331 363,1331 363,1327 312,1327 312,1324 224,1324"/>
+	<Word id="w86" language="German" readingDirection="left-to-right">
+	<Coords points="224,1290 255,1290 255,1293 302,1293 302,1324 224,1324"/>
+	<Glyph id="c919">
+	<Coords points="224,1290 255,1290 255,1324 224,1324"/>
+	<TextEquiv conf="0.81246">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c921">
+	<Coords points="257,1299 280,1299 280,1324 257,1324"/>
+	<TextEquiv conf="0.82278">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c923">
+	<Coords points="282,1293 302,1293 302,1324 282,1324"/>
+	<TextEquiv conf="0.87417">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w87" language="German" readingDirection="left-to-right">
+	<Coords points="332,1301 353,1301 353,1325 332,1325 332,1327 312,1327 312,1303 332,1303"/>
+	<Glyph id="c925">
+	<Coords points="312,1303 332,1303 332,1327 312,1327"/>
+	<TextEquiv conf="0.77978">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c927">
+	<Coords points="332,1301 353,1301 353,1325 332,1325"/>
+	<TextEquiv conf="0.76174">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w88" language="German" readingDirection="left-to-right">
+	<Coords points="363,1290 381,1290 381,1298 403,1298 403,1304 436,1304 436,1328 381,1328 381,1331 363,1331"/>
+	<Glyph id="c929">
+	<Coords points="363,1290 381,1290 381,1331 363,1331"/>
+	<TextEquiv conf="0.73883">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c931">
+	<Coords points="374,1302 391,1302 391,1327 374,1327"/>
+	<TextEquiv conf="0.64622">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c933">
+	<Coords points="393,1298 403,1298 403,1326 393,1326"/>
+	<TextEquiv conf="0.82789">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c935">
+	<Coords points="404,1304 436,1304 436,1328 404,1328"/>
+	<TextEquiv conf="0.83249">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſeim</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w89" language="German" readingDirection="left-to-right">
+	<Coords points="447,1293 457,1293 457,1294 505,1294 505,1330 486,1330 486,1329 457,1329 457,1328 447,1328"/>
+	<Glyph id="c937">
+	<Coords points="447,1293 457,1293 457,1328 447,1328"/>
+	<TextEquiv conf="0.74062">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c939">
+	<Coords points="457,1304 471,1304 471,1329 457,1329"/>
+	<TextEquiv conf="0.83896">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c941">
+	<Coords points="474,1305 483,1305 483,1329 474,1329"/>
+	<TextEquiv conf="0.79802">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c943">
+	<Coords points="486,1294 505,1294 505,1330 486,1330"/>
+	<TextEquiv conf="0.75394">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>leib</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w90" language="German" readingDirection="left-to-right">
+	<Coords points="514,1293 534,1293 534,1305 554,1305 554,1306 587,1306 587,1332 534,1332 534,1335 514,1335"/>
+	<Glyph id="c945">
+	<Coords points="514,1293 534,1293 534,1335 514,1335"/>
+	<TextEquiv conf="0.69534">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c947">
+	<Coords points="534,1305 554,1305 554,1330 534,1330"/>
+	<TextEquiv conf="0.64499">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c949">
+	<Coords points="555,1306 571,1306 571,1329 555,1329"/>
+	<TextEquiv conf="0.73412">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c951">
+	<Coords points="572,1306 587,1306 587,1332 572,1332"/>
+	<TextEquiv conf="0.83222">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>hart</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w91" language="German" readingDirection="left-to-right">
+	<Coords points="675,1301 696,1301 696,1332 632,1332 632,1331 597,1331 597,1306 675,1306"/>
+	<Glyph id="c953">
+	<Coords points="597,1306 630,1306 630,1331 597,1331"/>
+	<TextEquiv conf="0.80956">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c955">
+	<Coords points="632,1308 653,1308 653,1332 632,1332"/>
+	<TextEquiv conf="0.87895">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c957">
+	<Coords points="657,1310 672,1310 672,1332 657,1332"/>
+	<TextEquiv conf="0.73784">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c959">
+	<Coords points="675,1301 696,1301 696,1332 675,1332"/>
+	<TextEquiv conf="0.80370">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wurd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w92" language="German" readingDirection="left-to-right">
+	<Coords points="772,1298 774,1298 774,1302 855,1302 855,1341 823,1341 823,1343 744,1343 744,1340 704,1340 704,1305 768,1305 768,1299 772,1299"/>
+	<Glyph id="c961">
+	<Coords points="704,1305 727,1305 727,1340 704,1340"/>
+	<TextEquiv conf="0.74998">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c963">
+	<Coords points="728,1309 742,1309 742,1332 728,1332"/>
+	<TextEquiv conf="0.66305">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c965">
+	<Coords points="744,1308 766,1308 766,1343 744,1343"/>
+	<TextEquiv conf="0.75935">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c47">
+	<Coords points="774,1298 774,1328 773,1328 773,1329 771,1329 771,1330 771,1329 770,1329 770,1328 768,1328 768,1299 772,1299 772,1298"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c48">
+	<Coords points="789,1308 789,1309 791,1309 791,1310 793,1310 793,1311 794,1311 794,1312 795,1312 795,1326 794,1326 794,1329 792,1329 792,1331 782,1331 782,1332 781,1332 781,1330 780,1330 780,1327 779,1327 779,1324 778,1324 778,1323 779,1323 779,1319 780,1319 780,1318 781,1318 781,1316 782,1316 782,1314 783,1314 783,1312 784,1312 784,1311 785,1311 785,1310 786,1310 786,1308"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c969">
+	<Coords points="799,1306 823,1306 823,1343 799,1343"/>
+	<TextEquiv conf="0.76717">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c971">
+	<Coords points="825,1307 839,1307 839,1336 825,1336"/>
+	<TextEquiv conf="0.71509">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c973">
+	<Coords points="841,1302 855,1302 855,1341 841,1341"/>
+	<TextEquiv conf="0.67270">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>geplagt/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vnd an ſeim leib hart wurd geplagt/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="213,1336 242,1336 242,1339 294,1339 294,1345 411,1345 411,1342 432,1342 432,1336 453,1336 453,1341 520,1341 520,1342 521,1342 521,1343 575,1343 575,1345 689,1345 689,1342 711,1342 711,1353 749,1353 749,1358 763,1358 763,1371 774,1371 774,1372 776,1372 776,1373 778,1373 778,1374 779,1374 779,1375 778,1375 778,1377 776,1377 776,1378 775,1378 775,1380 749,1380 749,1389 727,1389 727,1386 689,1386 689,1384 581,1384 581,1385 580,1385 580,1386 579,1386 579,1387 570,1387 570,1385 491,1385 491,1384 371,1384 371,1378 339,1378 339,1376 320,1376 320,1375 246,1375 246,1374 213,1374"/>
+	<Word id="w93" language="German" readingDirection="left-to-right">
+	<Coords points="213,1336 242,1336 242,1339 294,1339 294,1375 246,1375 246,1374 213,1374"/>
+	<Glyph id="c975">
+	<Coords points="213,1336 242,1336 242,1374 213,1374"/>
+	<TextEquiv conf="0.79013">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c977">
+	<Coords points="246,1341 257,1341 257,1375 246,1375"/>
+	<TextEquiv conf="0.83545">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c979">
+	<Coords points="257,1348 273,1348 273,1375 257,1375"/>
+	<TextEquiv conf="0.73514">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c981">
+	<Coords points="274,1339 294,1339 294,1375 274,1375"/>
+	<TextEquiv conf="0.91277">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Lied</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w95" language="German" readingDirection="left-to-right">
+	<Coords points="339,1347 360,1347 360,1378 339,1378 339,1376 320,1376 320,1375 302,1375 302,1348 339,1348"/>
+	<Glyph id="c983">
+	<Coords points="302,1348 318,1348 318,1375 302,1375"/>
+	<TextEquiv conf="0.82813">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c985">
+	<Coords points="320,1350 337,1350 337,1376 320,1376"/>
+	<TextEquiv conf="0.72756">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c987">
+	<Coords points="339,1347 360,1347 360,1378 339,1378"/>
+	<TextEquiv conf="0.69955">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ers</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w154" language="German" readingDirection="left-to-right">
+	<Coords points="432,1336 453,1336 453,1341 520,1341 520,1342 521,1342 521,1343 575,1343 575,1345 600,1345 600,1384 581,1384 581,1385 580,1385 580,1386 579,1386 579,1387 570,1387 570,1385 491,1385 491,1384 371,1384 371,1345 411,1345 411,1342 432,1342"/>
+	<Glyph id="c543">
+	<Coords points="371,1345 395,1345 395,1384 371,1384"/>
+	<TextEquiv conf="0.73332">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c545">
+	<Coords points="396,1349 410,1349 410,1375 396,1375"/>
+	<TextEquiv conf="0.72741">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c547">
+	<Coords points="411,1342 432,1342 432,1373 411,1373"/>
+	<TextEquiv conf="0.75595">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c549">
+	<Coords points="432,1336 453,1336 453,1375 432,1375"/>
+	<TextEquiv conf="0.70232">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c551">
+	<Coords points="454,1341 463,1341 463,1375 454,1375"/>
+	<TextEquiv conf="0.75712">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c553">
+	<Coords points="464,1348 479,1348 479,1375 464,1375"/>
+	<TextEquiv conf="0.76739">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c555">
+	<Coords points="480,1354 490,1354 490,1377 480,1377"/>
+	<TextEquiv conf="0.65875">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c557">
+	<Coords points="491,1347 517,1347 517,1385 491,1385"/>
+	<TextEquiv conf="0.70919">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c49">
+	<Coords points="520,1341 520,1342 521,1342 521,1343 522,1343 522,1344 526,1344 526,1345 528,1345 528,1347 529,1347 529,1357 528,1357 528,1358 523,1358 523,1370 522,1370 522,1371 521,1371 521,1374 513,1374 513,1348 516,1348 516,1343 517,1343 517,1342 518,1342 518,1341"/>
+	<TextEquiv>
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c50">
+	<Coords points="538,1343 538,1372 537,1372 537,1375 535,1375 535,1376 535,1375 534,1375 534,1374 532,1374 532,1373 531,1373 531,1365 532,1365 532,1344 533,1344 533,1343"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1012">
+	<Coords points="547,1353 548,1353 548,1354 549,1354 549,1355 550,1355 550,1366 553,1366 550,1366 550,1373 548,1373 548,1374 547,1374 547,1375 546,1375 546,1374 543,1374 543,1373 542,1373 542,1372 541,1372 542,1372 542,1355 543,1355 543,1354 544,1354 544,1353 547,1353 547,1352"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1013">
+	<Coords points="575,1343 575,1354 581,1354 581,1355 582,1355 582,1357 583,1357 583,1358 584,1358 584,1359 585,1359 585,1378 584,1378 584,1380 583,1380 583,1381 582,1381 582,1382 581,1382 581,1385 580,1385 580,1386 579,1386 579,1387 570,1387 570,1385 560,1385 560,1383 557,1383 557,1382 556,1382 556,1381 555,1381 555,1362 556,1362 556,1360 557,1360 557,1359 558,1359 558,1358 559,1358 559,1357 561,1357 561,1355 562,1355 562,1354 567,1354 567,1345 568,1345 568,1344 573,1344 573,1343"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c565">
+	<Coords points="586,1345 600,1345 600,1384 586,1384"/>
+	<TextEquiv conf="0.86887">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>gedltigkli/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w155" language="German" readingDirection="left-to-right">
+	<Coords points="650,1347 671,1347 671,1378 603,1378 603,1353 650,1353"/>
+	<Glyph id="c567">
+	<Coords points="603,1353 626,1353 626,1378 603,1378"/>
+	<TextEquiv conf="0.70137">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c569">
+	<Coords points="627,1353 649,1353 649,1377 627,1377"/>
+	<TextEquiv conf="0.68379">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c571">
+	<Coords points="650,1347 671,1347 671,1378 650,1378"/>
+	<TextEquiv conf="0.81463">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w156" language="German" readingDirection="left-to-right">
+	<Coords points="689,1342 711,1342 711,1353 749,1353 749,1358 763,1358 763,1371 774,1371 774,1372 776,1372 776,1373 778,1373 778,1374 779,1374 779,1375 778,1375 778,1377 776,1377 776,1378 775,1378 775,1380 749,1380 749,1389 727,1389 727,1386 689,1386"/>
+	<Glyph id="c573">
+	<Coords points="689,1342 711,1342 711,1386 689,1386"/>
+	<TextEquiv conf="0.65196">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c575">
+	<Coords points="706,1355 724,1355 724,1381 706,1381"/>
+	<TextEquiv conf="0.70787">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c577">
+	<Coords points="727,1353 749,1353 749,1389 727,1389"/>
+	<TextEquiv conf="0.71872">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1010">
+	<Coords points="763,1358 763,1373 762,1373 762,1374 761,1374 761,1375 760,1375 760,1377 759,1377 759,1378 758,1378 758,1379 755,1379 755,1378 754,1378 754,1377 753,1377 753,1373 752,1373 752,1372 751,1372 751,1371 752,1371 752,1359 753,1359 753,1358"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1011">
+	<Coords points="774,1371 774,1372 776,1372 776,1373 778,1373 778,1374 779,1374 779,1375 778,1375 778,1377 776,1377 776,1378 775,1378 775,1380 769,1380 769,1379 768,1379 768,1377 769,1377 769,1375 770,1375 770,1373 771,1373 771,1372 772,1372 772,1371"/>
+	<TextEquiv>
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſagt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Lied ers gedltigkli/ vnd ſagt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ALls Job der Gottfꝛtige Man/
+Vmb a ſein Gut vnd Kinder kam/
+Vnd an ſeim leib hart wurd geplagt/
+Lied ers gedltigkli/ vnd ſagt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r10" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="heading" align="centre" primaryLanguage="German">
+	<Coords points="463,1397 488,1397 488,1418 501,1418 501,1426 463,1426"/>
+	<TextLine id="l30">
+	<Coords points="463,1397 488,1397 488,1418 501,1418 501,1426 463,1426"/>
+	<Word id="w111" language="German" readingDirection="left-to-right">
+	<Coords points="463,1397 488,1397 488,1418 501,1418 501,1426 463,1426"/>
+	<Glyph id="c231">
+	<Coords points="463,1397 488,1397 488,1426 463,1426"/>
+	<TextEquiv conf="0.69199">
+	<Unicode>2</Unicode></TextEquiv></Glyph>
+	<Glyph id="c233">
+	<Coords points="490,1418 501,1418 501,1426 490,1426"/>
+	<TextEquiv conf="0.78236">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>2.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>2.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r12" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" align="centre" primaryLanguage="German">
+	<Coords points="120,1433 171,1433 171,1439 212,1439 212,1444 365,1444 365,1437 440,1437 440,1439 504,1439 504,1442 586,1442 586,1443 698,1443 698,1456 739,1456 739,1542 764,1542 764,1598 794,1598 794,1633 738,1633 738,1636 712,1636 712,1627 525,1627 525,1632 388,1632 388,1630 325,1630 325,1629 324,1629 324,1628 258,1628 258,1620 168,1620 168,1583 169,1583 169,1475 120,1475"/>
+	<TextLine id="l31">
+	<Coords points="120,1433 171,1433 171,1439 212,1439 212,1444 365,1444 365,1437 440,1437 440,1439 504,1439 504,1442 586,1442 586,1443 698,1443 698,1456 739,1456 739,1483 719,1483 719,1486 698,1486 698,1492 675,1492 675,1486 631,1486 631,1481 504,1481 504,1484 365,1484 365,1479 265,1479 265,1478 243,1478 243,1477 219,1477 219,1475 120,1475"/>
+	<Word id="w112" language="German" readingDirection="left-to-right">
+	<Coords points="120,1433 171,1433 171,1439 212,1439 212,1475 120,1475"/>
+	<Glyph id="c235">
+	<Coords points="120,1433 171,1433 171,1475 120,1475"/>
+	<TextEquiv conf="0.78616">
+	<Unicode>W</Unicode></TextEquiv></Glyph>
+	<Glyph id="c237">
+	<Coords points="173,1449 188,1449 188,1472 173,1472"/>
+	<TextEquiv conf="0.83222">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c239">
+	<Coords points="189,1445 201,1445 201,1475 189,1475"/>
+	<TextEquiv conf="0.76955">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c241">
+	<Coords points="201,1439 212,1439 212,1475 201,1475"/>
+	<TextEquiv conf="0.81764">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Weil</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w113" language="German" readingDirection="left-to-right">
+	<Coords points="265,1450 285,1450 285,1479 265,1479 265,1478 243,1478 243,1477 219,1477 219,1452 243,1452 243,1451 265,1451"/>
+	<Glyph id="c243">
+	<Coords points="219,1452 241,1452 241,1477 219,1477"/>
+	<TextEquiv conf="0.75574">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c245">
+	<Coords points="243,1451 264,1451 264,1478 243,1478"/>
+	<TextEquiv conf="0.76139">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c247">
+	<Coords points="265,1450 285,1450 285,1479 265,1479"/>
+	<TextEquiv conf="0.77778">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>vns</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w114" language="German" readingDirection="left-to-right">
+	<Coords points="293,1444 315,1444 315,1453 348,1453 348,1478 293,1478"/>
+	<Glyph id="c249">
+	<Coords points="293,1444 315,1444 315,1478 293,1478"/>
+	<TextEquiv conf="0.83450">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c251">
+	<Coords points="316,1453 331,1453 331,1478 316,1478"/>
+	<TextEquiv conf="0.80012">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c253">
+	<Coords points="332,1453 348,1453 348,1478 332,1478"/>
+	<TextEquiv conf="0.79275">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w115" language="German" readingDirection="left-to-right">
+	<Coords points="365,1437 440,1437 440,1452 454,1452 454,1453 463,1453 463,1454 469,1454 469,1460 467,1460 467,1473 466,1473 466,1474 465,1474 465,1475 446,1475 446,1476 440,1476 440,1478 406,1478 406,1484 365,1484"/>
+	<Glyph id="c255">
+	<Coords points="365,1437 406,1437 406,1484 365,1484"/>
+	<TextEquiv conf="0.62564">
+	<Unicode>H</Unicode></TextEquiv></Glyph>
+	<Glyph id="c257">
+	<Coords points="406,1437 440,1437 440,1478 406,1478"/>
+	<TextEquiv conf="0.69176">
+	<Unicode>E</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1014">
+	<Coords points="454,1452 454,1459 450,1459 450,1474 449,1474 449,1475 446,1475 446,1476 446,1475 445,1475 445,1474 443,1474 443,1473 442,1473 442,1470 441,1470 441,1456 442,1456 442,1455 443,1455 443,1454 444,1454 444,1453 453,1453 453,1452"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1015">
+	<Coords points="463,1453 463,1454 469,1454 469,1460 467,1460 467,1473 466,1473 466,1474 465,1474 465,1475 463,1475 463,1474 460,1474 460,1473 459,1473 459,1472 458,1472 458,1457 456,1457 456,1454 461,1454 461,1453"/>
+	<TextEquiv>
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>HErr</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w116" language="German" readingDirection="left-to-right">
+	<Coords points="491,1439 504,1439 504,1442 586,1442 586,1480 504,1480 504,1484 491,1484"/>
+	<Glyph id="c263">
+	<Coords points="491,1439 504,1439 504,1484 491,1484"/>
+	<TextEquiv conf="0.73596">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1016">
+	<Coords points="515,1453 515,1454 516,1454 516,1455 517,1455 517,1456 518,1456 518,1457 519,1457 519,1458 520,1458 520,1463 519,1463 519,1468 518,1468 518,1470 517,1470 517,1471 516,1471 516,1472 515,1472 515,1474 514,1474 514,1475 512,1475 512,1476 511,1476 511,1477 510,1477 510,1476 509,1476 509,1475 508,1475 508,1453"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1017">
+	<Coords points="540,1453 540,1454 541,1454 541,1455 542,1455 542,1456 543,1456 543,1457 544,1457 544,1458 545,1458 545,1463 544,1463 544,1466 543,1466 543,1468 542,1468 542,1469 541,1469 541,1471 540,1471 540,1472 539,1472 539,1473 538,1473 538,1474 537,1474 537,1475 536,1475 536,1476 535,1476 535,1477 534,1477 534,1478 532,1478 532,1477 531,1477 531,1476 529,1476 529,1475 528,1475 528,1474 527,1474 527,1473 526,1473 526,1456 525,1456 526,1456 526,1455 527,1455 527,1454 528,1454 528,1453"/>
+	<TextEquiv>
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c267">
+	<Coords points="547,1444 560,1444 560,1479 547,1479"/>
+	<TextEquiv conf="0.78053">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c269">
+	<Coords points="559,1453 574,1453 574,1479 559,1479"/>
+	<TextEquiv conf="0.82646">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c271">
+	<Coords points="576,1442 586,1442 586,1480 576,1480"/>
+	<TextEquiv conf="0.87105">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſoviel</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w117" language="German" readingDirection="left-to-right">
+	<Coords points="675,1443 698,1443 698,1456 739,1456 739,1483 719,1483 719,1486 698,1486 698,1492 675,1492 675,1486 631,1486 631,1481 596,1481 596,1454 651,1454 651,1444 675,1444"/>
+	<Glyph id="c273">
+	<Coords points="596,1454 630,1454 630,1481 596,1481"/>
+	<TextEquiv conf="0.73198">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c275">
+	<Coords points="631,1458 650,1458 650,1486 631,1486"/>
+	<TextEquiv conf="0.85321">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c277">
+	<Coords points="651,1444 662,1444 662,1484 651,1484"/>
+	<TextEquiv conf="0.70812">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c279">
+	<Coords points="661,1455 674,1455 674,1482 661,1482"/>
+	<TextEquiv conf="0.77017">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c281">
+	<Coords points="675,1443 698,1443 698,1492 675,1492"/>
+	<TextEquiv conf="0.66833">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c283">
+	<Coords points="699,1458 719,1458 719,1486 699,1486"/>
+	<TextEquiv conf="0.69899">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c285">
+	<Coords points="720,1456 739,1456 739,1483 720,1483"/>
+	<TextEquiv conf="0.73913">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wolthat</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Weil vns der HErr ſoviel wolthat</Unicode></TextEquiv></TextLine>
+	<TextLine id="l32">
+	<Coords points="170,1488 204,1488 204,1490 302,1490 302,1499 516,1499 516,1495 593,1495 593,1493 614,1493 614,1497 665,1497 665,1533 553,1533 553,1535 529,1535 529,1533 483,1533 483,1528 372,1528 372,1535 348,1535 348,1530 319,1530 319,1528 258,1528 258,1523 228,1523 228,1522 170,1522"/>
+	<Word id="w118" language="German" readingDirection="left-to-right">
+	<Coords points="170,1488 204,1488 204,1493 249,1493 249,1523 228,1523 228,1522 170,1522"/>
+	<Glyph id="c287">
+	<Coords points="170,1488 204,1488 204,1522 170,1522"/>
+	<TextEquiv conf="0.83317">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c289">
+	<Coords points="204,1498 225,1498 225,1522 204,1522"/>
+	<TextEquiv conf="0.81475">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c291">
+	<Coords points="228,1493 249,1493 249,1523 228,1523"/>
+	<TextEquiv conf="0.90420">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w119" language="German" readingDirection="left-to-right">
+	<Coords points="281,1490 302,1490 302,1500 338,1500 338,1530 319,1530 319,1528 258,1528 258,1503 281,1503"/>
+	<Glyph id="c293">
+	<Coords points="258,1503 279,1503 279,1528 258,1528"/>
+	<TextEquiv conf="0.75392">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c295">
+	<Coords points="281,1490 302,1490 302,1528 281,1528"/>
+	<TextEquiv conf="0.73236">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c297">
+	<Coords points="302,1501 319,1501 319,1527 302,1527"/>
+	<TextEquiv conf="0.80675">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c299">
+	<Coords points="319,1500 338,1500 338,1530 319,1530"/>
+	<TextEquiv conf="0.74434">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>aes</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w120" language="German" readingDirection="left-to-right">
+	<Coords points="348,1499 432,1499 432,1528 372,1528 372,1535 348,1535"/>
+	<Glyph id="c301">
+	<Coords points="348,1499 372,1499 372,1535 348,1535"/>
+	<TextEquiv conf="0.81133">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c303">
+	<Coords points="373,1501 394,1501 394,1527 373,1527"/>
+	<TextEquiv conf="0.87522">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c305">
+	<Coords points="396,1499 410,1499 410,1527 396,1527"/>
+	<TextEquiv conf="0.74450">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c307">
+	<Coords points="411,1499 432,1499 432,1528 411,1528"/>
+	<TextEquiv conf="0.75017">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>guts</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w121" language="German" readingDirection="left-to-right">
+	<Coords points="516,1495 527,1495 527,1498 553,1498 553,1501 582,1501 582,1528 553,1528 553,1535 529,1535 529,1533 483,1533 483,1526 466,1526 466,1525 449,1525 449,1501 483,1501 483,1500 516,1500"/>
+	<Glyph id="c309">
+	<Coords points="449,1501 464,1501 464,1525 449,1525"/>
+	<TextEquiv conf="0.70054">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c311">
+	<Coords points="466,1501 482,1501 482,1526 466,1526"/>
+	<TextEquiv conf="0.71561">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c313">
+	<Coords points="483,1500 499,1500 499,1533 483,1533"/>
+	<TextEquiv conf="0.78631">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c315">
+	<Coords points="500,1502 515,1502 515,1527 500,1527"/>
+	<TextEquiv conf="0.74423">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c317">
+	<Coords points="516,1495 527,1495 527,1527 516,1527"/>
+	<TextEquiv conf="0.79596">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c319">
+	<Coords points="529,1498 553,1498 553,1535 529,1535"/>
+	<TextEquiv conf="0.79239">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c321">
+	<Coords points="552,1502 568,1502 568,1526 552,1526"/>
+	<TextEquiv conf="0.81893">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c323">
+	<Coords points="569,1501 582,1501 582,1528 569,1528"/>
+	<TextEquiv conf="0.78053">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>erzeiget</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w122" language="German" readingDirection="left-to-right">
+	<Coords points="593,1493 614,1493 614,1497 665,1497 665,1533 593,1533"/>
+	<Glyph id="c325">
+	<Coords points="593,1493 614,1493 614,1533 593,1533"/>
+	<TextEquiv conf="0.79858">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c327">
+	<Coords points="615,1504 635,1504 635,1531 615,1531"/>
+	<TextEquiv conf="0.74518">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c329">
+	<Coords points="637,1503 652,1503 652,1531 637,1531"/>
+	<TextEquiv conf="0.74973">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c331">
+	<Coords points="652,1497 665,1497 665,1533 652,1533"/>
+	<TextEquiv conf="0.80230">
+	<Unicode>/</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>hat/</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vnd aes guts erzeiget hat/</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="169,1530 219,1530 219,1540 343,1540 343,1538 360,1538 360,1539 383,1539 383,1548 398,1548 398,1550 512,1550 512,1543 549,1543 549,1539 563,1539 563,1545 666,1545 666,1544 742,1544 742,1542 764,1542 764,1587 742,1587 742,1582 549,1582 549,1576 373,1576 373,1578 343,1578 343,1575 314,1575 314,1572 242,1572 242,1568 219,1568 219,1567 169,1567"/>
+	<Word id="w123" language="German" readingDirection="left-to-right">
+	<Coords points="169,1530 219,1530 219,1540 334,1540 334,1575 314,1575 314,1572 242,1572 242,1568 219,1568 219,1567 169,1567"/>
+	<Glyph id="c333">
+	<Coords points="169,1530 219,1530 219,1567 169,1567"/>
+	<TextEquiv conf="0.81060">
+	<Unicode>W</Unicode></TextEquiv></Glyph>
+	<Glyph id="c335">
+	<Coords points="219,1544 238,1544 238,1568 219,1568"/>
+	<TextEquiv conf="0.64787">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c337">
+	<Coords points="242,1547 258,1547 258,1572 242,1572"/>
+	<TextEquiv conf="0.76096">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1018">
+	<Coords points="262,1548 275,1548 275,1549 276,1549 276,1550 277,1550 277,1551 283,1551 283,1570 263,1570 263,1571 262,1571 262,1570 261,1570 261,1568 260,1568 260,1548 262,1548 262,1547"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1019">
+	<Coords points="306,1548 306,1549 307,1549 307,1550 309,1550 309,1551 311,1551 311,1561 309,1561 309,1570 307,1570 307,1571 306,1571 306,1572 285,1572 285,1549 304,1549 304,1548"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c345">
+	<Coords points="314,1540 334,1540 334,1575 314,1575"/>
+	<TextEquiv conf="0.76692">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Warumb</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w124" language="German" readingDirection="left-to-right">
+	<Coords points="343,1538 360,1538 360,1539 383,1539 383,1548 398,1548 398,1573 383,1573 383,1575 373,1575 373,1578 343,1578"/>
+	<Glyph id="c347">
+	<Coords points="343,1538 360,1538 360,1578 343,1578"/>
+	<TextEquiv conf="0.70029">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c349">
+	<Coords points="353,1549 373,1549 373,1578 353,1578"/>
+	<TextEquiv conf="0.81558">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c351">
+	<Coords points="374,1539 383,1539 383,1575 374,1575"/>
+	<TextEquiv conf="0.76766">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c353">
+	<Coords points="384,1548 398,1548 398,1573 384,1573"/>
+	<TextEquiv conf="0.70228">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſolt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w125" language="German" readingDirection="left-to-right">
+	<Coords points="421,1550 471,1550 471,1576 431,1576 431,1575 414,1575 414,1574 413,1574 413,1573 412,1573 412,1572 411,1572 411,1571 410,1571 410,1560 409,1560 409,1559 408,1559 408,1557 407,1557 407,1556 406,1556 407,1556 407,1553 408,1553 408,1552 409,1552 409,1551 421,1551"/>
+	<Glyph id="c1020">
+	<Coords points="421,1551 433,1551 433,1552 443,1552 443,1571 433,1571 433,1574 432,1574 432,1575 431,1575 431,1576 431,1575 414,1575 414,1574 413,1574 413,1573 412,1573 412,1572 411,1572 411,1571 410,1571 410,1560 409,1560 409,1559 408,1559 408,1557 407,1557 407,1556 406,1556 407,1556 407,1553 408,1553 408,1552 409,1552 409,1551 421,1551 421,1550"/>
+	<TextEquiv>
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1021">
+	<Coords points="446,1550 446,1551 447,1551 447,1552 449,1552 449,1553 450,1553 450,1571 449,1571 449,1572 448,1572 448,1573 446,1573 446,1574 446,1573 445,1573 445,1550"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c357">
+	<Coords points="454,1550 471,1550 471,1576 454,1576"/>
+	<TextEquiv conf="0.82304">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>wir</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w126" language="German" readingDirection="left-to-right">
+	<Coords points="512,1543 523,1543 523,1549 538,1549 538,1575 477,1575 477,1550 512,1550"/>
+	<Glyph id="c359">
+	<Coords points="477,1550 510,1550 510,1575 477,1575"/>
+	<TextEquiv conf="0.87986">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c361">
+	<Coords points="512,1543 523,1543 523,1575 512,1575"/>
+	<TextEquiv conf="0.81102">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c363">
+	<Coords points="525,1549 538,1549 538,1575 525,1575"/>
+	<TextEquiv conf="0.79138">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>mit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w127" language="German" readingDirection="left-to-right">
+	<Coords points="549,1539 563,1539 563,1545 589,1545 589,1550 628,1550 628,1554 645,1554 645,1578 576,1578 576,1582 549,1582"/>
+	<Glyph id="c365">
+	<Coords points="549,1539 563,1539 563,1582 549,1582"/>
+	<TextEquiv conf="0.71301">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c367">
+	<Coords points="560,1553 576,1553 576,1582 560,1582"/>
+	<TextEquiv conf="0.81785">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c369">
+	<Coords points="576,1545 589,1545 589,1578 576,1578"/>
+	<TextEquiv conf="0.79320">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c371">
+	<Coords points="589,1552 609,1552 609,1578 589,1578"/>
+	<TextEquiv conf="0.81456">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c373">
+	<Coords points="612,1550 628,1550 628,1578 612,1578"/>
+	<TextEquiv conf="0.75546">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c375">
+	<Coords points="629,1554 645,1554 645,1578 629,1578"/>
+	<TextEquiv conf="0.79813">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſeiner</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w128" language="German" readingDirection="left-to-right">
+	<Coords points="742,1542 764,1542 764,1587 742,1587 742,1582 666,1582 666,1544 742,1544"/>
+	<Glyph id="c377">
+	<Coords points="666,1544 701,1544 701,1582 666,1582"/>
+	<TextEquiv conf="0.79367">
+	<Unicode>R</Unicode></TextEquiv></Glyph>
+	<Glyph id="c379">
+	<Coords points="704,1555 726,1555 726,1582 704,1582"/>
+	<TextEquiv conf="0.75632">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c381">
+	<Coords points="727,1549 745,1549 745,1580 727,1580"/>
+	<TextEquiv conf="0.58589">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c383">
+	<Coords points="742,1542 764,1542 764,1587 742,1587"/>
+	<TextEquiv conf="0.71552">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Ruth</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Warumb ſolt wir mit ſeiner Ruth</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="168,1583 281,1583 281,1585 345,1585 345,1586 346,1586 346,1588 525,1588 525,1599 607,1599 607,1600 712,1600 712,1598 794,1598 794,1633 738,1633 738,1636 712,1636 712,1627 525,1627 525,1632 388,1632 388,1630 325,1630 325,1629 324,1629 324,1628 258,1628 258,1620 168,1620"/>
+	<Word id="w129" language="German" readingDirection="left-to-right">
+	<Coords points="168,1583 203,1583 203,1585 247,1585 247,1620 168,1620"/>
+	<Glyph id="c385">
+	<Coords points="168,1583 203,1583 203,1620 168,1620"/>
+	<TextEquiv conf="0.85068">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c387">
+	<Coords points="203,1594 226,1594 226,1620 203,1620"/>
+	<TextEquiv conf="0.84108">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c389">
+	<Coords points="227,1585 247,1585 247,1620 227,1620"/>
+	<TextEquiv conf="0.85699">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Vnd</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w158" language="German" readingDirection="left-to-right">
+	<Coords points="258,1583 281,1583 281,1585 345,1585 345,1586 346,1586 346,1602 345,1602 345,1603 344,1603 344,1604 343,1604 343,1605 341,1605 341,1614 340,1614 340,1618 339,1618 339,1622 338,1622 338,1626 337,1626 337,1629 325,1629 325,1630 325,1629 324,1629 324,1628 258,1628"/>
+	<Glyph id="c581">
+	<Coords points="258,1583 281,1583 281,1628 258,1628"/>
+	<TextEquiv conf="0.72706">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c583">
+	<Coords points="282,1596 299,1596 299,1621 282,1621"/>
+	<TextEquiv conf="0.68258">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c585">
+	<Coords points="298,1597 317,1597 317,1623 298,1623"/>
+	<TextEquiv conf="0.74244">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c587">
+	<Coords points="319,1585 345,1585 345,1586 346,1586 346,1602 345,1602 345,1603 344,1603 344,1604 343,1604 343,1605 341,1605 341,1614 340,1614 340,1618 339,1618 339,1622 338,1622 338,1626 337,1626 337,1629 325,1629 325,1630 325,1629 324,1629 324,1628 323,1628 323,1627 319,1627"/>
+	<TextEquiv conf="0.72746">
+	<Unicode>ﬀ</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>raﬀ</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w159" language="German" readingDirection="left-to-right">
+	<Coords points="388,1588 422,1588 422,1597 438,1597 438,1624 422,1624 422,1632 388,1632 388,1624 354,1624 354,1597 374,1597 374,1590 388,1590"/>
+	<Glyph id="c591">
+	<Coords points="354,1597 373,1597 373,1624 354,1624"/>
+	<TextEquiv conf="0.64957">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c593">
+	<Coords points="374,1590 386,1590 386,1622 374,1622"/>
+	<TextEquiv conf="0.81587">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c595">
+	<Coords points="388,1588 422,1588 422,1632 388,1632"/>
+	<TextEquiv conf="0.76605">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c597">
+	<Coords points="424,1597 438,1597 438,1624 424,1624"/>
+	<TextEquiv conf="0.84601">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>nit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w131" language="German" readingDirection="left-to-right">
+	<Coords points="491,1588 525,1588 525,1632 491,1632 491,1626 447,1626 447,1598 468,1598 468,1597 491,1597"/>
+	<Glyph id="c391">
+	<Coords points="447,1598 466,1598 466,1626 447,1626"/>
+	<TextEquiv conf="0.74770">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c393">
+	<Coords points="468,1597 488,1597 488,1625 468,1625"/>
+	<TextEquiv conf="0.81732">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c395">
+	<Coords points="491,1588 525,1588 525,1632 491,1632"/>
+	<TextEquiv conf="0.77040">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>au</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w132" language="German" readingDirection="left-to-right">
+	<Coords points="548,1599 607,1599 607,1601 639,1601 639,1602 642,1602 642,1603 643,1603 643,1617 644,1617 644,1620 643,1620 643,1622 641,1622 641,1623 640,1623 640,1624 638,1624 638,1625 624,1625 624,1626 607,1626 607,1627 576,1627 576,1625 536,1625 536,1604 537,1604 537,1601 538,1601 538,1600 548,1600"/>
+	<Glyph id="c51">
+	<Coords points="551,1599 551,1600 552,1600 552,1601 553,1601 553,1602 554,1602 554,1617 555,1617 555,1618 554,1618 554,1621 553,1621 553,1622 552,1622 552,1623 551,1623 551,1624 537,1624 537,1625 536,1625 536,1604 537,1604 537,1601 538,1601 538,1600 548,1600 548,1599"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c52">
+	<Coords points="569,1600 569,1601 570,1601 570,1602 571,1602 571,1603 572,1603 572,1605 571,1605 571,1618 570,1618 570,1619 569,1619 569,1622 568,1622 568,1623 567,1623 567,1624 565,1624 565,1625 565,1624 563,1624 563,1623 562,1623 562,1622 561,1622 561,1619 560,1619 560,1616 559,1616 559,1611 560,1611 560,1606 561,1606 561,1605 562,1605 562,1604 563,1604 563,1602 565,1602 565,1600"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c399">
+	<Coords points="576,1599 607,1599 607,1627 576,1627"/>
+	<TextEquiv conf="0.83431">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c53">
+	<Coords points="620,1602 620,1603 621,1603 621,1604 622,1604 621,1604 621,1606 620,1606 620,1622 619,1622 619,1624 616,1624 616,1625 615,1625 615,1624 612,1624 612,1623 610,1623 610,1608 609,1608 609,1607 610,1607 610,1606 612,1606 612,1605 613,1605 613,1604 614,1604 614,1603 616,1603 616,1602"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c54">
+	<Coords points="639,1601 639,1602 642,1602 642,1603 643,1603 643,1617 644,1617 644,1620 643,1620 643,1622 641,1622 641,1623 640,1623 640,1624 638,1624 638,1625 624,1625 624,1626 624,1621 625,1621 625,1605 626,1605 626,1603 627,1603 627,1602 637,1602 637,1601"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>nemen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w133" language="German" readingDirection="left-to-right">
+	<Coords points="674,1600 704,1600 704,1627 653,1627 653,1601 674,1601"/>
+	<Glyph id="c403">
+	<Coords points="653,1601 675,1601 675,1627 653,1627"/>
+	<TextEquiv conf="0.62890">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c405">
+	<Coords points="674,1600 693,1600 693,1627 674,1627"/>
+	<TextEquiv conf="0.76784">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c407">
+	<Coords points="693,1600 704,1600 704,1627 693,1627"/>
+	<TextEquiv conf="0.75278">
+	<Unicode>ꝛ</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>voꝛ</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w134" language="German" readingDirection="left-to-right">
+	<Coords points="712,1598 794,1598 794,1633 738,1633 738,1636 712,1636"/>
+	<Glyph id="c409">
+	<Coords points="712,1598 738,1598 738,1636 712,1636"/>
+	<TextEquiv conf="0.69337">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1022">
+	<Coords points="735,1601 736,1601 736,1602 753,1602 753,1603 754,1603 754,1626 752,1626 752,1627 742,1627 742,1628 742,1627 740,1627 740,1626 739,1626 739,1624 738,1624 738,1623 737,1623 737,1622 735,1622 735,1600"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1023">
+	<Coords points="767,1599 767,1600 768,1600 768,1601 769,1601 769,1603 770,1603 770,1604 771,1604 771,1605 772,1605 772,1622 771,1622 771,1623 770,1623 770,1624 769,1624 769,1626 768,1626 768,1627 765,1627 765,1628 764,1628 764,1627 763,1627 763,1626 762,1626 762,1625 761,1625 761,1624 756,1624 756,1606 761,1606 761,1604 762,1604 762,1603 763,1603 763,1602 764,1602 764,1601 765,1601 765,1600 766,1600 766,1599"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c413">
+	<Coords points="775,1598 794,1598 794,1633 775,1633"/>
+	<TextEquiv conf="0.56831">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>gut</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Vnd raﬀ nit au nemen voꝛ gut</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Weil vns der HErr ſoviel wolthat
+Vnd aes guts erzeiget hat/
+Warumb ſolt wir mit ſeiner Ruth
+Vnd raﬀ nit au nemen voꝛ gut</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r13" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="catch-word" align="right" primaryLanguage="German">
+	<Coords points="826,1638 861,1638 861,1653 878,1653 878,1677 826,1677"/>
+	<TextLine id="l35">
+	<Coords points="826,1638 861,1638 861,1653 878,1653 878,1677 826,1677"/>
+	<Word id="w135" language="German" readingDirection="left-to-right">
+	<Coords points="826,1638 861,1638 861,1653 878,1653 878,1677 826,1677"/>
+	<Glyph id="c415">
+	<Coords points="826,1638 861,1638 861,1677 826,1677"/>
+	<TextEquiv conf="0.73496">
+	<Unicode>E</Unicode></TextEquiv></Glyph>
+	<Glyph id="c417">
+	<Coords points="862,1653 878,1653 878,1677 862,1677"/>
+	<TextEquiv conf="0.71424">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Er</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Er</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Er</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></TextRegion>
+	<TextRegion id="r1" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="heading" align="centre" primaryLanguage="German" secondaryLanguage="Latin">
+	<Coords points="214,264 238,264 238,266 364,266 364,265 380,265 380,278 469,278 469,285 579,285 579,271 602,271 602,279 718,279 718,275 750,275 750,271 777,271 777,274 796,274 796,279 838,279 838,301 853,301 853,324 838,324 838,330 818,330 818,328 692,328 692,334 645,334 645,373 631,373 631,376 596,376 596,377 472,377 472,381 382,381 382,382 358,382 358,333 323,333 323,315 190,315 190,317 153,317 153,266 214,266"/>
+	<TextLine id="l19">
+	<Coords points="214,264 238,264 238,266 364,266 364,265 380,265 380,278 469,278 469,285 579,285 579,271 602,271 602,279 718,279 718,275 750,275 750,271 777,271 777,274 796,274 796,279 838,279 838,301 853,301 853,324 838,324 838,330 818,330 818,328 692,328 692,334 664,334 664,322 579,322 579,318 559,318 559,316 452,316 452,334 380,334 380,335 364,335 364,333 323,333 323,315 190,315 190,317 153,317 153,266 214,266"/>
+	<Word id="w52" language="Latin" readingDirection="left-to-right">
+	<Coords points="153,266 190,266 190,275 205,275 205,314 190,314 190,317 153,317"/>
+	<Glyph id="c691">
+	<Coords points="153,266 190,266 190,317 153,317"/>
+	<TextEquiv conf="0.80675">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c693">
+	<Coords points="191,275 205,275 205,314 191,314"/>
+	<TextEquiv conf="0.83811">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Si</Unicode></TextEquiv>
+	<TextStyle fontFamily="Antiqua" italic="true"/></Word>
+	<Word id="w142" language="Latin" readingDirection="left-to-right">
+	<Coords points="214,264 238,264 238,284 289,284 289,287 321,287 321,315 290,315 290,314 265,314 265,312 214,312"/>
+	<Glyph id="c459">
+	<Coords points="214,264 238,264 238,312 214,312"/>
+	<TextEquiv conf="0.77593">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c461">
+	<Coords points="240,286 263,286 263,312 240,312"/>
+	<TextEquiv conf="0.78028">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c463">
+	<Coords points="265,284 289,284 289,314 265,314"/>
+	<TextEquiv conf="0.73451">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c465">
+	<Coords points="290,287 321,287 321,315 290,315"/>
+	<TextEquiv conf="0.51976">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>bona</Unicode></TextEquiv>
+	<TextStyle fontFamily="Antiqua" italic="true"/></Word>
+	<Word id="w57" language="Latin" readingDirection="left-to-right">
+	<Coords points="364,265 380,265 380,288 424,288 424,315 380,315 380,335 364,335 364,333 323,333 323,266 364,266"/>
+	<Glyph id="c467">
+	<Coords points="323,266 342,266 342,333 323,333"/>
+	<TextEquiv conf="0.72195">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c471">
+	<Coords points="340,286 363,286 363,317 340,317"/>
+	<TextEquiv conf="0.84854">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c473">
+	<Coords points="364,265 380,265 380,335 364,335"/>
+	<TextEquiv conf="0.67922">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c475">
+	<Coords points="378,288 403,288 403,315 378,315"/>
+	<TextEquiv conf="0.68226">
+	<Unicode>c</Unicode></TextEquiv></Glyph>
+	<Glyph id="c477">
+	<Coords points="403,288 424,288 424,315 403,315"/>
+	<TextEquiv conf="0.79644">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ſuſce</Unicode></TextEquiv>
+	<TextStyle fontFamily="Antiqua" italic="true"/></Word>
+	<Word id="w77" language="Latin" readingDirection="left-to-right">
+	<Coords points="454,278 469,278 469,285 554,285 554,303 571,303 571,318 559,318 559,316 452,316 452,334 425,334 425,283 454,283"/>
+	<Glyph id="c479">
+	<Coords points="425,283 452,283 452,334 425,334"/>
+	<TextEquiv conf="0.78837">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c481">
+	<Coords points="454,278 469,278 469,314 454,314"/>
+	<TextEquiv conf="0.79478">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c483">
+	<Coords points="469,286 505,286 505,315 469,315"/>
+	<TextEquiv conf="0.75768">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c485">
+	<Coords points="506,288 531,288 531,316 506,316"/>
+	<TextEquiv conf="0.69880">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c487">
+	<Coords points="534,285 554,285 554,315 534,315"/>
+	<TextEquiv conf="0.75170">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<Glyph id="c497">
+	<Coords points="559,303 571,303 571,318 559,318"/>
+	<TextEquiv conf="0.59677">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>pimus,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Antiqua" italic="true"/></Word>
+	<Word id="w146" language="German" readingDirection="left-to-right">
+	<Coords points="579,271 602,271 602,279 651,279 651,322 579,322"/>
+	<Glyph id="c489">
+	<Coords points="579,271 602,271 602,322 579,322"/>
+	<TextEquiv conf="0.86177">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c491">
+	<Coords points="606,283 626,283 626,322 606,322"/>
+	<TextEquiv conf="0.83201">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c493">
+	<Coords points="626,279 651,279 651,322 626,322"/>
+	<TextEquiv conf="0.68344">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w148" language="German" readingDirection="left-to-right">
+	<Coords points="750,271 777,271 777,274 796,274 796,279 838,279 838,301 853,301 853,324 838,324 838,330 818,330 818,328 692,328 692,334 664,334 664,281 718,281 718,275 750,275"/>
+	<Glyph id="c499">
+	<Coords points="664,281 692,281 692,334 664,334"/>
+	<TextEquiv conf="0.79683">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c501">
+	<Coords points="695,285 715,285 715,324 695,324"/>
+	<TextEquiv conf="0.79239">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c503">
+	<Coords points="718,275 746,275 746,325 718,325"/>
+	<TextEquiv conf="0.67808">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c505">
+	<Coords points="750,271 777,271 777,326 750,326"/>
+	<TextEquiv conf="0.63000">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1000">
+	<Coords points="796,274 796,279 795,279 795,280 794,280 794,322 793,322 793,323 792,323 792,324 791,324 791,325 790,325 790,326 789,326 789,327 788,327 788,328 786,328 786,327 785,327 785,326 784,326 784,324 783,324 783,323 781,323 781,322 780,322 780,321 779,321 779,320 780,320 780,319 781,319 781,284 782,284 782,283 783,283 783,282 784,282 784,281 785,281 785,280 787,280 787,279 788,279 788,278 790,278 790,277 791,277 791,276 793,276 793,275 794,275 794,274"/>
+	<TextEquiv>
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1001">
+	<Coords points="811,283 811,284 812,284 812,285 813,285 813,292 814,292 814,293 815,293 815,294 816,294 816,296 815,296 815,297 814,297 814,298 813,298 813,321 812,321 812,322 811,322 811,323 810,323 810,324 809,324 809,325 808,325 808,326 807,326 807,327 806,327 806,328 806,327 804,327 804,326 803,326 803,324 802,324 802,323 801,323 801,322 799,322 799,321 798,321 798,320 799,320 799,296 800,296 800,295 801,295 801,294 802,294 802,293 803,293 803,292 804,292 804,291 805,291 805,290 806,290 806,288 807,288 807,286 808,286 808,284 809,284 809,283"/>
+	<TextEquiv>
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c509">
+	<Coords points="818,279 838,279 838,330 818,330"/>
+	<TextEquiv conf="0.72280">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c513">
+	<Coords points="840,301 853,301 853,324 840,324"/>
+	<TextEquiv conf="0.69962">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>gedlti⸗</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>Si bona ſuſce pimus, des gedlti⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="440,337 472,337 472,339 512,339 512,341 582,341 582,343 631,343 631,367 645,367 645,373 631,373 631,376 596,376 596,377 472,377 472,381 382,381 382,382 358,382 358,347 440,347"/>
+	<Word id="w55" language="German" readingDirection="left-to-right">
+	<Coords points="358,347 382,347 382,349 422,349 422,374 382,374 382,382 358,382"/>
+	<Glyph id="c695">
+	<Coords points="358,347 382,347 382,382 358,382"/>
+	<TextEquiv conf="0.77575">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c697">
+	<Coords points="383,350 398,350 398,374 383,374"/>
+	<TextEquiv conf="0.80395">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c699">
+	<Coords points="401,349 422,349 422,374 401,374"/>
+	<TextEquiv conf="0.85424">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>gen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w56" language="German" readingDirection="left-to-right">
+	<Coords points="440,337 472,337 472,339 512,339 512,348 532,348 532,377 472,377 472,381 440,381"/>
+	<Glyph id="c701">
+	<Coords points="440,337 472,337 472,381 440,381"/>
+	<TextEquiv conf="0.77218">
+	<Unicode>J</Unicode></TextEquiv></Glyph>
+	<Glyph id="c703">
+	<Coords points="472,351 490,351 490,376 472,376"/>
+	<TextEquiv conf="0.78311">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c705">
+	<Coords points="491,339 512,339 512,377 491,377"/>
+	<TextEquiv conf="0.82583">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c707">
+	<Coords points="514,348 532,348 532,377 514,377"/>
+	<TextEquiv conf="0.77200">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Jobs</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<Word id="w150" language="German" readingDirection="left-to-right">
+	<Coords points="556,341 582,341 582,343 631,343 631,367 645,367 645,373 631,373 631,376 596,376 596,377 556,377"/>
+	<Glyph id="c515">
+	<Coords points="556,341 582,341 582,377 556,377"/>
+	<TextEquiv conf="0.79693">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c517">
+	<Coords points="585,345 596,345 596,377 585,377"/>
+	<TextEquiv conf="0.65239">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c519">
+	<Coords points="596,351 610,351 610,376 596,376"/>
+	<TextEquiv conf="0.74469">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c521">
+	<Coords points="611,343 631,343 631,376 611,376"/>
+	<TextEquiv conf="0.80941">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c523">
+	<Coords points="636,367 645,367 645,373 636,373"/>
+	<TextEquiv conf="0.89691">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>Lied.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Schwabacher"/></Word>
+	<TextEquiv>
+	<Unicode>gen Jobs Lied.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Si bona ſuſce pimus, des gedlti⸗
+gen Jobs Lied.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Antiqua; Schwabacher"/></TextRegion>
+	<MusicRegion id="r5">
+	<Coords points="854,388 892,388 892,389 882,389 882,516 883,516 883,517 884,517 884,520 885,520 858,520 858,521 857,521 857,522 854,522 854,523 756,523 756,519 738,519 738,518 737,518 737,517 597,517 597,516 493,516 493,517 492,517 492,518 491,518 491,517 485,517 485,516 484,516 484,515 467,515 467,514 466,514 466,513 465,513 465,512 316,512 316,516 292,516 292,517 270,517 270,518 251,518 251,517 201,517 201,516 169,516 169,513 165,513 165,512 122,512 122,511 121,511 121,506 122,506 122,399 123,399 123,397 125,397 125,396 126,396 126,395 127,395 127,394 128,394 128,393 129,393 129,389 130,389 130,388 133,388 133,384 135,384 135,383 178,383 178,382 182,382 182,383 183,383 183,390 205,390 205,391 233,391 233,392 355,392 355,388 356,388 356,387 357,387 357,386 358,386 358,387 360,387 360,388 361,388 361,389 420,389 420,390 421,390 421,394 436,394 436,395 438,395 438,396 614,396 614,395 773,395 773,380 806,380 806,377 854,377 854,376"/></MusicRegion>
+	<MusicRegion id="r11">
+	<Coords points="136,577 136,578 156,578 156,579 157,579 157,580 159,580 159,581 160,581 160,582 161,582 161,585 290,585 290,584 378,584 378,583 378,585 488,585 488,586 496,586 496,587 651,587 651,585 653,585 653,586 667,586 667,587 699,587 699,588 718,588 718,589 772,589 772,590 875,590 875,588 876,588 876,587 877,587 877,586 878,586 878,589 896,589 895,589 895,614 879,614 879,714 878,714 878,716 877,716 877,717 873,717 873,715 866,715 866,714 853,714 853,713 843,713 843,712 820,712 820,711 805,711 805,710 796,710 796,709 632,709 632,717 629,717 629,718 625,718 625,717 624,717 624,716 623,716 623,712 558,712 558,711 556,711 556,707 413,707 413,708 412,708 412,707 411,707 411,706 255,706 255,707 168,707 168,709 167,709 167,710 166,710 166,711 140,711 140,710 139,710 139,709 135,709 135,708 125,708 125,706 124,706 124,705 123,705 123,647 122,647 122,593 123,593 123,592 129,592 129,588 130,588 130,586 132,586 132,579 133,579 133,578 134,578 134,577"/></MusicRegion>
+	<MusicRegion id="r14">
+	<Coords points="135,769 135,770 156,770 156,771 179,771 179,772 181,772 181,773 182,773 182,778 295,778 295,772 298,772 298,773 300,773 300,781 337,781 337,782 488,782 488,781 501,781 501,777 504,777 504,778 505,778 505,779 506,779 506,781 626,781 626,778 635,778 635,779 691,779 691,780 711,780 711,781 852,781 852,773 852,787 878,787 878,788 879,788 879,790 880,790 880,901 881,901 881,903 880,903 880,905 851,905 851,904 816,904 816,903 788,903 788,902 723,902 723,901 701,901 701,900 670,900 670,898 366,898 366,901 364,901 364,900 362,900 362,897 123,897 123,895 122,895 122,842 121,842 121,840 120,840 120,809 121,809 121,789 122,789 122,780 123,780 123,777 127,777 127,770 128,770 128,769"/></MusicRegion>
+	<MusicRegion id="r15">
+	<Coords points="760,972 826,972 826,973 864,973 864,974 871,974 871,975 873,975 873,976 876,976 876,977 877,977 877,978 878,978 877,978 877,981 876,981 876,1035 875,1035 875,1037 874,1037 874,1067 873,1067 873,1090 872,1090 872,1091 871,1091 871,1095 870,1095 870,1097 780,1097 780,1098 780,1096 743,1096 743,1095 654,1095 654,1093 632,1093 632,1092 615,1092 615,1091 500,1091 500,1093 499,1093 499,1094 498,1094 498,1095 489,1095 489,1096 488,1096 488,1097 488,1093 486,1093 486,1090 485,1090 485,1088 484,1088 484,1087 267,1087 267,1092 265,1092 265,1089 219,1089 219,1088 200,1088 200,1087 196,1087 196,1085 179,1085 179,1084 127,1084 127,1083 122,1083 122,1082 121,1082 121,1078 122,1078 122,1076 123,1076 123,973 122,973 122,971 121,971 121,969 122,969 122,968 123,968 123,967 126,967 126,959 127,959 127,958 131,958 131,957 135,957 135,958 178,958 178,959 179,959 179,965 300,965 300,964 301,964 301,963 302,963 302,964 305,964 305,965 420,965 420,964 431,964 431,963 485,963 485,960 486,960 486,959 503,959 503,960 504,960 504,966 578,966 578,967 586,967 586,968 613,968 613,969 616,969 616,970 734,970 734,959 760,959 760,956"/></MusicRegion></Page></PcGts>

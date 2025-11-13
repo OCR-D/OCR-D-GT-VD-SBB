@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc:PcGts xmlns:pc="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-GT-PAGE_00000040">
+    <pc:Metadata>
+        <pc:Creator>doculibtopagexml</pc:Creator>
+        <pc:Created>2019-01-08T11:27:30</pc:Created>
+        <pc:LastChange>2019-04-18T10:00:21</pc:LastChange>
+        <pc:MetadataItem type="processingStep" name="layout/segmentation/line" value="ocrd-repair-inconsistencies">
+            <pc:Labels externalModel="ocrd-tool" externalId="parameters"/>
+        </pc:MetadataItem>
+    </pc:Metadata>
+    <pc:Page imageFilename="OCR-D-IMG/OCR-D-IMG_00000040.tif" imageWidth="2298" imageHeight="3720" imageXResolution="300." imageYResolution="300." type="blank"/>
+</pc:PcGts>

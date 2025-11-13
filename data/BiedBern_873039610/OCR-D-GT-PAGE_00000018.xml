@@ -1,0 +1,4296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="OCR-D-GT-PAGE_00000018">
+	<Metadata>
+	<Creator>doculibtopagexml</Creator>
+	<Created>2019-01-07T20:25:53</Created>
+	<LastChange>2025-10-27T15:44:59</LastChange></Metadata>
+	<Page imageFilename="OCR-D-IMG/OCR-D-IMG_00000018.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1215" imageHeight="1997" type="content" readingDirection="left-to-right" textLineOrder="top-to-bottom" primaryLanguage="German">
+	<PrintSpace>
+	<Coords points="229,166 229,1704 1061,1704 1061,166"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r3" index="0"/>
+	<RegionRefIndexed regionRef="r0" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r2" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" indented="false" align="justify" primaryLanguage="German">
+	<Coords points="360,275 367,275 367,276 422,276 422,277 492,277 492,279 550,279 550,280 589,280 589,281 635,281 635,282 716,282 716,283 800,283 800,285 943,285 943,291 1025,291 1025,294 1048,294 1048,476 1035,476 1035,477 1019,477 1019,480 972,480 972,477 872,477 872,472 725,472 725,476 659,476 659,524 649,524 649,522 521,522 521,527 506,527 506,521 331,521 331,525 318,525 318,518 255,518 255,491 257,491 257,380 258,380 258,276 360,276"/>
+	<TextLine id="l1">
+	<Coords points="360,275 367,275 367,276 422,276 422,277 492,277 492,279 550,279 550,280 589,280 589,281 635,281 635,282 716,282 716,283 800,283 800,285 943,285 943,291 1025,291 1025,294 1048,294 1048,325 1037,325 1037,319 912,319 912,324 896,324 896,318 865,318 865,317 845,317 845,316 716,316 716,317 678,317 678,319 619,319 619,314 581,314 581,313 470,313 470,309 307,309 307,313 290,313 290,311 258,311 258,276 360,276"/>
+	<Word id="w2">
+	<Coords points="360,275 367,275 367,284 382,284 382,309 307,309 307,313 290,313 290,311 258,311 258,276 360,276"/>
+	<Glyph id="c3">
+	<Coords points="258,276 287,276 287,311 258,311"/>
+	<TextEquiv conf="0.80526">
+	<Unicode>T</Unicode></TextEquiv></Glyph>
+	<Glyph id="c4">
+	<Coords points="290,276 307,276 307,313 290,313"/>
+	<TextEquiv conf="0.83915">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c5">
+	<Coords points="310,284 321,284 321,308 310,308"/>
+	<TextEquiv conf="0.84142">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c6">
+	<Coords points="324,284 340,284 340,309 324,309"/>
+	<TextEquiv conf="0.86946">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c7">
+	<Coords points="343,284 356,284 356,309 343,309"/>
+	<TextEquiv conf="0.81593">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c8">
+	<Coords points="360,275 367,275 367,307 360,307"/>
+	<TextEquiv conf="0.80227">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c9">
+	<Coords points="370,284 382,284 382,309 370,309"/>
+	<TextEquiv conf="0.84980">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80227">
+	<Unicode>Theorie</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="405,276 422,276 422,284 436,284 436,285 452,285 452,309 405,309"/>
+	<Glyph id="c11">
+	<Coords points="405,276 422,276 422,309 405,309"/>
+	<TextEquiv conf="0.87060">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c12">
+	<Coords points="425,284 436,284 436,309 425,309"/>
+	<TextEquiv conf="0.80296">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c13">
+	<Coords points="439,285 452,285 452,309 439,309"/>
+	<TextEquiv conf="0.84705">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80296">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w14">
+	<Coords points="470,277 492,277 492,279 550,279 550,280 589,280 589,281 635,281 635,282 716,282 716,284 725,284 725,315 716,315 716,317 678,317 678,319 619,319 619,314 581,314 581,313 470,313"/>
+	<Glyph id="c15">
+	<Coords points="470,277 492,277 492,313 470,313"/>
+	<TextEquiv conf="0.79681">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c16">
+	<Coords points="495,285 511,285 511,311 495,311"/>
+	<TextEquiv conf="0.88299">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c17">
+	<Coords points="514,286 531,286 531,312 514,312"/>
+	<TextEquiv conf="0.84703">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c18">
+	<Coords points="534,279 550,279 550,312 534,312"/>
+	<TextEquiv conf="0.87816">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c19">
+	<Coords points="552,285 578,285 578,313 552,313"/>
+	<TextEquiv conf="0.88253">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c20">
+	<Coords points="581,280 589,280 589,314 581,314"/>
+	<TextEquiv conf="0.76514">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c21">
+	<Coords points="591,286 604,286 604,313 591,313"/>
+	<TextEquiv conf="0.85102">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c22">
+	<Coords points="607,283 617,283 617,313 607,313"/>
+	<TextEquiv conf="0.88877">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c23">
+	<Coords points="619,281 635,281 635,319 619,319"/>
+	<TextEquiv conf="0.79098">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c24">
+	<Coords points="639,282 655,282 655,319 639,319"/>
+	<TextEquiv conf="0.74859">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c25">
+	<Coords points="650,282 678,282 678,319 650,319"/>
+	<TextEquiv conf="0.83940">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c26">
+	<Coords points="682,290 699,290 699,315 682,315"/>
+	<TextEquiv conf="0.86787">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c27">
+	<Coords points="701,282 716,282 716,317 701,317"/>
+	<TextEquiv conf="0.85922">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c28">
+	<Coords points="713,284 725,284 725,315 713,315"/>
+	<TextEquiv conf="0.84020">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74859">
+	<Unicode>Landwirthſaft</Unicode></TextEquiv></Word>
+	<Word id="w29">
+	<Coords points="785,283 800,283 800,285 882,285 882,286 893,286 893,293 912,293 912,324 896,324 896,318 865,318 865,317 845,317 845,316 802,316 802,315 744,315 744,289 785,289"/>
+	<Glyph id="c30">
+	<Coords points="744,289 761,289 761,315 744,315"/>
+	<TextEquiv conf="0.82679">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c31">
+	<Coords points="765,290 781,290 781,314 765,314"/>
+	<TextEquiv conf="0.84942">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c32">
+	<Coords points="785,283 800,283 800,314 785,314"/>
+	<TextEquiv conf="0.73694">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<Glyph id="c33">
+	<Coords points="802,288 827,288 827,316 802,316"/>
+	<TextEquiv conf="0.80661">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c34">
+	<Coords points="830,292 842,292 842,316 830,316"/>
+	<TextEquiv conf="0.83796">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c35">
+	<Coords points="845,292 862,292 862,317 845,317"/>
+	<TextEquiv conf="0.85292">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c36">
+	<Coords points="865,285 882,285 882,318 865,318"/>
+	<TextEquiv conf="0.85684">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c37">
+	<Coords points="886,286 893,286 893,317 886,317"/>
+	<TextEquiv conf="0.84811">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c38">
+	<Coords points="896,293 912,293 912,324 896,324"/>
+	<TextEquiv conf="0.82156">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73694">
+	<Unicode>auswendig</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="932,285 943,285 943,291 1025,291 1025,294 1048,294 1048,325 1037,325 1037,319 944,319 944,318 932,318"/>
+	<Glyph id="c40">
+	<Coords points="932,285 943,285 943,318 932,318"/>
+	<TextEquiv conf="0.80373">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c41">
+	<Coords points="944,293 955,293 955,319 944,319"/>
+	<TextEquiv conf="0.85097">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c42">
+	<Coords points="958,291 971,291 971,319 958,319"/>
+	<TextEquiv conf="0.81913">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c43">
+	<Coords points="973,291 990,291 990,318 973,318"/>
+	<TextEquiv conf="0.82086">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c44">
+	<Coords points="994,292 1005,292 1005,317 994,317"/>
+	<TextEquiv conf="0.86784">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c45">
+	<Coords points="1008,291 1025,291 1025,317 1008,317"/>
+	<TextEquiv conf="0.83171">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c46">
+	<Coords points="1037,294 1048,294 1048,325 1037,325"/>
+	<TextEquiv conf="0.64590">
+	<Unicode>;</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.64590">
+	<Unicode>lernen;</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.74733">
+	<Unicode>Theorie der Landwirthſaft auswendig lernen;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l47">
+	<Coords points="365,327 381,327 381,328 412,328 412,330 425,330 425,332 607,332 607,329 623,329 623,333 643,333 643,338 773,338 773,335 788,335 788,336 842,336 842,341 946,341 946,340 957,340 957,339 969,339 969,346 1036,346 1036,351 1048,351 1048,369 1036,369 1036,371 879,371 879,375 864,375 864,371 808,371 808,367 698,367 698,365 529,365 529,369 501,369 501,363 381,363 381,365 365,365 365,364 259,364 259,329 324,329 324,328 365,328"/>
+	<Word id="w48">
+	<Coords points="324,328 340,328 340,359 273,359 273,364 259,364 259,329 324,329"/>
+	<Glyph id="c49">
+	<Coords points="259,329 273,329 273,364 259,364"/>
+	<TextEquiv conf="0.89246">
+	<Unicode>(</Unicode></TextEquiv></Glyph>
+	<Glyph id="c50">
+	<Coords points="283,336 301,336 301,359 283,359"/>
+	<TextEquiv conf="0.87008">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c51">
+	<Coords points="304,336 320,336 320,358 304,358"/>
+	<TextEquiv conf="0.84765">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c52">
+	<Coords points="324,328 340,328 340,359 324,359"/>
+	<TextEquiv conf="0.83485">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83485">
+	<Unicode>(und</Unicode></TextEquiv></Word>
+	<Word id="w53">
+	<Coords points="365,327 381,327 381,328 412,328 412,330 425,330 425,336 440,336 440,360 425,360 425,361 381,361 381,365 365,365"/>
+	<Glyph id="c54">
+	<Coords points="365,327 381,327 381,365 365,365"/>
+	<TextEquiv conf="0.91287">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c55">
+	<Coords points="378,337 392,337 392,360 378,360"/>
+	<TextEquiv conf="0.87797">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c56">
+	<Coords points="396,328 412,328 412,360 396,360"/>
+	<TextEquiv conf="0.84186">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c57">
+	<Coords points="415,330 425,330 425,361 415,361"/>
+	<TextEquiv conf="0.87001">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c58">
+	<Coords points="428,336 440,336 440,360 428,360"/>
+	<TextEquiv conf="0.84116">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84116">
+	<Unicode>ſote</Unicode></TextEquiv></Word>
+	<Word id="w59">
+	<Coords points="501,332 529,332 529,369 501,369 501,363 480,363 480,362 461,362 461,339 480,339 480,338 501,338"/>
+	<Glyph id="c60">
+	<Coords points="461,339 477,339 477,362 461,362"/>
+	<TextEquiv conf="0.87712">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c61">
+	<Coords points="480,338 498,338 498,363 480,363"/>
+	<TextEquiv conf="0.88999">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c62">
+	<Coords points="501,332 529,332 529,369 501,369"/>
+	<TextEquiv conf="0.81236">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81236">
+	<Unicode>au</Unicode></TextEquiv></Word>
+	<Word id="w63">
+	<Coords points="607,329 623,329 623,333 643,333 643,342 674,342 674,364 658,364 658,365 572,365 572,364 553,364 553,333 607,333"/>
+	<Glyph id="c64">
+	<Coords points="553,333 568,333 568,364 553,364"/>
+	<TextEquiv conf="0.87045">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c65">
+	<Coords points="572,340 588,340 588,365 572,365"/>
+	<TextEquiv conf="0.84733">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c66">
+	<Coords points="591,342 603,342 603,365 591,365"/>
+	<TextEquiv conf="0.83426">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c67">
+	<Coords points="607,329 623,329 623,365 607,365"/>
+	<TextEquiv conf="0.85261">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c68">
+	<Coords points="628,333 643,333 643,365 628,365"/>
+	<TextEquiv conf="0.84339">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c69">
+	<Coords points="646,342 658,342 658,365 646,365"/>
+	<TextEquiv conf="0.85658">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c70">
+	<Coords points="660,342 674,342 674,364 660,364"/>
+	<TextEquiv conf="0.87135">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83426">
+	<Unicode>darber</Unicode></TextEquiv></Word>
+	<Word id="w71">
+	<Coords points="773,335 788,335 788,366 708,366 708,367 698,367 698,344 713,344 713,338 773,338"/>
+	<Glyph id="c72">
+	<Coords points="698,344 708,344 708,367 698,367"/>
+	<TextEquiv conf="0.81938">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c73">
+	<Coords points="713,338 723,338 723,366 713,366"/>
+	<TextEquiv conf="0.91288">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c74">
+	<Coords points="726,342 751,342 751,366 726,366"/>
+	<TextEquiv conf="0.88487">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c75">
+	<Coords points="753,342 770,342 770,365 753,365"/>
+	<TextEquiv conf="0.83820">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c76">
+	<Coords points="773,335 788,335 788,366 773,366"/>
+	<TextEquiv conf="0.67269">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.67269">
+	<Unicode>etwas</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="808,336 842,336 842,341 946,341 946,340 957,340 957,339 969,339 969,370 944,370 944,371 879,371 879,375 864,375 864,371 808,371"/>
+	<Glyph id="c78">
+	<Coords points="808,336 842,336 842,371 808,371"/>
+	<TextEquiv conf="0.85150">
+	<Unicode>D</Unicode></TextEquiv></Glyph>
+	<Glyph id="c79">
+	<Coords points="846,345 860,345 860,368 846,368"/>
+	<TextEquiv conf="0.86704">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c80">
+	<Coords points="864,347 879,347 879,375 864,375"/>
+	<TextEquiv conf="0.81944">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c81">
+	<Coords points="882,347 909,347 909,370 882,370"/>
+	<TextEquiv conf="0.89253">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c82">
+	<Coords points="915,346 930,346 930,369 915,369"/>
+	<TextEquiv conf="0.81990">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c83">
+	<Coords points="934,341 944,341 944,371 934,371"/>
+	<TextEquiv conf="0.79062">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c84">
+	<Coords points="946,340 953,340 953,370 946,370"/>
+	<TextEquiv conf="0.81889">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c85">
+	<Coords points="957,339 969,339 969,370 957,370"/>
+	<TextEquiv conf="0.76924">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76924">
+	<Unicode>Dogmatik</Unicode></TextEquiv></Word>
+	<Word id="w86">
+	<Coords points="989,346 1036,346 1036,351 1048,351 1048,369 1036,369 1036,371 1008,371 1008,369 989,369"/>
+	<Glyph id="c87">
+	<Coords points="989,346 1004,346 1004,369 989,369"/>
+	<TextEquiv conf="0.86510">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c88">
+	<Coords points="1008,347 1020,347 1020,371 1008,371"/>
+	<TextEquiv conf="0.79806">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c89">
+	<Coords points="1022,346 1036,346 1036,371 1022,371"/>
+	<TextEquiv conf="0.82638">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c90">
+	<Coords points="1038,351 1048,351 1048,369 1038,369"/>
+	<TextEquiv conf="0.76199">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76199">
+	<Unicode>ver⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.78951">
+	<Unicode>(und ſote au darber etwas Dogmatik ver⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l91">
+	<Coords points="290,379 305,379 305,386 415,386 415,381 431,381 431,383 508,383 508,384 554,384 554,386 712,386 712,385 787,385 787,388 843,388 843,396 958,396 958,391 1000,391 1000,399 1014,399 1014,400 1034,400 1034,406 1045,406 1045,432 1036,432 1036,428 879,428 879,420 865,420 865,419 846,419 846,418 739,418 739,423 722,423 722,418 665,418 665,417 554,417 554,422 539,422 539,421 475,421 475,418 380,418 380,416 290,416 290,413 257,413 257,380 290,380"/>
+	<Word id="w92">
+	<Coords points="290,379 305,379 305,386 336,386 336,387 355,387 355,412 305,412 305,416 290,416 290,413 257,413 257,380 290,380"/>
+	<Glyph id="c93">
+	<Coords points="257,380 268,380 268,413 257,413"/>
+	<TextEquiv conf="0.89420">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c94">
+	<Coords points="272,387 286,387 286,410 272,410"/>
+	<TextEquiv conf="0.88041">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c95">
+	<Coords points="290,379 305,379 305,416 290,416"/>
+	<TextEquiv conf="0.81607">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c96">
+	<Coords points="309,387 320,387 320,410 309,410"/>
+	<TextEquiv conf="0.83813">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c97">
+	<Coords points="324,386 336,386 336,411 324,411"/>
+	<TextEquiv conf="0.88622">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c98">
+	<Coords points="339,387 355,387 355,412 339,412"/>
+	<TextEquiv conf="0.85683">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81607">
+	<Unicode>lohren</Unicode></TextEquiv></Word>
+	<Word id="w99">
+	<Coords points="415,381 431,381 431,383 508,383 508,421 475,421 475,418 380,418 380,389 415,389"/>
+	<Glyph id="c100">
+	<Coords points="380,389 396,389 396,418 380,418"/>
+	<TextEquiv conf="0.84639">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c101">
+	<Coords points="400,389 411,389 411,413 400,413"/>
+	<TextEquiv conf="0.86659">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c102">
+	<Coords points="415,381 431,381 431,418 415,418"/>
+	<TextEquiv conf="0.80957">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c103">
+	<Coords points="435,390 445,390 445,415 435,415"/>
+	<TextEquiv conf="0.81701">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c104">
+	<Coords points="449,391 467,391 467,415 449,415"/>
+	<TextEquiv conf="0.88690">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c105">
+	<Coords points="475,401 483,401 483,421 475,421"/>
+	<TextEquiv conf="0.92875">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<Glyph id="c106">
+	<Coords points="495,383 508,383 508,421 495,421"/>
+	<TextEquiv conf="0.90936">
+	<Unicode>)</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80957">
+	<Unicode>gehen,)</Unicode></TextEquiv></Word>
+	<Word id="w107">
+	<Coords points="539,384 554,384 554,393 567,393 567,416 554,416 554,422 539,422"/>
+	<Glyph id="c108">
+	<Coords points="539,384 554,384 554,422 539,422"/>
+	<TextEquiv conf="0.85548">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c109">
+	<Coords points="550,393 567,393 567,416 550,416"/>
+	<TextEquiv conf="0.90705">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85548">
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w110">
+	<Coords points="646,386 662,386 662,387 691,387 691,417 677,417 677,418 665,418 665,417 630,417 630,416 587,416 587,391 646,391"/>
+	<Glyph id="c111">
+	<Coords points="587,391 614,391 614,416 587,416"/>
+	<TextEquiv conf="0.87313">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c112">
+	<Coords points="617,394 628,394 628,416 617,416"/>
+	<TextEquiv conf="0.84770">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c113">
+	<Coords points="630,393 643,393 643,417 630,417"/>
+	<TextEquiv conf="0.84667">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c114">
+	<Coords points="646,386 662,386 662,417 646,417"/>
+	<TextEquiv conf="0.85562">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c115">
+	<Coords points="665,393 677,393 677,418 665,418"/>
+	<TextEquiv conf="0.83935">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c116">
+	<Coords points="680,387 691,387 691,417 680,417"/>
+	<TextEquiv conf="0.88043">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83935">
+	<Unicode>werdet</Unicode></TextEquiv></Word>
+	<Word id="w117">
+	<Coords points="712,385 739,385 739,394 756,394 756,417 739,417 739,423 722,423 722,418 712,418"/>
+	<Glyph id="c118">
+	<Coords points="712,385 719,385 719,418 712,418"/>
+	<TextEquiv conf="0.86462">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c119">
+	<Coords points="722,385 739,385 739,423 722,423"/>
+	<TextEquiv conf="0.82658">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c120">
+	<Coords points="743,394 756,394 756,417 743,417"/>
+	<TextEquiv conf="0.87279">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82658">
+	<Unicode>ihr</Unicode></TextEquiv></Word>
+	<Word id="w121">
+	<Coords points="779,385 787,385 787,394 808,394 808,416 787,416 787,417 779,417"/>
+	<Glyph id="c122">
+	<Coords points="779,385 787,385 787,417 779,417"/>
+	<TextEquiv conf="0.83981">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c123">
+	<Coords points="790,394 808,394 808,416 790,416"/>
+	<TextEquiv conf="0.91749">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83981">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w124">
+	<Coords points="828,388 843,388 843,396 862,396 862,397 936,397 936,423 889,423 889,428 879,428 879,420 865,420 865,419 846,419 846,418 828,418"/>
+	<Glyph id="c125">
+	<Coords points="828,388 843,388 843,418 828,418"/>
+	<TextEquiv conf="0.74467">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c126">
+	<Coords points="846,396 862,396 862,419 846,419"/>
+	<TextEquiv conf="0.83692">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c127">
+	<Coords points="865,397 878,397 878,420 865,420"/>
+	<TextEquiv conf="0.83894">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c128">
+	<Coords points="879,397 889,397 889,428 879,428"/>
+	<TextEquiv conf="0.77147">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c129">
+	<Coords points="892,398 903,398 903,423 892,423"/>
+	<TextEquiv conf="0.86165">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c130">
+	<Coords points="907,397 936,397 936,423 907,423"/>
+	<TextEquiv conf="0.91105">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74467">
+	<Unicode>kurzem</Unicode></TextEquiv></Word>
+	<Word id="w131">
+	<Coords points="958,391 1000,391 1000,399 1014,399 1014,400 1034,400 1034,406 1045,406 1045,432 1036,432 1036,428 958,428"/>
+	<Glyph id="c132">
+	<Coords points="958,391 975,391 975,428 958,428"/>
+	<TextEquiv conf="0.83034">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c133">
+	<Coords points="967,397 981,397 981,425 967,425"/>
+	<TextEquiv conf="0.82823">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c134">
+	<Coords points="984,391 1000,391 1000,428 984,428"/>
+	<TextEquiv conf="0.85355">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c135">
+	<Coords points="1003,399 1014,399 1014,424 1003,424"/>
+	<TextEquiv conf="0.84398">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c136">
+	<Coords points="1018,400 1034,400 1034,423 1018,423"/>
+	<TextEquiv conf="0.82151">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c137">
+	<Coords points="1036,406 1045,406 1045,432 1036,432"/>
+	<TextEquiv conf="0.86247">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82151">
+	<Unicode>ſehen,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.81913">
+	<Unicode>lohren gehen,) ſo werdet ihr in kurzem ſehen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l138">
+	<Coords points="304,432 342,432 342,434 396,434 396,436 524,436 524,435 567,435 567,433 583,433 583,436 614,436 614,437 799,437 799,444 868,444 868,445 972,445 972,444 1004,444 1004,450 1035,450 1035,458 1048,458 1048,476 1035,476 1035,477 1019,477 1019,480 972,480 972,477 872,477 872,472 725,472 725,476 710,476 710,473 549,473 549,474 524,474 524,472 380,472 380,467 315,467 315,464 289,464 289,463 258,463 258,437 304,437"/>
+	<Word id="w139">
+	<Coords points="304,432 342,432 342,440 358,440 358,466 342,466 342,467 315,467 315,464 289,464 289,463 258,463 258,437 304,437"/>
+	<Glyph id="c140">
+	<Coords points="258,437 285,437 285,463 258,463"/>
+	<TextEquiv conf="0.83067">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c141">
+	<Coords points="289,440 300,440 300,464 289,464"/>
+	<TextEquiv conf="0.81085">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c142">
+	<Coords points="304,432 312,432 312,464 304,464"/>
+	<TextEquiv conf="0.64408">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c143">
+	<Coords points="315,432 342,432 342,467 315,467"/>
+	<TextEquiv conf="0.81402">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c144">
+	<Coords points="346,440 358,440 358,466 346,466"/>
+	<TextEquiv conf="0.88142">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.64408">
+	<Unicode>wele</Unicode></TextEquiv></Word>
+	<Word id="w145">
+	<Coords points="380,434 396,434 396,436 492,436 492,444 509,444 509,468 492,468 492,472 380,472"/>
+	<Glyph id="c146">
+	<Coords points="380,434 396,434 396,472 380,472"/>
+	<TextEquiv conf="0.79131">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c147">
+	<Coords points="400,442 410,442 410,467 400,467"/>
+	<TextEquiv conf="0.77986">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c148">
+	<Coords points="414,443 426,443 426,465 414,465"/>
+	<TextEquiv conf="0.79766">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c149">
+	<Coords points="429,443 441,443 441,467 429,467"/>
+	<TextEquiv conf="0.87073">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c150">
+	<Coords points="444,438 451,438 451,467 444,467"/>
+	<TextEquiv conf="0.80116">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c151">
+	<Coords points="454,436 462,436 462,468 454,468"/>
+	<TextEquiv conf="0.84145">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c152">
+	<Coords points="465,436 492,436 492,472 465,472"/>
+	<TextEquiv conf="0.82024">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c153">
+	<Coords points="496,444 509,444 509,468 496,468"/>
+	<TextEquiv conf="0.80883">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.77986">
+	<Unicode>herrlie</Unicode></TextEquiv></Word>
+	<Word id="w154">
+	<Coords points="567,433 583,433 583,436 614,436 614,440 628,440 628,444 642,444 642,469 614,469 614,473 549,473 549,474 524,474 524,435 567,435"/>
+	<Glyph id="c155">
+	<Coords points="524,435 549,435 549,474 524,474"/>
+	<TextEquiv conf="0.84609">
+	<Unicode>F</Unicode></TextEquiv></Glyph>
+	<Glyph id="c156">
+	<Coords points="551,444 565,444 565,467 551,467"/>
+	<TextEquiv conf="0.82542">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c157">
+	<Coords points="567,433 583,433 583,467 567,467"/>
+	<TextEquiv conf="0.82391">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c158">
+	<Coords points="587,436 614,436 614,473 587,473"/>
+	<TextEquiv conf="0.87466">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c159">
+	<Coords points="618,440 628,440 628,467 618,467"/>
+	<TextEquiv conf="0.90466">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c160">
+	<Coords points="630,444 642,444 642,469 630,469"/>
+	<TextEquiv conf="0.89563">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82391">
+	<Unicode>Frte</Unicode></TextEquiv></Word>
+	<Word id="w161">
+	<Coords points="665,437 725,437 725,444 750,444 750,469 733,469 733,470 725,470 725,476 710,476 710,471 695,471 695,470 685,470 685,469 665,469"/>
+	<Glyph id="c162">
+	<Coords points="665,437 681,437 681,469 665,469"/>
+	<TextEquiv conf="0.84163">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c163">
+	<Coords points="685,438 692,438 692,470 685,470"/>
+	<TextEquiv conf="0.81324">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c164">
+	<Coords points="695,444 707,444 707,471 695,471"/>
+	<TextEquiv conf="0.82905">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c165">
+	<Coords points="710,437 725,437 725,476 710,476"/>
+	<TextEquiv conf="0.82944">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c166">
+	<Coords points="722,445 733,445 733,470 722,470"/>
+	<TextEquiv conf="0.85442">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c167">
+	<Coords points="736,444 750,444 750,469 736,469"/>
+	<TextEquiv conf="0.83744">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81324">
+	<Unicode>dieſer</Unicode></TextEquiv></Word>
+	<Word id="w168">
+	<Coords points="765,437 799,437 799,444 868,444 868,449 884,449 884,477 872,477 872,472 765,472"/>
+	<Glyph id="c169">
+	<Coords points="765,437 799,437 799,472 765,472"/>
+	<TextEquiv conf="0.83818">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c170">
+	<Coords points="802,445 818,445 818,469 802,469"/>
+	<TextEquiv conf="0.90266">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c171">
+	<Coords points="821,445 837,445 837,471 821,471"/>
+	<TextEquiv conf="0.82300">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c172">
+	<Coords points="840,444 868,444 868,472 840,472"/>
+	<TextEquiv conf="0.87017">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c173">
+	<Coords points="872,449 884,449 884,477 872,477"/>
+	<TextEquiv conf="0.80763">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80763">
+	<Unicode>Saame</Unicode></TextEquiv></Word>
+	<Word id="w174">
+	<Coords points="906,445 922,445 922,451 938,451 938,452 953,452 953,475 938,475 938,477 926,477 926,475 906,475"/>
+	<Glyph id="c175">
+	<Coords points="906,445 922,445 922,475 906,475"/>
+	<TextEquiv conf="0.85516">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c176">
+	<Coords points="926,451 938,451 938,477 926,477"/>
+	<TextEquiv conf="0.80732">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c177">
+	<Coords points="941,452 953,452 953,475 941,475"/>
+	<TextEquiv conf="0.81800">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80732">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w178">
+	<Coords points="972,444 1004,444 1004,450 1035,450 1035,458 1048,458 1048,476 1035,476 1035,477 1019,477 1019,480 972,480"/>
+	<Glyph id="c179">
+	<Coords points="972,444 1004,444 1004,480 972,480"/>
+	<TextEquiv conf="0.81487">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c180">
+	<Coords points="1008,453 1019,453 1019,480 1008,480"/>
+	<TextEquiv conf="0.78699">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c181">
+	<Coords points="1022,450 1035,450 1035,477 1022,477"/>
+	<TextEquiv conf="0.83600">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c182">
+	<Coords points="1035,458 1048,458 1048,476 1035,476"/>
+	<TextEquiv conf="0.73684">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73684">
+	<Unicode>Ver⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.77327">
+	<Unicode>wele herrlie Frte dieſer Saame der Ver⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l183">
+	<Coords points="318,484 331,484 331,488 385,488 385,490 398,490 398,491 469,491 469,495 577,495 577,493 607,493 607,489 614,489 614,490 648,490 648,511 659,511 659,524 649,524 649,522 521,522 521,527 506,527 506,521 331,521 331,525 318,525 318,518 255,518 255,491 318,491"/>
+	<Word id="w184">
+	<Coords points="318,484 331,484 331,488 385,488 385,490 398,490 398,495 434,495 434,521 331,521 331,525 318,525 318,518 255,518 255,491 318,491"/>
+	<Glyph id="c185">
+	<Coords points="255,491 274,491 274,518 255,518"/>
+	<TextEquiv conf="0.81523">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c186">
+	<Coords points="277,493 293,493 293,517 277,517"/>
+	<TextEquiv conf="0.84612">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c187">
+	<Coords points="297,493 313,493 313,517 297,517"/>
+	<TextEquiv conf="0.84888">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c188">
+	<Coords points="318,484 331,484 331,525 318,525"/>
+	<TextEquiv conf="0.84025">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c189">
+	<Coords points="331,489 340,489 340,517 331,517"/>
+	<TextEquiv conf="0.77161">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c190">
+	<Coords points="343,488 354,488 354,518 343,518"/>
+	<TextEquiv conf="0.73428">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c191">
+	<Coords points="357,493 373,493 373,519 357,519"/>
+	<TextEquiv conf="0.89705">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c192">
+	<Coords points="377,488 385,488 385,520 377,520"/>
+	<TextEquiv conf="0.78691">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c193">
+	<Coords points="387,490 398,490 398,520 387,520"/>
+	<TextEquiv conf="0.83725">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c194">
+	<Coords points="400,495 417,495 417,521 400,521"/>
+	<TextEquiv conf="0.79929">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c195">
+	<Coords points="420,495 434,495 434,521 420,521"/>
+	<TextEquiv conf="0.81880">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73428">
+	<Unicode>nunftkultur</Unicode></TextEquiv></Word>
+	<Word id="w196">
+	<Coords points="457,491 469,491 469,495 537,495 537,496 557,496 557,521 521,521 521,527 506,527 506,520 457,520"/>
+	<Glyph id="c197">
+	<Coords points="457,491 469,491 469,520 457,520"/>
+	<TextEquiv conf="0.87513">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c198">
+	<Coords points="472,496 484,496 484,520 472,520"/>
+	<TextEquiv conf="0.81004">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c199">
+	<Coords points="487,495 504,495 504,519 487,519"/>
+	<TextEquiv conf="0.86292">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c200">
+	<Coords points="506,495 521,495 521,527 506,527"/>
+	<TextEquiv conf="0.84305">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c201">
+	<Coords points="525,495 537,495 537,520 525,520"/>
+	<TextEquiv conf="0.86478">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c202">
+	<Coords points="540,496 557,496 557,521 540,521"/>
+	<TextEquiv conf="0.87039">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81004">
+	<Unicode>tragen</Unicode></TextEquiv></Word>
+	<Word id="w203">
+	<Coords points="607,489 614,489 614,490 648,490 648,511 659,511 659,524 649,524 649,522 577,522 577,493 607,493"/>
+	<Glyph id="c204">
+	<Coords points="577,493 603,493 603,522 577,522"/>
+	<TextEquiv conf="0.88432">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c205">
+	<Coords points="607,489 614,489 614,522 607,522"/>
+	<TextEquiv conf="0.78355">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c206">
+	<Coords points="617,496 630,496 630,522 617,522"/>
+	<TextEquiv conf="0.82757">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c207">
+	<Coords points="632,490 648,490 648,520 632,520"/>
+	<TextEquiv conf="0.71779">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c208">
+	<Coords points="649,511 659,511 659,524 649,524"/>
+	<TextEquiv conf="0.80004">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.71779">
+	<Unicode>wird.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.75404">
+	<Unicode>nunftkultur tragen wird.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Theorie der Landwirthſaft auswendig lernen;
+(und ſote au darber etwas Dogmatik ver⸗
+lohren gehen,) ſo werdet ihr in kurzem ſehen,
+wele herrlie Frte dieſer Saame der Ver⸗
+nunftkultur tragen wird.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Fraktur"/></TextRegion>
+	<TextRegion id="r1" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="paragraph" indented="true" align="justify" primaryLanguage="German">
+	<Coords points="315,591 418,591 418,592 462,592 462,593 624,593 624,594 682,594 682,596 804,596 804,597 815,597 815,598 933,598 933,600 1029,600 1029,609 1045,609 1045,740 1044,740 1044,798 1043,798 1043,933 1044,933 1044,1002 1041,1002 1041,1107 1040,1107 1040,1210 1022,1210 1022,1211 964,1211 964,1213 946,1213 946,1210 896,1210 896,1208 779,1208 779,1203 643,1203 643,1208 544,1208 544,1202 389,1202 389,1207 274,1207 274,1209 247,1209 247,1169 248,1169 248,1124 249,1124 249,959 250,959 250,907 251,907 251,809 252,809 252,748 253,748 253,644 315,644"/>
+	<TextLine id="l210">
+	<Coords points="315,591 418,591 418,592 462,592 462,593 624,593 624,594 682,594 682,596 804,596 804,597 815,597 815,598 933,598 933,600 1029,600 1029,609 1045,609 1045,636 925,636 925,633 804,633 804,634 765,634 765,631 652,631 652,635 636,635 636,632 514,632 514,633 485,633 485,630 389,630 389,627 315,627"/>
+	<Word id="w212">
+	<Coords points="315,591 418,591 418,630 389,630 389,627 315,627"/>
+	<Glyph id="c214">
+	<Coords points="315,591 349,591 349,627 315,627"/>
+	<TextEquiv conf="0.87719">
+	<Unicode>D</Unicode></TextEquiv></Glyph>
+	<Glyph id="c216">
+	<Coords points="353,599 369,599 369,624 353,624"/>
+	<TextEquiv conf="0.86704">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c218">
+	<Coords points="374,600 386,600 386,625 374,625"/>
+	<TextEquiv conf="0.91634">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c220">
+	<Coords points="389,591 418,591 418,630 389,630"/>
+	<TextEquiv conf="0.86702">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86702">
+	<Unicode>Dur</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="445,592 462,592 462,593 514,593 514,602 529,602 529,628 514,628 514,633 485,633 485,629 445,629"/>
+	<Glyph id="c222">
+	<Coords points="445,592 462,592 462,629 445,629"/>
+	<TextEquiv conf="0.79050">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c224">
+	<Coords points="457,601 472,601 472,626 457,626"/>
+	<TextEquiv conf="0.90963">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c10">
+	<Coords points="476,593 484,593 484,626 476,626"/>
+	<TextEquiv conf="0.95432">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c227">
+	<Coords points="485,593 514,593 514,633 485,633"/>
+	<TextEquiv conf="0.89043">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c229">
+	<Coords points="517,602 529,602 529,628 517,628"/>
+	<TextEquiv conf="0.87224">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79050">
+	<Unicode>ſole</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="610,593 624,593 624,594 682,594 682,604 703,604 703,605 734,605 734,631 652,631 652,635 636,635 636,632 610,632 610,628 567,628 567,602 610,602"/>
+	<Glyph id="c14">
+	<Coords points="567,602 584,602 584,628 567,628"/>
+	<TextEquiv conf="0.88745">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c232">
+	<Coords points="588,602 605,602 605,628 588,628"/>
+	<TextEquiv conf="0.86707">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c234">
+	<Coords points="610,593 624,593 624,632 610,632"/>
+	<TextEquiv conf="0.82158">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c236">
+	<Coords points="621,604 633,604 633,629 621,629"/>
+	<TextEquiv conf="0.88531">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c238">
+	<Coords points="636,596 652,596 652,635 636,635"/>
+	<TextEquiv conf="0.84041">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c240">
+	<Coords points="655,597 664,597 664,629 655,629"/>
+	<TextEquiv conf="0.91962">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c242">
+	<Coords points="666,594 682,594 682,630 666,630"/>
+	<TextEquiv conf="0.77120">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c244">
+	<Coords points="687,604 703,604 703,630 687,630"/>
+	<TextEquiv conf="0.94217">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c246">
+	<Coords points="706,605 718,605 718,630 706,630"/>
+	<TextEquiv conf="0.91200">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c248">
+	<Coords points="721,605 734,605 734,631 721,631"/>
+	<TextEquiv conf="0.93781">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.77120">
+	<Unicode>unfehlbare</Unicode></TextEquiv></Word>
+	<Word id="w24">
+	<Coords points="765,596 804,596 804,597 815,597 815,598 866,598 866,633 804,633 804,634 765,634"/>
+	<Glyph id="c250">
+	<Coords points="765,596 804,596 804,634 765,634"/>
+	<TextEquiv conf="0.83970">
+	<Unicode>M</Unicode></TextEquiv></Glyph>
+	<Glyph id="c252">
+	<Coords points="807,597 815,597 815,632 807,632"/>
+	<TextEquiv conf="0.85175">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c254">
+	<Coords points="818,600 827,600 827,632 818,632"/>
+	<TextEquiv conf="0.88626">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c256">
+	<Coords points="831,600 840,600 840,632 831,632"/>
+	<TextEquiv conf="0.86601">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c29">
+	<Coords points="842,606 854,606 854,632 842,632"/>
+	<TextEquiv conf="0.88393">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c259">
+	<Coords points="856,598 866,598 866,633 856,633"/>
+	<TextEquiv conf="0.89424">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83970">
+	<Unicode>Mittel</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="925,598 933,598 933,600 966,600 966,634 933,634 933,636 925,636 925,633 896,633 896,604 925,604"/>
+	<Glyph id="c261">
+	<Coords points="896,604 922,604 922,633 896,633"/>
+	<TextEquiv conf="0.89825">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c263">
+	<Coords points="925,598 933,598 933,636 925,636"/>
+	<TextEquiv conf="0.78964">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c265">
+	<Coords points="936,608 948,608 948,632 936,632"/>
+	<TextEquiv conf="0.98625">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c267">
+	<Coords points="950,600 966,600 966,634 950,634"/>
+	<TextEquiv conf="0.99609">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78964">
+	<Unicode>wird</Unicode></TextEquiv></Word>
+	<Word id="w36">
+	<Coords points="1021,600 1029,600 1029,609 1045,609 1045,636 1031,636 1031,635 1021,635 1021,633 1002,633 1002,601 1021,601"/>
+	<Glyph id="c269">
+	<Coords points="1002,601 1017,601 1017,633 1002,633"/>
+	<TextEquiv conf="0.87036">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c271">
+	<Coords points="1021,600 1029,600 1029,635 1021,635"/>
+	<TextEquiv conf="0.86528">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c39">
+	<Coords points="1031,609 1045,609 1045,636 1031,636"/>
+	<TextEquiv conf="0.90495">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86528">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82056">
+	<Unicode>Dur ſole unfehlbare Mittel wird die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="253,644 275,644 275,645 413,645 413,644 425,644 425,646 523,646 523,649 624,649 624,651 742,651 742,655 870,655 870,653 886,653 886,655 1006,655 1006,657 1044,657 1044,688 886,688 886,693 870,693 870,689 742,689 742,691 711,691 711,683 663,683 663,681 555,681 555,684 546,684 546,680 527,680 527,679 275,679 275,680 253,680"/>
+	<Word id="w41">
+	<Coords points="253,644 275,644 275,645 413,645 413,644 425,644 425,646 523,646 523,655 538,655 538,665 555,665 555,684 546,684 546,680 527,680 527,679 275,679 275,680 253,680"/>
+	<Glyph id="c274">
+	<Coords points="253,644 275,644 275,680 253,680"/>
+	<TextEquiv conf="0.81396">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c276">
+	<Coords points="278,652 295,652 295,677 278,677"/>
+	<TextEquiv conf="0.90561">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c278">
+	<Coords points="297,653 316,653 316,677 297,677"/>
+	<TextEquiv conf="0.89911">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c280">
+	<Coords points="319,646 334,646 334,678 319,678"/>
+	<TextEquiv conf="0.87817">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c282">
+	<Coords points="342,662 352,662 352,675 342,675"/>
+	<TextEquiv conf="0.88580">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<Glyph id="c47">
+	<Coords points="362,645 395,645 395,679 362,679"/>
+	<TextEquiv conf="0.84441">
+	<Unicode>O</Unicode></TextEquiv></Glyph>
+	<Glyph id="c48">
+	<Coords points="399,654 409,654 409,678 399,678"/>
+	<TextEquiv conf="0.85460">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c286">
+	<Coords points="413,644 425,644 425,677 413,677"/>
+	<TextEquiv conf="0.82983">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c288">
+	<Coords points="427,653 442,653 442,678 427,678"/>
+	<TextEquiv conf="0.88271">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c290">
+	<Coords points="445,654 461,654 461,677 445,677"/>
+	<TextEquiv conf="0.90376">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c292">
+	<Coords points="466,654 481,654 481,678 466,678"/>
+	<TextEquiv conf="0.83070">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c53">
+	<Coords points="484,654 511,654 511,679 484,679"/>
+	<TextEquiv conf="0.92511">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c295">
+	<Coords points="515,646 523,646 523,679 515,679"/>
+	<TextEquiv conf="0.86603">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c297">
+	<Coords points="527,655 538,655 538,680 527,680"/>
+	<TextEquiv conf="0.87800">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c299">
+	<Coords points="546,665 555,665 555,684 546,684"/>
+	<TextEquiv conf="0.87878">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81396">
+	<Unicode>Land⸗Oekonomie,</Unicode></TextEquiv></Word>
+	<Word id="w57">
+	<Coords points="598,649 624,649 624,680 606,680 606,681 578,681 578,655 598,655"/>
+	<Glyph id="c301">
+	<Coords points="578,655 595,655 595,681 578,681"/>
+	<TextEquiv conf="0.86652">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c59">
+	<Coords points="598,649 606,649 606,681 598,681"/>
+	<TextEquiv conf="0.87178">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c304">
+	<Coords points="608,649 624,649 624,680 608,680"/>
+	<TextEquiv conf="0.91533">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86652">
+	<Unicode>als</Unicode></TextEquiv></Word>
+	<Word id="w61">
+	<Coords points="645,651 660,651 660,658 675,658 675,659 690,659 690,681 675,681 675,683 663,683 663,681 645,681"/>
+	<Glyph id="c306">
+	<Coords points="645,651 660,651 660,681 645,681"/>
+	<TextEquiv conf="0.88353">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c63">
+	<Coords points="663,658 675,658 675,683 663,683"/>
+	<TextEquiv conf="0.94577">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c309">
+	<Coords points="678,659 690,659 690,681 678,681"/>
+	<TextEquiv conf="0.89075">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88353">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w65">
+	<Coords points="711,651 742,651 742,655 870,655 870,653 886,653 886,693 870,693 870,689 742,689 742,691 711,691"/>
+	<Glyph id="c311">
+	<Coords points="711,651 742,651 742,691 711,691"/>
+	<TextEquiv conf="0.78800">
+	<Unicode>H</Unicode></TextEquiv></Glyph>
+	<Glyph id="c313">
+	<Coords points="746,658 761,658 761,684 746,684"/>
+	<TextEquiv conf="0.88530">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c315">
+	<Coords points="766,660 782,660 782,684 766,684"/>
+	<TextEquiv conf="0.86943">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c317">
+	<Coords points="787,661 803,661 803,689 787,689"/>
+	<TextEquiv conf="0.85749">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c319">
+	<Coords points="806,655 817,655 817,685 806,685"/>
+	<TextEquiv conf="0.86314">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c71">
+	<Coords points="820,662 835,662 835,684 820,684"/>
+	<TextEquiv conf="0.89255">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c322">
+	<Coords points="840,661 851,661 851,686 840,686"/>
+	<TextEquiv conf="0.88145">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c324">
+	<Coords points="854,662 867,662 867,685 854,685"/>
+	<TextEquiv conf="0.91292">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c326">
+	<Coords points="870,653 886,653 886,693 870,693"/>
+	<TextEquiv conf="0.84773">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78800">
+	<Unicode>Hauptnerf</Unicode></TextEquiv></Word>
+	<Word id="w75">
+	<Coords points="947,655 963,655 963,688 947,688 947,687 928,687 928,686 905,686 905,661 947,661"/>
+	<Glyph id="c328">
+	<Coords points="905,661 924,661 924,686 905,686"/>
+	<TextEquiv conf="0.89162">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c77">
+	<Coords points="928,663 944,663 944,687 928,687"/>
+	<TextEquiv conf="0.86926">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c331">
+	<Coords points="947,655 963,655 963,688 947,688"/>
+	<TextEquiv conf="0.90170">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86926">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w79">
+	<Coords points="991,655 1006,655 1006,657 1044,657 1044,688 1028,688 1028,687 991,687"/>
+	<Glyph id="c333">
+	<Coords points="991,655 1006,655 1006,687 991,687"/>
+	<TextEquiv conf="0.85114">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c335">
+	<Coords points="1009,662 1026,662 1026,687 1009,687"/>
+	<TextEquiv conf="0.86685">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c337">
+	<Coords points="1028,657 1044,657 1044,688 1028,688"/>
+	<TextEquiv conf="0.84453">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84453">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.84430">
+	<Unicode>Land⸗Oekonomie, als der Hauptnerf und das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l83">
+	<Coords points="407,694 423,694 423,697 501,697 501,699 559,699 559,702 644,702 644,705 710,705 710,711 879,711 879,706 886,706 886,707 991,707 991,708 1030,708 1030,721 1045,721 1045,740 991,740 991,743 960,743 960,740 924,740 924,739 810,739 810,742 799,742 799,740 756,740 756,736 644,736 644,737 611,737 611,734 501,734 501,737 485,737 485,736 443,736 443,732 304,732 304,734 285,734 285,732 253,732 253,705 285,705 285,695 304,695 304,697 407,697"/>
+	<Word id="w84">
+	<Coords points="285,695 304,695 304,705 318,705 318,730 304,730 304,734 285,734 285,732 253,732 253,705 285,705"/>
+	<Glyph id="c339">
+	<Coords points="253,705 266,705 266,732 253,732"/>
+	<TextEquiv conf="0.98550">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c86">
+	<Coords points="269,705 281,705 281,731 269,731"/>
+	<TextEquiv conf="0.98796">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c342">
+	<Coords points="285,695 304,695 304,734 285,734"/>
+	<TextEquiv conf="0.88759">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c344">
+	<Coords points="306,705 318,705 318,730 306,730"/>
+	<TextEquiv conf="0.96973">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88759">
+	<Unicode>ere</Unicode></TextEquiv></Word>
+	<Word id="w89">
+	<Coords points="407,694 423,694 423,697 501,697 501,737 485,737 485,736 443,736 443,732 338,732 338,697 407,697"/>
+	<Glyph id="c346">
+	<Coords points="338,697 369,697 369,732 338,732"/>
+	<TextEquiv conf="0.82864">
+	<Unicode>B</Unicode></TextEquiv></Glyph>
+	<Glyph id="c91">
+	<Coords points="373,707 384,707 384,730 373,730"/>
+	<TextEquiv conf="0.84254">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c92">
+	<Coords points="388,699 403,699 403,730 388,730"/>
+	<TextEquiv conf="0.85884">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c350">
+	<Coords points="407,694 423,694 423,730 407,730"/>
+	<TextEquiv conf="0.84189">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c352">
+	<Coords points="427,707 439,707 439,731 427,731"/>
+	<TextEquiv conf="0.89764">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c354">
+	<Coords points="443,698 457,698 457,736 443,736"/>
+	<TextEquiv conf="0.79051">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c356">
+	<Coords points="455,708 470,708 470,730 455,730"/>
+	<TextEquiv conf="0.82457">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c358">
+	<Coords points="473,699 482,699 482,732 473,732"/>
+	<TextEquiv conf="0.79645">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c360">
+	<Coords points="485,697 501,697 501,737 485,737"/>
+	<TextEquiv conf="0.79530">
+	<Unicode>ß</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79051">
+	<Unicode>Bedrfniß</Unicode></TextEquiv></Word>
+	<Word id="w362">
+	<Coords points="541,699 559,699 559,708 589,708 589,733 573,733 573,734 562,734 562,732 522,732 522,707 541,707"/>
+	<Glyph id="c364">
+	<Coords points="522,707 538,707 538,732 522,732"/>
+	<TextEquiv conf="0.85818">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c366">
+	<Coords points="541,699 559,699 559,732 541,732"/>
+	<TextEquiv conf="0.78378">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c368">
+	<Coords points="562,709 573,709 573,734 562,734"/>
+	<TextEquiv conf="0.87521">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c370">
+	<Coords points="576,708 589,708 589,733 576,733"/>
+	<TextEquiv conf="0.89085">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78378">
+	<Unicode>aer</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="611,702 644,702 644,705 710,705 710,711 744,711 744,720 765,720 765,740 756,740 756,736 644,736 644,737 611,737"/>
+	<Glyph id="c372">
+	<Coords points="611,702 644,702 644,737 611,737"/>
+	<TextEquiv conf="0.82464">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c374">
+	<Coords points="648,705 659,705 659,734 648,734"/>
+	<TextEquiv conf="0.89816">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c107">
+	<Coords points="661,709 678,709 678,734 661,734"/>
+	<TextEquiv conf="0.93010">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c377">
+	<Coords points="680,710 697,710 697,734 680,734"/>
+	<TextEquiv conf="0.88907">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c379">
+	<Coords points="699,705 710,705 710,735 699,735"/>
+	<TextEquiv conf="0.91879">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c110">
+	<Coords points="713,712 723,712 723,736 713,736"/>
+	<TextEquiv conf="0.74603">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c382">
+	<Coords points="727,711 744,711 744,735 727,735"/>
+	<TextEquiv conf="0.85909">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c384">
+	<Coords points="756,720 765,720 765,740 756,740"/>
+	<TextEquiv conf="0.80921">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74603">
+	<Unicode>Staaten,</Unicode></TextEquiv></Word>
+	<Word id="w113">
+	<Coords points="799,711 810,711 810,712 831,712 831,738 810,738 810,742 799,742"/>
+	<Glyph id="c386">
+	<Coords points="799,711 810,711 810,742 799,742"/>
+	<TextEquiv conf="0.74110">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c388">
+	<Coords points="813,712 831,712 831,738 813,738"/>
+	<TextEquiv conf="0.87163">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74110">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w116">
+	<Coords points="879,706 886,706 886,714 938,714 938,740 924,740 924,739 909,739 909,738 863,738 863,713 879,713"/>
+	<Glyph id="c117">
+	<Coords points="863,713 876,713 876,738 863,738"/>
+	<TextEquiv conf="0.87444">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c391">
+	<Coords points="879,706 886,706 886,738 879,738"/>
+	<TextEquiv conf="0.82300">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c393">
+	<Coords points="890,714 905,714 905,738 890,738"/>
+	<TextEquiv conf="0.82874">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c395">
+	<Coords points="909,715 921,715 921,739 909,739"/>
+	<TextEquiv conf="0.86573">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c121">
+	<Coords points="924,714 938,714 938,740 924,740"/>
+	<TextEquiv conf="0.84275">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82300">
+	<Unicode>einer</Unicode></TextEquiv></Word>
+	<Word id="w122">
+	<Coords points="960,707 991,707 991,708 1030,708 1030,721 1045,721 1045,740 991,740 991,743 960,743"/>
+	<Glyph id="c398">
+	<Coords points="960,707 991,707 991,743 960,743"/>
+	<TextEquiv conf="0.85350">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c124">
+	<Coords points="995,716 1008,716 1008,739 995,739"/>
+	<TextEquiv conf="0.89668">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c401">
+	<Coords points="1013,708 1030,708 1030,740 1013,740"/>
+	<TextEquiv conf="0.91684">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c403">
+	<Coords points="1033,721 1045,721 1045,740 1033,740"/>
+	<TextEquiv conf="0.83594">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83594">
+	<Unicode>Vo⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.80114">
+	<Unicode>ere Bedrfniß aer Staaten, zu einer Vo⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l127">
+	<Coords points="252,748 267,748 267,758 385,758 385,750 401,750 401,751 427,751 427,752 535,752 535,753 554,753 554,754 656,754 656,756 805,756 805,754 821,754 821,757 850,757 850,759 918,759 918,760 953,760 953,762 1044,762 1044,798 1027,798 1027,795 931,795 931,792 888,792 888,791 870,791 870,790 761,790 761,787 607,787 607,791 598,791 598,788 476,788 476,790 460,790 460,788 385,788 385,783 252,783"/>
+	<Word id="w128">
+	<Coords points="252,748 267,748 267,758 385,758 385,750 401,750 401,751 427,751 427,753 441,753 441,784 401,784 401,788 385,788 385,783 252,783"/>
+	<Glyph id="c405">
+	<Coords points="252,748 267,748 267,783 252,783"/>
+	<TextEquiv conf="0.85555">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c407">
+	<Coords points="269,758 284,758 284,782 269,782"/>
+	<TextEquiv conf="0.87612">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c131">
+	<Coords points="287,758 315,758 315,782 287,782"/>
+	<TextEquiv conf="0.88724">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c410">
+	<Coords points="318,758 348,758 348,783 318,783"/>
+	<TextEquiv conf="0.89328">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c412">
+	<Coords points="351,759 362,759 362,782 351,782"/>
+	<TextEquiv conf="0.90866">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c414">
+	<Coords points="365,759 381,759 381,782 365,782"/>
+	<TextEquiv conf="0.94794">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c416">
+	<Coords points="385,750 401,750 401,788 385,788"/>
+	<TextEquiv conf="0.91792">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c418">
+	<Coords points="405,759 415,759 415,784 405,784"/>
+	<TextEquiv conf="0.88467">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c420">
+	<Coords points="419,751 427,751 427,784 419,784"/>
+	<TextEquiv conf="0.86201">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c138">
+	<Coords points="430,753 441,753 441,784 430,784"/>
+	<TextEquiv conf="0.86700">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85555">
+	<Unicode>kommenheit</Unicode></TextEquiv></Word>
+	<Word id="w423">
+	<Coords points="494,752 535,752 535,753 554,753 554,760 570,760 570,761 590,761 590,770 607,770 607,791 598,791 598,788 476,788 476,790 460,790 460,759 494,759"/>
+	<Glyph id="c425">
+	<Coords points="460,759 476,759 476,790 460,790"/>
+	<TextEquiv conf="0.90219">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c427">
+	<Coords points="479,759 491,759 491,784 479,784"/>
+	<TextEquiv conf="0.92578">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c429">
+	<Coords points="494,752 510,752 510,785 494,785"/>
+	<TextEquiv conf="0.90730">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c431">
+	<Coords points="513,761 524,761 524,786 513,786"/>
+	<TextEquiv conf="0.86829">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c433">
+	<Coords points="528,752 535,752 535,784 528,784"/>
+	<TextEquiv conf="0.84224">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c145">
+	<Coords points="539,753 554,753 554,788 539,788"/>
+	<TextEquiv conf="0.86259">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c436">
+	<Coords points="557,760 570,760 570,786 557,786"/>
+	<TextEquiv conf="0.93489">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c438">
+	<Coords points="573,761 590,761 590,785 573,785"/>
+	<TextEquiv conf="0.93105">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c440">
+	<Coords points="598,770 607,770 607,791 598,791"/>
+	<TextEquiv conf="0.91800">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84224">
+	<Unicode>gedeihen,</Unicode></TextEquiv></Word>
+	<Word id="w149">
+	<Coords points="647,754 656,754 656,762 671,762 671,786 647,786 647,784 629,784 629,755 647,755"/>
+	<Glyph id="c442">
+	<Coords points="629,755 644,755 644,784 629,784"/>
+	<TextEquiv conf="0.85540">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c444">
+	<Coords points="647,754 656,754 656,786 647,786"/>
+	<TextEquiv conf="0.81388">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c446">
+	<Coords points="658,762 671,762 671,786 658,786"/>
+	<TextEquiv conf="0.90341">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81388">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w153">
+	<Coords points="689,756 741,756 741,786 704,786 704,787 689,787"/>
+	<Glyph id="c154">
+	<Coords points="689,756 704,756 704,787 689,787"/>
+	<TextEquiv conf="0.91527">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c449">
+	<Coords points="707,763 725,763 725,786 707,786"/>
+	<TextEquiv conf="0.94150">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c451">
+	<Coords points="727,756 741,756 741,786 727,786"/>
+	<TextEquiv conf="0.91859">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.91527">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w157">
+	<Coords points="805,754 821,754 821,757 850,757 850,790 761,790 761,756 805,756"/>
+	<Glyph id="c453">
+	<Coords points="761,756 791,756 791,790 761,790"/>
+	<TextEquiv conf="0.85622">
+	<Unicode>G</Unicode></TextEquiv></Glyph>
+	<Glyph id="c455">
+	<Coords points="795,757 802,757 802,788 795,788"/>
+	<TextEquiv conf="0.83798">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c457">
+	<Coords points="805,754 821,754 821,790 805,790"/>
+	<TextEquiv conf="0.79607">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c161">
+	<Coords points="825,757 850,757 850,790 825,790"/>
+	<TextEquiv conf="0.82503">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79607">
+	<Unicode>Gl</Unicode></TextEquiv></Word>
+	<Word id="w162">
+	<Coords points="870,759 918,759 918,791 900,791 900,792 888,792 888,791 870,791"/>
+	<Glyph id="c460">
+	<Coords points="870,759 886,759 886,791 870,791"/>
+	<TextEquiv conf="0.86340">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c462">
+	<Coords points="888,767 900,767 900,792 888,792"/>
+	<TextEquiv conf="0.91035">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c464">
+	<Coords points="904,759 918,759 918,791 904,791"/>
+	<TextEquiv conf="0.84480">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84480">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w166">
+	<Coords points="931,760 953,760 953,762 1044,762 1044,798 1027,798 1027,795 931,795"/>
+	<Glyph id="c466">
+	<Coords points="931,760 953,760 953,795 931,795"/>
+	<TextEquiv conf="0.79436">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c168">
+	<Coords points="955,767 972,767 972,792 955,792"/>
+	<TextEquiv conf="0.91148">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c469">
+	<Coords points="975,768 990,768 990,792 975,792"/>
+	<TextEquiv conf="0.93611">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c471">
+	<Coords points="994,764 1010,764 1010,793 994,793"/>
+	<TextEquiv conf="0.92270">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c473">
+	<Coords points="1013,769 1024,769 1024,794 1013,794"/>
+	<TextEquiv conf="0.83688">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c475">
+	<Coords points="1027,762 1044,762 1044,798 1027,798"/>
+	<TextEquiv conf="0.78064">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78064">
+	<Unicode>Landes</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83549">
+	<Unicode>kommenheit gedeihen, die das Gl des Landes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l173">
+	<Coords points="330,803 364,803 364,811 466,811 466,803 485,803 485,804 552,804 552,805 612,805 612,806 663,806 663,808 763,808 763,809 885,809 885,812 1027,812 1027,820 1043,820 1043,848 1027,848 1027,850 1009,850 1009,848 977,848 977,844 952,844 952,843 850,843 850,839 800,839 800,838 687,838 687,842 527,842 527,841 466,841 466,837 346,837 346,840 330,840 330,836 251,836 251,809 295,809 295,804 330,804"/>
+	<Word id="w477">
+	<Coords points="295,804 311,804 311,835 272,835 272,836 251,836 251,809 295,809"/>
+	<Glyph id="c479">
+	<Coords points="251,809 272,809 272,836 251,836"/>
+	<TextEquiv conf="0.81302">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c481">
+	<Coords points="275,810 292,810 292,834 275,834"/>
+	<TextEquiv conf="0.90831">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c483">
+	<Coords points="295,804 311,804 311,835 295,835"/>
+	<TextEquiv conf="0.89434">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81302">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w485">
+	<Coords points="330,803 364,803 364,811 401,811 401,837 346,837 346,840 330,840"/>
+	<Glyph id="c487">
+	<Coords points="330,803 346,803 346,840 330,840"/>
+	<TextEquiv conf="0.83840">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c489">
+	<Coords points="343,812 354,812 354,836 343,836"/>
+	<TextEquiv conf="0.93904">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c491">
+	<Coords points="358,803 364,803 364,835 358,835"/>
+	<TextEquiv conf="0.86781">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c493">
+	<Coords points="368,811 385,811 385,835 368,835"/>
+	<TextEquiv conf="0.93794">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c183">
+	<Coords points="389,811 401,811 401,837 389,837"/>
+	<TextEquiv conf="0.91969">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83840">
+	<Unicode>ſeine</Unicode></TextEquiv></Word>
+	<Word id="w496">
+	<Coords points="466,803 485,803 485,813 508,813 508,838 485,838 485,841 466,841 466,837 423,837 423,811 466,811"/>
+	<Glyph id="c498">
+	<Coords points="423,811 436,811 436,837 423,837"/>
+	<TextEquiv conf="0.94260">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c500">
+	<Coords points="444,812 457,812 457,836 444,836"/>
+	<TextEquiv conf="0.88733">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c502">
+	<Coords points="466,803 485,803 485,841 466,841"/>
+	<TextEquiv conf="0.87633">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c504">
+	<Coords points="495,813 508,813 508,838 495,838"/>
+	<TextEquiv conf="0.90501">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87633">
+	<Unicode>ere</Unicode></TextEquiv></Word>
+	<Word id="w189">
+	<Coords points="527,804 552,804 552,805 612,805 612,813 628,813 628,837 552,837 552,842 527,842"/>
+	<Glyph id="c506">
+	<Coords points="527,804 552,804 552,842 527,842"/>
+	<TextEquiv conf="0.83386">
+	<Unicode>Z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c508">
+	<Coords points="556,807 563,807 563,837 556,837"/>
+	<TextEquiv conf="0.79977">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c510">
+	<Coords points="567,812 578,812 578,837 567,837"/>
+	<TextEquiv conf="0.88321">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c512">
+	<Coords points="581,812 595,812 595,837 581,837"/>
+	<TextEquiv conf="0.89284">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c514">
+	<Coords points="597,805 612,805 612,836 597,836"/>
+	<TextEquiv conf="0.87675">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c516">
+	<Coords points="616,813 628,813 628,837 616,837"/>
+	<TextEquiv conf="0.91632">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79977">
+	<Unicode>Zierde</Unicode></TextEquiv></Word>
+	<Word id="w518">
+	<Coords points="647,806 663,806 663,813 708,813 708,837 687,837 687,842 647,842"/>
+	<Glyph id="c520">
+	<Coords points="647,806 663,806 663,842 647,842"/>
+	<TextEquiv conf="0.84558">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c522">
+	<Coords points="657,813 669,813 669,839 657,839"/>
+	<TextEquiv conf="0.90009">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c524">
+	<Coords points="671,813 687,813 687,842 671,842"/>
+	<TextEquiv conf="0.89743">
+	<Unicode>y</Unicode></TextEquiv></Glyph>
+	<Glyph id="c526">
+	<Coords points="690,813 708,813 708,837 690,837"/>
+	<TextEquiv conf="0.91966">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84558">
+	<Unicode>ſeyn</Unicode></TextEquiv></Word>
+	<Word id="w201">
+	<Coords points="756,808 763,808 763,809 797,809 797,830 809,830 809,839 800,839 800,838 756,838 756,837 726,837 726,813 756,813"/>
+	<Glyph id="c528">
+	<Coords points="726,813 753,813 753,837 726,837"/>
+	<TextEquiv conf="0.88980">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c203">
+	<Coords points="756,808 763,808 763,838 756,838"/>
+	<TextEquiv conf="0.89722">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c531">
+	<Coords points="766,815 779,815 779,837 766,837"/>
+	<TextEquiv conf="0.92401">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c533">
+	<Coords points="782,809 797,809 797,838 782,838"/>
+	<TextEquiv conf="0.85313">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c535">
+	<Coords points="800,830 809,830 809,839 800,839"/>
+	<TextEquiv conf="0.90632">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85313">
+	<Unicode>wird.</Unicode></TextEquiv></Word>
+	<Word id="w207">
+	<Coords points="850,809 885,809 885,817 917,817 917,841 885,841 885,843 850,843"/>
+	<Glyph id="c537">
+	<Coords points="850,809 885,809 885,843 850,843"/>
+	<TextEquiv conf="0.82736">
+	<Unicode>D</Unicode></TextEquiv></Glyph>
+	<Glyph id="c209">
+	<Coords points="889,817 900,817 900,841 889,841"/>
+	<TextEquiv conf="0.90219">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c210">
+	<Coords points="903,817 917,817 917,841 903,841"/>
+	<TextEquiv conf="0.87976">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82736">
+	<Unicode>Der</Unicode></TextEquiv></Word>
+	<Word id="w211">
+	<Coords points="966,812 1027,812 1027,820 1043,820 1043,848 1027,848 1027,850 1009,850 1009,848 977,848 977,844 952,844 952,843 936,843 936,819 966,819"/>
+	<Glyph id="c212">
+	<Coords points="936,819 949,819 949,843 936,843"/>
+	<TextEquiv conf="0.87614">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c213">
+	<Coords points="952,820 963,820 963,844 952,844"/>
+	<TextEquiv conf="0.90520">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c543">
+	<Coords points="966,812 975,812 975,844 966,844"/>
+	<TextEquiv conf="0.84834">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c215">
+	<Coords points="977,814 1005,814 1005,848 977,848"/>
+	<TextEquiv conf="0.85196">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c546">
+	<Coords points="1009,812 1027,812 1027,850 1009,850"/>
+	<TextEquiv conf="0.91084">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c217">
+	<Coords points="1029,820 1043,820 1043,848 1029,848"/>
+	<TextEquiv conf="0.89015">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84834">
+	<Unicode>reie</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83774">
+	<Unicode>und ſeine ere Zierde ſeyn wird. Der reie</Unicode></TextEquiv></TextLine>
+	<TextLine id="l218">
+	<Coords points="303,853 320,853 320,858 353,858 353,862 460,862 460,864 594,864 594,856 616,856 616,857 768,857 768,864 880,864 880,859 892,859 892,857 910,857 910,864 1007,864 1007,866 1042,866 1042,896 931,896 931,897 892,897 892,891 880,891 880,889 616,889 616,890 594,890 594,888 474,888 474,889 401,889 401,894 392,894 392,889 288,889 288,890 251,890 251,855 303,855"/>
+	<Word id="w219">
+	<Coords points="303,853 320,853 320,858 353,858 353,864 382,864 382,874 401,874 401,894 392,894 392,889 288,889 288,890 251,890 251,855 303,855"/>
+	<Glyph id="c549">
+	<Coords points="251,855 288,855 288,890 251,890"/>
+	<TextEquiv conf="0.81404">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c221">
+	<Coords points="291,859 301,859 301,887 291,887"/>
+	<TextEquiv conf="0.87766">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c552">
+	<Coords points="303,853 320,853 320,888 303,888"/>
+	<TextEquiv conf="0.77070">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c223">
+	<Coords points="323,858 338,858 338,888 323,888"/>
+	<TextEquiv conf="0.91992">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c555">
+	<Coords points="342,858 353,858 353,889 342,889"/>
+	<TextEquiv conf="0.89295">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c225">
+	<Coords points="354,864 365,864 365,889 354,889"/>
+	<TextEquiv conf="0.94058">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c226">
+	<Coords points="369,864 382,864 382,888 369,888"/>
+	<TextEquiv conf="0.90486">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c559">
+	<Coords points="392,874 401,874 401,894 392,894"/>
+	<TextEquiv conf="0.91113">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.77070">
+	<Unicode>Stdter,</Unicode></TextEquiv></Word>
+	<Word id="w228">
+	<Coords points="433,862 460,862 460,864 495,864 495,865 516,865 516,888 474,888 474,889 463,889 463,888 433,888"/>
+	<Glyph id="c561">
+	<Coords points="433,862 460,862 460,888 433,888"/>
+	<TextEquiv conf="0.88837">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c230">
+	<Coords points="463,864 474,864 474,889 463,889"/>
+	<TextEquiv conf="0.93739">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c231">
+	<Coords points="478,864 495,864 495,887 478,887"/>
+	<TextEquiv conf="0.86634">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c565">
+	<Coords points="499,865 516,865 516,888 499,888"/>
+	<TextEquiv conf="0.87979">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86634">
+	<Unicode>wenn</Unicode></TextEquiv></Word>
+	<Word id="w233">
+	<Coords points="541,864 569,864 569,887 554,887 554,888 541,888"/>
+	<Glyph id="c567">
+	<Coords points="541,864 554,864 554,888 541,888"/>
+	<TextEquiv conf="0.89050">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c235">
+	<Coords points="556,864 569,864 569,887 556,887"/>
+	<TextEquiv conf="0.90074">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.89050">
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w236">
+	<Coords points="594,856 616,856 616,857 768,857 768,864 785,864 785,865 855,865 855,889 616,889 616,890 594,890"/>
+	<Glyph id="c237">
+	<Coords points="594,856 616,856 616,890 594,890"/>
+	<TextEquiv conf="0.80983">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c571">
+	<Coords points="619,864 635,864 635,888 619,888"/>
+	<TextEquiv conf="0.87850">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c239">
+	<Coords points="638,863 654,863 654,887 638,887"/>
+	<TextEquiv conf="0.91719">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c574">
+	<Coords points="658,857 673,857 673,888 658,888"/>
+	<TextEquiv conf="0.88039">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c241">
+	<Coords points="683,873 693,873 693,886 683,886"/>
+	<TextEquiv conf="0.88545">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<Glyph id="c577">
+	<Coords points="705,857 738,857 738,889 705,889"/>
+	<TextEquiv conf="0.78291">
+	<Unicode>O</Unicode></TextEquiv></Glyph>
+	<Glyph id="c243">
+	<Coords points="742,865 753,865 753,888 742,888"/>
+	<TextEquiv conf="0.83727">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c580">
+	<Coords points="756,857 768,857 768,888 756,888"/>
+	<TextEquiv conf="0.73981">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c245">
+	<Coords points="770,864 785,864 785,889 770,889"/>
+	<TextEquiv conf="0.91364">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c583">
+	<Coords points="789,865 805,865 805,889 789,889"/>
+	<TextEquiv conf="0.90678">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c247">
+	<Coords points="808,865 822,865 822,888 808,888"/>
+	<TextEquiv conf="0.88967">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c586">
+	<Coords points="826,865 855,865 855,889 826,889"/>
+	<TextEquiv conf="0.92485">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73981">
+	<Unicode>Land⸗Oekonom</Unicode></TextEquiv></Word>
+	<Word id="w249">
+	<Coords points="892,857 910,857 910,877 931,877 931,897 892,897 892,891 880,891 880,859 892,859"/>
+	<Glyph id="c588">
+	<Coords points="880,859 888,859 888,891 880,891"/>
+	<TextEquiv conf="0.84394">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c251">
+	<Coords points="892,857 910,857 910,897 892,897"/>
+	<TextEquiv conf="0.92028">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c591">
+	<Coords points="922,877 931,877 931,897 922,897"/>
+	<TextEquiv conf="0.87851">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84394">
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w253">
+	<Coords points="1000,864 1007,864 1007,866 1042,866 1042,896 1026,896 1026,895 1000,895 1000,894 968,894 968,867 1000,867"/>
+	<Glyph id="c593">
+	<Coords points="968,867 996,867 996,894 968,894"/>
+	<TextEquiv conf="0.90280">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c255">
+	<Coords points="1000,864 1007,864 1007,895 1000,895"/>
+	<TextEquiv conf="0.98561">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c596">
+	<Coords points="1010,871 1023,871 1023,895 1010,895"/>
+	<TextEquiv conf="0.88190">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c257">
+	<Coords points="1026,866 1042,866 1042,896 1026,896"/>
+	<TextEquiv conf="0.87709">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87709">
+	<Unicode>wird</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83140">
+	<Unicode>Stdter, wenn er Land⸗Oekonom i, wird</Unicode></TextEquiv></TextLine>
+	<TextLine id="l258">
+	<Coords points="250,907 270,907 270,908 421,908 421,907 447,907 447,908 553,908 553,907 582,907 582,914 685,914 685,908 701,908 701,909 810,909 810,907 827,907 827,918 947,918 947,913 979,913 979,916 1030,916 1030,933 1044,933 1044,949 1030,949 1030,954 1001,954 1001,950 947,950 947,947 908,947 908,946 878,946 878,944 810,944 810,942 701,942 701,946 553,946 553,944 361,944 361,946 270,946 270,948 250,948"/>
+	<Word id="w259">
+	<Coords points="250,907 270,907 270,908 321,908 321,909 323,909 323,910 324,910 324,911 325,911 325,913 326,913 326,915 325,915 325,933 324,933 324,934 323,934 323,935 322,935 322,936 321,936 321,937 318,937 318,938 300,938 300,945 270,945 270,948 250,948"/>
+	<Glyph id="c260">
+	<Coords points="250,907 270,907 270,948 250,948"/>
+	<TextEquiv conf="0.80032">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c600">
+	<Coords points="272,908 300,908 300,945 272,945"/>
+	<TextEquiv conf="0.87448">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c0">
+	<Coords points="306,908 306,909 307,909 307,910 308,910 308,913 307,913 307,916 306,916 306,917 305,917 305,918 304,918 304,919 303,919 303,918 302,918 303,918 303,908"/>
+	<TextEquiv>
+	<Unicode>'</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1">
+	<Coords points="321,908 321,909 323,909 323,910 324,910 324,911 325,911 325,913 326,913 326,915 325,915 325,933 324,933 324,934 323,934 323,935 322,935 322,936 321,936 321,937 318,937 318,938 315,938 315,936 313,936 313,935 312,935 312,923 311,923 311,922 312,922 312,920 313,920 313,919 314,919 314,918 315,918 315,917 316,917 316,916 317,916 317,915 319,915 319,909 320,909 320,908"/>
+	<TextEquiv>
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.61821">
+	<Unicode>'s</Unicode></TextEquiv></Word>
+	<Word id="w263">
+	<Coords points="350,914 361,914 361,915 397,915 397,940 361,940 361,946 350,946"/>
+	<Glyph id="c264">
+	<Coords points="350,914 361,914 361,946 350,946"/>
+	<TextEquiv conf="0.75106">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c604">
+	<Coords points="364,916 380,916 380,939 364,939"/>
+	<TextEquiv conf="0.87588">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c266">
+	<Coords points="383,915 397,915 397,940 383,940"/>
+	<TextEquiv conf="0.89919">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.75106">
+	<Unicode>zur</Unicode></TextEquiv></Word>
+	<Word id="w267">
+	<Coords points="421,907 447,907 447,908 468,908 468,914 500,914 500,940 468,940 468,944 451,944 451,941 421,941"/>
+	<Glyph id="c268">
+	<Coords points="421,907 447,907 447,941 421,941"/>
+	<TextEquiv conf="0.76514">
+	<Unicode>E</Unicode></TextEquiv></Glyph>
+	<Glyph id="c608">
+	<Coords points="451,908 468,908 468,944 451,944"/>
+	<TextEquiv conf="0.99609">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c270">
+	<Coords points="472,915 485,915 485,939 472,939"/>
+	<TextEquiv conf="0.92294">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c611">
+	<Coords points="487,914 500,914 500,940 487,940"/>
+	<TextEquiv conf="0.91454">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76514">
+	<Unicode>Ehre</Unicode></TextEquiv></Word>
+	<Word id="w272">
+	<Coords points="553,907 582,907 582,914 602,914 602,915 638,915 638,924 656,924 656,946 553,946 553,940 539,940 539,939 523,939 523,914 553,914"/>
+	<Glyph id="c273">
+	<Coords points="523,914 536,914 536,939 523,939"/>
+	<TextEquiv conf="0.89206">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c614">
+	<Coords points="539,914 551,914 551,940 539,940"/>
+	<TextEquiv conf="0.86082">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c275">
+	<Coords points="553,907 582,907 582,946 553,946"/>
+	<TextEquiv conf="0.83696">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c617">
+	<Coords points="586,914 602,914 602,940 586,940"/>
+	<TextEquiv conf="0.92738">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c277">
+	<Coords points="606,915 618,915 618,940 606,940"/>
+	<TextEquiv conf="0.96185">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c620">
+	<Coords points="621,915 638,915 638,940 621,940"/>
+	<TextEquiv conf="0.93399">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c622">
+	<Coords points="647,924 656,924 656,946 647,946"/>
+	<TextEquiv conf="0.83931">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83696">
+	<Unicode>renen,</Unicode></TextEquiv></Word>
+	<Word id="w281">
+	<Coords points="685,908 701,908 701,909 719,909 719,917 787,917 787,942 701,942 701,946 685,946"/>
+	<Glyph id="c624">
+	<Coords points="685,908 701,908 701,946 685,946"/>
+	<TextEquiv conf="0.76277">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c283">
+	<Coords points="697,915 709,915 709,942 697,942"/>
+	<TextEquiv conf="0.89864">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c284">
+	<Coords points="712,909 719,909 719,942 712,942"/>
+	<TextEquiv conf="0.91489">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c285">
+	<Coords points="724,917 740,917 740,942 724,942"/>
+	<TextEquiv conf="0.98692">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c629">
+	<Coords points="744,917 755,917 755,942 744,942"/>
+	<TextEquiv conf="0.84078">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c287">
+	<Coords points="759,917 787,917 787,942 759,942"/>
+	<TextEquiv conf="0.91249">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76277">
+	<Unicode>ſeinem</Unicode></TextEquiv></Word>
+	<Word id="w288">
+	<Coords points="810,907 827,907 827,918 875,918 875,920 905,920 905,921 925,921 925,947 908,947 908,946 878,946 878,944 810,944"/>
+	<Glyph id="c289">
+	<Coords points="810,907 827,907 827,944 810,944"/>
+	<TextEquiv conf="0.81107">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c633">
+	<Coords points="831,920 842,920 842,944 831,944"/>
+	<TextEquiv conf="0.92816">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c291">
+	<Coords points="846,918 875,918 875,944 846,944"/>
+	<TextEquiv conf="0.94208">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c636">
+	<Coords points="878,920 888,920 888,946 878,946"/>
+	<TextEquiv conf="0.93480">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c293">
+	<Coords points="892,920 905,920 905,946 892,946"/>
+	<TextEquiv conf="0.89554">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c294">
+	<Coords points="908,921 925,921 925,947 908,947"/>
+	<TextEquiv conf="0.93721">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81107">
+	<Unicode>rmern</Unicode></TextEquiv></Word>
+	<Word id="w295">
+	<Coords points="947,913 979,913 979,916 1030,916 1030,933 1044,933 1044,949 1030,949 1030,954 1001,954 1001,950 947,950"/>
+	<Glyph id="c296">
+	<Coords points="947,913 979,913 979,950 947,950"/>
+	<TextEquiv conf="0.82640">
+	<Unicode>N</Unicode></TextEquiv></Glyph>
+	<Glyph id="c641">
+	<Coords points="981,923 998,923 998,949 981,949"/>
+	<TextEquiv conf="0.91673">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c298">
+	<Coords points="1001,916 1030,916 1030,954 1001,954"/>
+	<TextEquiv conf="0.84557">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c644">
+	<Coords points="1032,933 1044,933 1044,949 1032,949"/>
+	<TextEquiv conf="0.78144">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78144">
+	<Unicode>Na⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.77074">
+	<Unicode>'s zur Ehre renen, ſeinem rmern Na⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l300">
+	<Coords points="404,958 436,958 436,959 539,959 539,960 640,960 640,968 675,968 675,969 804,969 804,964 821,964 821,965 850,965 850,966 869,966 869,969 962,969 962,970 1012,970 1012,971 1031,971 1031,987 1044,987 1044,1002 1031,1002 1031,1004 1012,1004 1012,1008 996,1008 996,1002 869,1002 869,1004 853,1004 853,998 841,998 841,997 731,997 731,1000 722,1000 722,995 569,995 569,999 559,999 559,998 473,998 473,997 453,997 453,993 336,993 336,997 325,997 325,992 249,992 249,959 267,959 267,966 404,966"/>
+	<Word id="w301">
+	<Coords points="249,959 267,959 267,967 302,967 302,991 286,991 286,992 249,992"/>
+	<Glyph id="c302">
+	<Coords points="249,959 267,959 267,992 249,992"/>
+	<TextEquiv conf="0.81788">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c303">
+	<Coords points="270,967 286,967 286,992 270,992"/>
+	<TextEquiv conf="0.98332">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c648">
+	<Coords points="289,967 302,967 302,991 289,991"/>
+	<TextEquiv conf="0.94604">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81788">
+	<Unicode>bar</Unicode></TextEquiv></Word>
+	<Word id="w305">
+	<Coords points="325,966 389,966 389,990 336,990 336,997 325,997"/>
+	<Glyph id="c650">
+	<Coords points="325,966 336,966 336,997 325,997"/>
+	<TextEquiv conf="0.75288">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c307">
+	<Coords points="339,967 355,967 355,989 339,989"/>
+	<TextEquiv conf="0.86518">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c308">
+	<Coords points="359,966 389,966 389,990 359,990"/>
+	<TextEquiv conf="0.91148">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.75288">
+	<Unicode>zum</Unicode></TextEquiv></Word>
+	<Word id="w309">
+	<Coords points="404,958 436,958 436,959 539,959 539,992 511,992 511,993 501,993 501,997 488,997 488,998 473,998 473,997 453,997 453,993 404,993"/>
+	<Glyph id="c310">
+	<Coords points="404,958 436,958 436,993 404,993"/>
+	<TextEquiv conf="0.79679">
+	<Unicode>B</Unicode></TextEquiv></Glyph>
+	<Glyph id="c655">
+	<Coords points="439,968 451,968 451,993 439,993"/>
+	<TextEquiv conf="0.86450">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c312">
+	<Coords points="453,966 469,966 469,997 453,997"/>
+	<TextEquiv conf="0.87812">
+	<Unicode>y</Unicode></TextEquiv></Glyph>
+	<Glyph id="c658">
+	<Coords points="473,959 488,959 488,998 473,998"/>
+	<TextEquiv conf="0.76586">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<Glyph id="c314">
+	<Coords points="484,967 501,967 501,997 484,997"/>
+	<TextEquiv conf="0.85995">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c661">
+	<Coords points="504,959 511,959 511,993 504,993"/>
+	<TextEquiv conf="0.88533">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c316">
+	<Coords points="515,967 526,967 526,992 515,992"/>
+	<TextEquiv conf="0.93060">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c664">
+	<Coords points="528,959 539,959 539,992 528,992"/>
+	<TextEquiv conf="0.90024">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76586">
+	<Unicode>Beyspiel</Unicode></TextEquiv></Word>
+	<Word id="w318">
+	<Coords points="559,966 591,966 591,992 569,992 569,999 559,999"/>
+	<Glyph id="c666">
+	<Coords points="559,966 569,966 569,999 559,999"/>
+	<TextEquiv conf="0.80570">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c320">
+	<Coords points="573,966 591,966 591,992 573,992"/>
+	<TextEquiv conf="0.90460">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80570">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w321">
+	<Coords points="632,960 640,960 640,968 675,968 675,969 710,969 710,978 731,978 731,1000 722,1000 722,995 643,995 643,994 632,994 632,993 613,993 613,961 632,961"/>
+	<Glyph id="c669">
+	<Coords points="613,961 628,961 628,993 613,993"/>
+	<TextEquiv conf="0.83487">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c323">
+	<Coords points="632,960 640,960 640,994 632,994"/>
+	<TextEquiv conf="0.87820">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c672">
+	<Coords points="643,968 655,968 655,995 643,995"/>
+	<TextEquiv conf="0.96060">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c325">
+	<Coords points="658,968 675,968 675,993 658,993"/>
+	<TextEquiv conf="0.90997">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c675">
+	<Coords points="679,969 691,969 691,993 679,993"/>
+	<TextEquiv conf="0.90564">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c327">
+	<Coords points="694,969 710,969 710,994 694,994"/>
+	<TextEquiv conf="0.90552">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c329">
+	<Coords points="722,978 731,978 731,1000 722,1000"/>
+	<TextEquiv conf="0.84519">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83487">
+	<Unicode>dienen,</Unicode></TextEquiv></Word>
+	<Word id="w330">
+	<Coords points="804,964 821,964 821,997 804,997 804,996 762,996 762,970 804,970"/>
+	<Glyph id="c679">
+	<Coords points="762,970 780,970 780,996 762,996"/>
+	<TextEquiv conf="0.89253">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c332">
+	<Coords points="783,970 801,970 801,996 783,996"/>
+	<TextEquiv conf="0.90839">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c682">
+	<Coords points="804,964 821,964 821,997 804,997"/>
+	<TextEquiv conf="0.92474">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.89253">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w334">
+	<Coords points="841,965 850,965 850,966 869,966 869,973 902,973 902,998 869,998 869,1004 853,1004 853,998 841,998"/>
+	<Glyph id="c684">
+	<Coords points="841,965 850,965 850,998 841,998"/>
+	<TextEquiv conf="0.89008">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c336">
+	<Coords points="853,966 869,966 869,1004 853,1004"/>
+	<TextEquiv conf="0.87395">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c687">
+	<Coords points="872,973 902,973 902,998 872,998"/>
+	<TextEquiv conf="0.98575">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87395">
+	<Unicode>ihm</Unicode></TextEquiv></Word>
+	<Word id="w338">
+	<Coords points="955,969 962,969 962,971 976,971 976,1002 965,1002 965,1001 922,1001 922,975 955,975"/>
+	<Glyph id="c689">
+	<Coords points="922,975 951,975 951,1001 922,1001"/>
+	<TextEquiv conf="0.89418">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c340">
+	<Coords points="955,969 962,969 962,1000 955,1000"/>
+	<TextEquiv conf="0.82624">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c341">
+	<Coords points="965,971 976,971 976,1002 965,1002"/>
+	<TextEquiv conf="0.98589">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82624">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w342">
+	<Coords points="996,970 1012,970 1012,971 1031,971 1031,987 1044,987 1044,1002 1031,1002 1031,1004 1012,1004 1012,1008 996,1008"/>
+	<Glyph id="c343">
+	<Coords points="996,970 1012,970 1012,1008 996,1008"/>
+	<TextEquiv conf="0.80275">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c694">
+	<Coords points="1008,978 1020,978 1020,1002 1008,1002"/>
+	<TextEquiv conf="0.90902">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c345">
+	<Coords points="1022,971 1031,971 1031,1004 1022,1004"/>
+	<TextEquiv conf="0.86995">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c697">
+	<Coords points="1032,987 1044,987 1044,1002 1032,1002"/>
+	<TextEquiv conf="0.83654">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80275">
+	<Unicode>ſei⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82178">
+	<Unicode>bar zum Beyspiel zu dienen, und ihm mit ſei⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l347">
+	<Coords points="399,1009 415,1009 415,1011 428,1011 428,1012 450,1012 450,1013 551,1013 551,1015 747,1015 747,1016 801,1016 801,1017 814,1017 814,1018 841,1018 841,1019 872,1019 872,1022 975,1022 975,1030 1018,1030 1018,1031 1039,1031 1039,1060 982,1060 982,1059 901,1059 901,1057 854,1057 854,1056 764,1056 764,1053 652,1053 652,1049 467,1049 467,1051 453,1051 453,1049 387,1049 387,1045 351,1045 351,1044 250,1044 250,1018 351,1018 351,1012 375,1012 375,1011 399,1011"/>
+	<Word id="w348">
+	<Coords points="250,1018 284,1018 284,1019 305,1019 305,1044 250,1044"/>
+	<Glyph id="c349">
+	<Coords points="250,1018 268,1018 268,1044 250,1044"/>
+	<TextEquiv conf="0.95868">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c700">
+	<Coords points="273,1018 284,1018 284,1044 273,1044"/>
+	<TextEquiv conf="0.88104">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c351">
+	<Coords points="287,1019 305,1019 305,1044 287,1044"/>
+	<TextEquiv conf="0.94215">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88104">
+	<Unicode>nen</Unicode></TextEquiv></Word>
+	<Word id="w352">
+	<Coords points="399,1009 415,1009 415,1011 428,1011 428,1012 450,1012 450,1021 504,1021 504,1046 483,1046 483,1047 467,1047 467,1051 453,1051 453,1049 387,1049 387,1045 351,1045 351,1044 330,1044 330,1018 351,1018 351,1012 375,1012 375,1011 399,1011"/>
+	<Glyph id="c353">
+	<Coords points="330,1018 347,1018 347,1044 330,1044"/>
+	<TextEquiv conf="0.83500">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c704">
+	<Coords points="351,1012 359,1012 359,1045 351,1045"/>
+	<TextEquiv conf="0.93042">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c355">
+	<Coords points="362,1020 373,1020 373,1045 362,1045"/>
+	<TextEquiv conf="0.91348">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c707">
+	<Coords points="375,1011 384,1011 384,1045 375,1045"/>
+	<TextEquiv conf="0.87865">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c357">
+	<Coords points="387,1012 402,1012 402,1049 387,1049"/>
+	<TextEquiv conf="0.83954">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c710">
+	<Coords points="399,1009 415,1009 415,1046 399,1046"/>
+	<TextEquiv conf="0.78567">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c359">
+	<Coords points="418,1011 428,1011 428,1046 418,1046"/>
+	<TextEquiv conf="0.92849">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c713">
+	<Coords points="430,1015 439,1015 439,1045 430,1045"/>
+	<TextEquiv conf="0.85210">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c361">
+	<Coords points="442,1012 450,1012 450,1046 442,1046"/>
+	<TextEquiv conf="0.87935">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c362">
+	<Coords points="453,1021 467,1021 467,1051 453,1051"/>
+	<TextEquiv conf="0.87564">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c363">
+	<Coords points="471,1021 483,1021 483,1047 471,1047"/>
+	<TextEquiv conf="0.84685">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c718">
+	<Coords points="486,1021 504,1021 504,1046 486,1046"/>
+	<TextEquiv conf="0.87679">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78567">
+	<Unicode>vielfltigen</Unicode></TextEquiv></Word>
+	<Word id="w365">
+	<Coords points="523,1013 551,1013 551,1015 677,1015 677,1024 704,1024 704,1048 684,1048 684,1049 677,1049 677,1053 652,1053 652,1049 523,1049"/>
+	<Glyph id="c720">
+	<Coords points="523,1013 551,1013 551,1049 523,1049"/>
+	<TextEquiv conf="0.75782">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c367">
+	<Coords points="553,1021 565,1021 565,1047 553,1047"/>
+	<TextEquiv conf="0.91728">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c723">
+	<Coords points="568,1022 584,1022 584,1046 568,1046"/>
+	<TextEquiv conf="0.91776">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c369">
+	<Coords points="587,1022 605,1022 605,1047 587,1047"/>
+	<TextEquiv conf="0.91335">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c726">
+	<Coords points="608,1017 619,1017 619,1047 608,1047"/>
+	<TextEquiv conf="0.94247">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c371">
+	<Coords points="621,1023 637,1023 637,1046 621,1046"/>
+	<TextEquiv conf="0.90018">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c729">
+	<Coords points="641,1015 649,1015 649,1048 641,1048"/>
+	<TextEquiv conf="0.94231">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c373">
+	<Coords points="652,1015 677,1015 677,1053 652,1053"/>
+	<TextEquiv conf="0.88369">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c732">
+	<Coords points="672,1024 684,1024 684,1049 672,1049"/>
+	<TextEquiv conf="0.91006">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c375">
+	<Coords points="687,1024 704,1024 704,1048 687,1048"/>
+	<TextEquiv conf="0.91649">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.75782">
+	<Unicode>Kenntnien</Unicode></TextEquiv></Word>
+	<Word id="w376">
+	<Coords points="730,1015 747,1015 747,1016 801,1016 801,1017 814,1017 814,1018 841,1018 841,1019 872,1019 872,1057 854,1057 854,1056 764,1056 764,1050 750,1050 750,1049 730,1049"/>
+	<Glyph id="c735">
+	<Coords points="730,1015 747,1015 747,1049 730,1049"/>
+	<TextEquiv conf="0.82411">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c378">
+	<Coords points="750,1026 761,1026 761,1050 750,1050"/>
+	<TextEquiv conf="0.83655">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c738">
+	<Coords points="764,1017 781,1017 781,1056 764,1056"/>
+	<TextEquiv conf="0.83362">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c380">
+	<Coords points="786,1016 801,1016 801,1050 786,1050"/>
+	<TextEquiv conf="0.84256">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c381">
+	<Coords points="805,1017 814,1017 814,1050 805,1050"/>
+	<TextEquiv conf="0.84450">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c742">
+	<Coords points="816,1018 832,1018 832,1056 816,1056"/>
+	<TextEquiv conf="0.78778">
+	<Unicode>ﬂ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c383">
+	<Coords points="834,1018 841,1018 841,1051 834,1051"/>
+	<TextEquiv conf="0.89925">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c745">
+	<Coords points="854,1019 872,1019 872,1057 854,1057 854,1050 844,1050 844,1026 854,1026"/>
+	<TextEquiv conf="0.86029">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78778">
+	<Unicode>behlﬂi</Unicode></TextEquiv></Word>
+	<Word id="w386">
+	<Coords points="901,1025 911,1025 911,1028 932,1028 932,1052 911,1052 911,1059 901,1059"/>
+	<Glyph id="c387">
+	<Coords points="901,1025 911,1025 911,1059 901,1059"/>
+	<TextEquiv conf="0.82505">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c749">
+	<Coords points="915,1028 932,1028 932,1052 915,1052"/>
+	<TextEquiv conf="0.90340">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82505">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w389">
+	<Coords points="958,1022 975,1022 975,1030 1018,1030 1018,1031 1039,1031 1039,1060 982,1060 982,1059 958,1059"/>
+	<Glyph id="c390">
+	<Coords points="958,1022 975,1022 975,1059 958,1059"/>
+	<TextEquiv conf="0.82027">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c752">
+	<Coords points="966,1030 979,1030 979,1056 966,1056"/>
+	<TextEquiv conf="0.80902">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c392">
+	<Coords points="982,1030 998,1030 998,1060 982,1060"/>
+	<TextEquiv conf="0.84014">
+	<Unicode>y</Unicode></TextEquiv></Glyph>
+	<Glyph id="c755">
+	<Coords points="1001,1030 1018,1030 1018,1055 1001,1055"/>
+	<TextEquiv conf="0.90546">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c394">
+	<Coords points="1030,1031 1039,1031 1039,1060 1030,1060"/>
+	<TextEquiv conf="0.69816">
+	<Unicode>;</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.69816">
+	<Unicode>ſeyn;</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.78925">
+	<Unicode>nen vielfltigen Kenntnien behlﬂi zu ſeyn;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l395">
+	<Coords points="249,1065 266,1065 266,1072 426,1072 426,1065 457,1065 457,1067 561,1067 561,1075 642,1075 642,1076 753,1076 753,1071 848,1071 848,1073 981,1073 981,1082 1018,1082 1018,1083 1041,1083 1041,1107 1022,1107 1022,1105 908,1105 908,1104 826,1104 826,1102 724,1102 724,1106 707,1106 707,1100 613,1100 613,1099 457,1099 457,1100 364,1100 364,1103 353,1103 353,1098 269,1098 269,1097 249,1097"/>
+	<Word id="w396">
+	<Coords points="249,1065 266,1065 266,1072 301,1072 301,1073 321,1073 321,1097 281,1097 281,1098 269,1098 269,1097 249,1097"/>
+	<Glyph id="c397">
+	<Coords points="249,1065 266,1065 266,1097 249,1097"/>
+	<TextEquiv conf="0.85010">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c759">
+	<Coords points="269,1072 281,1072 281,1098 269,1098"/>
+	<TextEquiv conf="0.88528">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c399">
+	<Coords points="284,1072 301,1072 301,1097 284,1097"/>
+	<TextEquiv conf="0.88010">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c400">
+	<Coords points="304,1073 321,1073 321,1097 304,1097"/>
+	<TextEquiv conf="0.91325">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85010">
+	<Unicode>denn</Unicode></TextEquiv></Word>
+	<Word id="w401">
+	<Coords points="353,1072 364,1072 364,1073 401,1073 401,1097 364,1097 364,1103 353,1103"/>
+	<Glyph id="c402">
+	<Coords points="353,1072 364,1072 364,1103 353,1103"/>
+	<TextEquiv conf="0.82398">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c764">
+	<Coords points="367,1073 385,1073 385,1097 367,1097"/>
+	<TextEquiv conf="0.97896">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c404">
+	<Coords points="387,1073 401,1073 401,1097 387,1097"/>
+	<TextEquiv conf="0.89405">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82398">
+	<Unicode>zur</Unicode></TextEquiv></Word>
+	<Word id="w405">
+	<Coords points="426,1065 457,1065 457,1067 561,1067 561,1075 642,1075 642,1076 724,1076 724,1106 707,1106 707,1100 613,1100 613,1099 457,1099 457,1100 426,1100"/>
+	<Glyph id="c406">
+	<Coords points="426,1065 457,1065 457,1100 426,1100"/>
+	<TextEquiv conf="0.83682">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c768">
+	<Coords points="461,1074 471,1074 471,1098 461,1098"/>
+	<TextEquiv conf="0.79091">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c408">
+	<Coords points="475,1074 490,1074 490,1098 475,1098"/>
+	<TextEquiv conf="0.88419">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c409">
+	<Coords points="492,1073 507,1073 507,1098 492,1098"/>
+	<TextEquiv conf="0.88608">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c772">
+	<Coords points="511,1075 526,1075 526,1099 511,1099"/>
+	<TextEquiv conf="0.87327">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c411">
+	<Coords points="529,1068 546,1068 546,1098 529,1098"/>
+	<TextEquiv conf="0.89930">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c775">
+	<Coords points="550,1067 561,1067 561,1099 550,1099"/>
+	<TextEquiv conf="0.78661">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c413">
+	<Coords points="564,1075 578,1075 578,1098 564,1098"/>
+	<TextEquiv conf="0.86691">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c778">
+	<Coords points="582,1075 610,1075 610,1099 582,1099"/>
+	<TextEquiv conf="0.87227">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c415">
+	<Coords points="613,1075 642,1075 642,1100 613,1100"/>
+	<TextEquiv conf="0.89758">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c781">
+	<Coords points="645,1076 662,1076 662,1099 645,1099"/>
+	<TextEquiv conf="0.93286">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c417">
+	<Coords points="666,1076 684,1076 684,1099 666,1099"/>
+	<TextEquiv conf="0.90065">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c784">
+	<Coords points="687,1076 703,1076 703,1100 687,1100"/>
+	<TextEquiv conf="0.92618">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c419">
+	<Coords points="707,1076 724,1076 724,1106 707,1106"/>
+	<TextEquiv conf="0.90982">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78661">
+	<Unicode>Vervokommnung</Unicode></TextEquiv></Word>
+	<Word id="w420">
+	<Coords points="753,1071 803,1071 803,1100 784,1100 784,1102 773,1102 773,1101 753,1101"/>
+	<Glyph id="c421">
+	<Coords points="753,1071 768,1071 768,1101 753,1101"/>
+	<TextEquiv conf="0.91486">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c422">
+	<Coords points="773,1078 784,1078 784,1102 773,1102"/>
+	<TextEquiv conf="0.87399">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c423">
+	<Coords points="787,1071 803,1071 803,1100 787,1100"/>
+	<TextEquiv conf="0.97345">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87399">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w424">
+	<Coords points="826,1071 848,1071 848,1073 938,1073 938,1104 920,1104 920,1105 908,1105 908,1104 826,1104"/>
+	<Glyph id="c790">
+	<Coords points="826,1071 848,1071 848,1104 826,1104"/>
+	<TextEquiv conf="0.83725">
+	<Unicode>L</Unicode></TextEquiv></Glyph>
+	<Glyph id="c426">
+	<Coords points="850,1078 866,1078 866,1102 850,1102"/>
+	<TextEquiv conf="0.91922">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c793">
+	<Coords points="870,1079 885,1079 885,1103 870,1103"/>
+	<TextEquiv conf="0.91788">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c428">
+	<Coords points="889,1074 904,1074 904,1104 889,1104"/>
+	<TextEquiv conf="0.82434">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c796">
+	<Coords points="908,1080 920,1080 920,1105 908,1105"/>
+	<TextEquiv conf="0.83597">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c430">
+	<Coords points="922,1073 938,1073 938,1104 922,1104"/>
+	<TextEquiv conf="0.89847">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82434">
+	<Unicode>Landes</Unicode></TextEquiv></Word>
+	<Word id="w431">
+	<Coords points="968,1073 981,1073 981,1082 1018,1082 1018,1083 1041,1083 1041,1107 1022,1107 1022,1105 968,1105"/>
+	<Glyph id="c432">
+	<Coords points="968,1073 981,1073 981,1105 968,1105"/>
+	<TextEquiv conf="0.81569">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c800">
+	<Coords points="982,1082 999,1082 999,1105 982,1105"/>
+	<TextEquiv conf="0.94417">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c434">
+	<Coords points="1002,1082 1018,1082 1018,1105 1002,1105"/>
+	<TextEquiv conf="0.91304">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c435">
+	<Coords points="1022,1083 1041,1083 1041,1107 1022,1107"/>
+	<TextEquiv conf="0.98340">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81569">
+	<Unicode>kann</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82912">
+	<Unicode>denn zur Vervokommnung des Landes kann</Unicode></TextEquiv></TextLine>
+	<TextLine id="l436">
+	<Coords points="289,1118 318,1118 318,1119 446,1119 446,1118 454,1118 454,1119 532,1119 532,1121 661,1121 661,1120 676,1120 676,1126 796,1126 796,1121 812,1121 812,1122 934,1122 934,1125 1004,1125 1004,1127 1040,1127 1040,1158 1006,1158 1006,1156 901,1156 901,1153 849,1153 849,1152 816,1152 816,1151 676,1151 676,1156 629,1156 629,1158 613,1158 613,1152 485,1152 485,1155 456,1155 456,1151 446,1151 446,1150 318,1150 318,1154 289,1154 289,1151 248,1151 248,1124 289,1124"/>
+	<Word id="w437">
+	<Coords points="289,1118 318,1118 318,1154 289,1154 289,1151 248,1151 248,1124 289,1124"/>
+	<Glyph id="c804">
+	<Coords points="248,1124 267,1124 267,1151 248,1151"/>
+	<TextEquiv conf="0.86559">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c439">
+	<Coords points="271,1125 286,1125 286,1149 271,1149"/>
+	<TextEquiv conf="0.85730">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c807">
+	<Coords points="289,1118 318,1118 318,1154 289,1154"/>
+	<TextEquiv conf="0.88261">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85730">
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="w441">
+	<Coords points="446,1118 454,1118 454,1119 485,1119 485,1155 456,1155 456,1151 446,1151 446,1150 382,1150 382,1149 341,1149 341,1124 416,1124 416,1119 446,1119"/>
+	<Glyph id="c809">
+	<Coords points="341,1124 359,1124 359,1149 341,1149"/>
+	<TextEquiv conf="0.87927">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c443">
+	<Coords points="362,1125 379,1125 379,1149 362,1149"/>
+	<TextEquiv conf="0.93736">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c812">
+	<Coords points="382,1126 394,1126 394,1150 382,1150"/>
+	<TextEquiv conf="0.93147">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c445">
+	<Coords points="397,1126 412,1126 412,1149 397,1149"/>
+	<TextEquiv conf="0.93724">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c815">
+	<Coords points="416,1119 432,1119 432,1150 416,1150"/>
+	<TextEquiv conf="0.90878">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c447">
+	<Coords points="435,1119 443,1119 443,1150 435,1150"/>
+	<TextEquiv conf="0.90130">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c448">
+	<Coords points="446,1118 454,1118 454,1151 446,1151"/>
+	<TextEquiv conf="0.84442">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c819">
+	<Coords points="456,1119 485,1119 485,1155 456,1155"/>
+	<TextEquiv conf="0.86386">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84442">
+	<Unicode>unendli</Unicode></TextEquiv></Word>
+	<Word id="w450">
+	<Coords points="525,1119 532,1119 532,1121 590,1121 590,1150 573,1150 573,1152 562,1152 562,1151 535,1151 535,1150 506,1150 506,1126 525,1126"/>
+	<Glyph id="c821">
+	<Coords points="506,1126 521,1126 521,1150 506,1150"/>
+	<TextEquiv conf="0.87635">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c452">
+	<Coords points="525,1119 532,1119 532,1150 525,1150"/>
+	<TextEquiv conf="0.87041">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c824">
+	<Coords points="535,1127 547,1127 547,1151 535,1151"/>
+	<TextEquiv conf="0.90283">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c454">
+	<Coords points="549,1121 557,1121 557,1150 549,1150"/>
+	<TextEquiv conf="0.85393">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c827">
+	<Coords points="562,1127 573,1127 573,1152 562,1152"/>
+	<TextEquiv conf="0.84700">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c456">
+	<Coords points="576,1121 590,1121 590,1150 576,1150"/>
+	<TextEquiv conf="0.89172">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84700">
+	<Unicode>vieles</Unicode></TextEquiv></Word>
+	<Word id="w457">
+	<Coords points="661,1120 676,1120 676,1128 717,1128 717,1151 676,1151 676,1156 629,1156 629,1158 613,1158 613,1128 648,1128 648,1123 661,1123"/>
+	<Glyph id="c458">
+	<Coords points="613,1128 629,1128 629,1158 613,1158"/>
+	<TextEquiv conf="0.84581">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c459">
+	<Coords points="633,1129 644,1129 644,1152 633,1152"/>
+	<TextEquiv conf="0.91185">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c832">
+	<Coords points="648,1123 658,1123 658,1151 648,1151"/>
+	<TextEquiv conf="0.94003">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c461">
+	<Coords points="661,1120 676,1120 676,1156 661,1156"/>
+	<TextEquiv conf="0.82929">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c835">
+	<Coords points="680,1128 696,1128 696,1151 680,1151"/>
+	<TextEquiv conf="0.93204">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c463">
+	<Coords points="700,1128 717,1128 717,1151 700,1151"/>
+	<TextEquiv conf="0.94934">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82929">
+	<Unicode>gethan</Unicode></TextEquiv></Word>
+	<Word id="w464">
+	<Coords points="796,1121 812,1121 812,1128 847,1128 847,1143 858,1143 858,1153 849,1153 849,1152 816,1152 816,1151 737,1151 737,1126 796,1126"/>
+	<Glyph id="c465">
+	<Coords points="737,1126 764,1126 764,1151 737,1151"/>
+	<TextEquiv conf="0.94586">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c839">
+	<Coords points="767,1128 779,1128 779,1150 767,1150"/>
+	<TextEquiv conf="0.85973">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c467">
+	<Coords points="781,1127 794,1127 794,1151 781,1151"/>
+	<TextEquiv conf="0.88116">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c468">
+	<Coords points="796,1121 812,1121 812,1151 796,1151"/>
+	<TextEquiv conf="0.91510">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c843">
+	<Coords points="816,1128 827,1128 827,1152 816,1152"/>
+	<TextEquiv conf="0.92690">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c470">
+	<Coords points="830,1128 847,1128 847,1151 830,1151"/>
+	<TextEquiv conf="0.93449">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c846">
+	<Coords points="849,1143 858,1143 858,1153 849,1153"/>
+	<TextEquiv conf="0.82958">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82958">
+	<Unicode>werden.</Unicode></TextEquiv></Word>
+	<Word id="w472">
+	<Coords points="901,1122 934,1122 934,1130 954,1130 954,1131 970,1131 970,1154 934,1154 934,1156 901,1156"/>
+	<Glyph id="c848">
+	<Coords points="901,1122 934,1122 934,1156 901,1156"/>
+	<TextEquiv conf="0.83055">
+	<Unicode>N</Unicode></TextEquiv></Glyph>
+	<Glyph id="c474">
+	<Coords points="937,1130 954,1130 954,1154 937,1154"/>
+	<TextEquiv conf="0.86304">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c851">
+	<Coords points="957,1131 970,1131 970,1154 957,1154"/>
+	<TextEquiv conf="0.91736">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83055">
+	<Unicode>Nur</Unicode></TextEquiv></Word>
+	<Word id="w476">
+	<Coords points="988,1125 1004,1125 1004,1127 1040,1127 1040,1158 1006,1158 1006,1156 988,1156"/>
+	<Glyph id="c477">
+	<Coords points="988,1125 1004,1125 1004,1156 988,1156"/>
+	<TextEquiv conf="0.88574">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c478">
+	<Coords points="1006,1133 1022,1133 1022,1158 1006,1158"/>
+	<TextEquiv conf="0.92714">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c855">
+	<Coords points="1024,1127 1040,1127 1040,1158 1024,1158"/>
+	<TextEquiv conf="0.88010">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88010">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.84546">
+	<Unicode>no unendli vieles gethan werden. Nur das</Unicode></TextEquiv></TextLine>
+	<TextLine id="l480">
+	<Coords points="310,1168 328,1168 328,1170 389,1170 389,1176 499,1176 499,1170 643,1170 643,1171 779,1171 779,1170 796,1170 796,1171 807,1171 807,1173 925,1173 925,1174 964,1174 964,1175 975,1175 975,1178 1009,1178 1009,1185 1022,1185 1022,1186 1040,1186 1040,1210 1022,1210 1022,1211 964,1211 964,1213 946,1213 946,1210 896,1210 896,1208 779,1208 779,1203 643,1203 643,1208 544,1208 544,1202 389,1202 389,1207 274,1207 274,1209 247,1209 247,1169 310,1169"/>
+	<Word id="w481">
+	<Coords points="310,1168 328,1168 328,1170 389,1170 389,1177 411,1177 411,1178 433,1178 433,1179 434,1179 434,1181 435,1181 435,1182 436,1182 436,1198 434,1198 434,1200 433,1200 433,1202 389,1202 389,1207 274,1207 274,1209 247,1209 247,1169 310,1169"/>
+	<Glyph id="c482">
+	<Coords points="247,1169 274,1169 274,1209 247,1209"/>
+	<TextEquiv conf="0.78478">
+	<Unicode>F</Unicode></TextEquiv></Glyph>
+	<Glyph id="c858">
+	<Coords points="277,1177 293,1177 293,1203 277,1203"/>
+	<TextEquiv conf="0.84127">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c484">
+	<Coords points="295,1178 307,1178 307,1202 295,1202"/>
+	<TextEquiv conf="0.94461">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c485">
+	<Coords points="310,1168 328,1168 328,1207 310,1207"/>
+	<TextEquiv conf="0.85332">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c486">
+	<Coords points="330,1176 356,1176 356,1202 330,1202"/>
+	<TextEquiv conf="0.87891">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c863">
+	<Coords points="359,1177 372,1177 372,1203 359,1203"/>
+	<TextEquiv conf="0.90851">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c488">
+	<Coords points="375,1170 389,1170 389,1207 375,1207"/>
+	<TextEquiv conf="0.87667">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c866">
+	<Coords points="385,1177 396,1177 396,1202 385,1202"/>
+	<TextEquiv conf="0.89158">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1449">
+	<Coords points="411,1178 413,1178 413,1179 414,1179 414,1193 415,1193 415,1195 416,1195 416,1197 415,1197 415,1198 414,1198 414,1200 412,1200 412,1201 411,1201 411,1199 400,1199 400,1197 399,1197 399,1180 400,1180 400,1178 411,1178 411,1177"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1450">
+	<Coords points="433,1178 433,1179 434,1179 434,1181 435,1181 435,1182 436,1182 436,1198 434,1198 434,1200 433,1200 433,1202 431,1202 431,1200 430,1200 430,1197 429,1197 429,1183 428,1183 428,1182 429,1182 429,1180 430,1180 430,1179 431,1179 431,1178"/>
+	<TextEquiv>
+	<Unicode>:</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73146">
+	<Unicode>Forweſen:</Unicode></TextEquiv></Word>
+	<Word id="w491">
+	<Coords points="499,1170 507,1170 507,1177 523,1177 523,1202 499,1202 499,1201 469,1201 469,1176 499,1176"/>
+	<Glyph id="c492">
+	<Coords points="469,1176 496,1176 496,1201 469,1201"/>
+	<TextEquiv conf="0.88652">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c870">
+	<Coords points="499,1170 507,1170 507,1202 499,1202"/>
+	<TextEquiv conf="0.89705">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c494">
+	<Coords points="510,1177 523,1177 523,1202 510,1202"/>
+	<TextEquiv conf="0.93541">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88652">
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="w495">
+	<Coords points="544,1170 588,1170 588,1178 606,1178 606,1202 588,1202 588,1208 544,1208"/>
+	<Glyph id="c496">
+	<Coords points="544,1170 559,1170 559,1208 544,1208"/>
+	<TextEquiv conf="0.86428">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c497">
+	<Coords points="557,1178 567,1178 567,1202 557,1202"/>
+	<TextEquiv conf="0.82176">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c875">
+	<Coords points="571,1170 588,1170 588,1208 571,1208"/>
+	<TextEquiv conf="0.88147">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c499">
+	<Coords points="592,1178 606,1178 606,1202 592,1202"/>
+	<TextEquiv conf="0.88155">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82176">
+	<Unicode>ſehr</Unicode></TextEquiv></Word>
+	<Word id="w500">
+	<Coords points="625,1170 643,1170 643,1172 683,1172 683,1203 643,1203 643,1208 625,1208"/>
+	<Glyph id="c501">
+	<Coords points="625,1170 643,1170 643,1208 625,1208"/>
+	<TextEquiv conf="0.82540">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c879">
+	<Coords points="647,1179 663,1179 663,1202 647,1202"/>
+	<TextEquiv conf="0.94710">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c503">
+	<Coords points="667,1172 683,1172 683,1203 667,1203"/>
+	<TextEquiv conf="0.89863">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82540">
+	<Unicode>nd</Unicode></TextEquiv></Word>
+	<Word id="w504">
+	<Coords points="734,1171 741,1171 741,1178 757,1178 757,1202 741,1202 741,1203 705,1203 705,1177 734,1177"/>
+	<Glyph id="c505">
+	<Coords points="705,1177 731,1177 731,1203 705,1203"/>
+	<TextEquiv conf="0.91676">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c883">
+	<Coords points="734,1171 741,1171 741,1203 734,1203"/>
+	<TextEquiv conf="0.79951">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c507">
+	<Coords points="744,1178 757,1178 757,1202 744,1202"/>
+	<TextEquiv conf="0.92305">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79951">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w508">
+	<Coords points="779,1170 796,1170 796,1171 807,1171 807,1179 838,1179 838,1205 796,1205 796,1208 779,1208"/>
+	<Glyph id="c509">
+	<Coords points="779,1170 796,1170 796,1208 779,1208"/>
+	<TextEquiv conf="0.92284">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c887">
+	<Coords points="799,1171 807,1171 807,1203 799,1203"/>
+	<TextEquiv conf="0.89619">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c511">
+	<Coords points="810,1179 821,1179 821,1204 810,1204"/>
+	<TextEquiv conf="0.90918">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c890">
+	<Coords points="824,1179 838,1179 838,1205 824,1205"/>
+	<TextEquiv conf="0.88617">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88617">
+	<Unicode>hier</Unicode></TextEquiv></Word>
+	<Word id="w513">
+	<Coords points="896,1173 925,1173 925,1210 896,1210 896,1206 857,1206 857,1180 896,1180"/>
+	<Glyph id="c892">
+	<Coords points="857,1180 873,1180 873,1206 857,1206"/>
+	<TextEquiv conf="0.91353">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c515">
+	<Coords points="877,1180 893,1180 893,1206 877,1206"/>
+	<TextEquiv conf="0.86521">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c895">
+	<Coords points="896,1173 925,1173 925,1210 896,1210"/>
+	<TextEquiv conf="0.86008">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86008">
+	<Unicode>no</Unicode></TextEquiv></Word>
+	<Word id="w517">
+	<Coords points="946,1174 964,1174 964,1175 975,1175 975,1178 1009,1178 1009,1185 1022,1185 1022,1186 1040,1186 1040,1210 1022,1210 1022,1211 964,1211 964,1213 946,1213"/>
+	<Glyph id="c518">
+	<Coords points="946,1174 964,1174 964,1213 946,1213"/>
+	<TextEquiv conf="0.76682">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c519">
+	<Coords points="967,1175 975,1175 975,1209 967,1209"/>
+	<TextEquiv conf="0.91362">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c899">
+	<Coords points="978,1184 994,1184 994,1209 978,1209"/>
+	<TextEquiv conf="0.87166">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c521">
+	<Coords points="998,1178 1009,1178 1009,1209 998,1209"/>
+	<TextEquiv conf="0.88012">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c902">
+	<Coords points="1011,1185 1022,1185 1022,1211 1011,1211"/>
+	<TextEquiv conf="0.88757">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c523">
+	<Coords points="1026,1186 1040,1186 1040,1210 1026,1210"/>
+	<TextEquiv conf="0.83191">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76682">
+	<Unicode>hinter</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82221">
+	<Unicode>Forweſen: wie ſehr nd wir hier no hinter</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Dur ſole unfehlbare Mittel wird die
+Land⸗Oekonomie, als der Hauptnerf und das
+ere Bedrfniß aer Staaten, zu einer Vo⸗
+kommenheit gedeihen, die das Gl des Landes
+und ſeine ere Zierde ſeyn wird. Der reie
+Stdter, wenn er Land⸗Oekonom i, wird
+'s zur Ehre renen, ſeinem rmern Na⸗
+bar zum Beyspiel zu dienen, und ihm mit ſei⸗
+nen vielfltigen Kenntnien behlﬂi zu ſeyn;
+denn zur Vervokommnung des Landes kann
+no unendli vieles gethan werden. Nur das
+Forweſen: wie ſehr nd wir hier no hinter</Unicode></TextEquiv>
+	<TextStyle fontFamily="Fraktur"/></TextRegion>
+	<TextRegion id="r2" readingDirection="left-to-right" textLineOrder="top-to-bottom" type="footnote-continued" indented="false" align="justify" primaryLanguage="German">
+	<Coords points="331,1323 533,1323 533,1324 563,1324 563,1331 667,1331 667,1326 749,1326 749,1325 774,1325 774,1327 855,1327 855,1329 907,1329 907,1330 977,1330 977,1336 1038,1336 1038,1500 1036,1500 1036,1591 1035,1591 1035,1639 966,1639 966,1642 835,1642 835,1684 789,1684 789,1686 774,1686 774,1683 716,1683 716,1682 541,1682 541,1683 499,1683 499,1685 379,1685 379,1684 368,1684 368,1679 329,1679 329,1637 328,1637 328,1556 329,1556 329,1460 331,1460"/>
+	<TextLine id="l905">
+	<Coords points="331,1323 533,1323 533,1324 563,1324 563,1331 667,1331 667,1326 749,1326 749,1325 774,1325 774,1327 855,1327 855,1329 907,1329 907,1330 977,1330 977,1336 1038,1336 1038,1360 969,1360 969,1359 855,1359 855,1360 844,1360 844,1359 749,1359 749,1355 711,1355 711,1354 598,1354 598,1357 589,1357 589,1354 566,1354 566,1353 429,1353 429,1357 398,1357 398,1358 331,1358"/>
+	<Word id="w907">
+	<Coords points="331,1323 533,1323 533,1324 563,1324 563,1331 578,1331 578,1341 598,1341 598,1357 589,1357 589,1354 566,1354 566,1353 429,1353 429,1357 398,1357 398,1358 331,1358"/>
+	<Glyph id="c909">
+	<Coords points="331,1323 355,1323 355,1358 331,1358"/>
+	<TextEquiv conf="0.74960">
+	<Unicode>P</Unicode></TextEquiv></Glyph>
+	<Glyph id="c911">
+	<Coords points="358,1330 370,1330 370,1352 358,1352"/>
+	<TextEquiv conf="0.89741">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c913">
+	<Coords points="372,1330 386,1330 386,1352 372,1352"/>
+	<TextEquiv conf="0.82855">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c915">
+	<Coords points="389,1330 398,1330 398,1358 389,1358"/>
+	<TextEquiv conf="0.72424">
+	<Unicode>z</Unicode></TextEquiv></Glyph>
+	<Glyph id="c917">
+	<Coords points="402,1331 412,1331 412,1352 402,1352"/>
+	<TextEquiv conf="0.83189">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c919">
+	<Coords points="415,1323 429,1323 429,1357 415,1357"/>
+	<TextEquiv conf="0.76590">
+	<Unicode>ß</Unicode></TextEquiv></Glyph>
+	<Glyph id="c921">
+	<Coords points="437,1337 447,1337 447,1348 437,1348"/>
+	<TextEquiv conf="0.82758">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<Glyph id="c923">
+	<Coords points="454,1323 482,1323 482,1353 454,1353"/>
+	<TextEquiv conf="0.80975">
+	<Unicode>B</Unicode></TextEquiv></Glyph>
+	<Glyph id="c925">
+	<Coords points="486,1331 496,1331 496,1353 486,1353"/>
+	<TextEquiv conf="0.88152">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c927">
+	<Coords points="499,1326 510,1326 510,1353 499,1353"/>
+	<TextEquiv conf="0.86368">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c929">
+	<Coords points="512,1331 523,1331 523,1353 512,1353"/>
+	<TextEquiv conf="0.83331">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c931">
+	<Coords points="526,1323 533,1323 533,1353 526,1353"/>
+	<TextEquiv conf="0.86809">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c933">
+	<Coords points="537,1332 547,1332 547,1352 537,1352"/>
+	<TextEquiv conf="0.85173">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c935">
+	<Coords points="550,1324 563,1324 563,1353 550,1353"/>
+	<TextEquiv conf="0.88003">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c937">
+	<Coords points="566,1331 578,1331 578,1354 566,1354"/>
+	<TextEquiv conf="0.83996">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c939">
+	<Coords points="589,1341 598,1341 598,1357 589,1357"/>
+	<TextEquiv conf="0.89036">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.72424">
+	<Unicode>Prozeß⸗Betriebe,</Unicode></TextEquiv></Word>
+	<Word id="w19">
+	<Coords points="667,1326 682,1326 682,1354 628,1354 628,1332 648,1332 648,1331 667,1331"/>
+	<Glyph id="c941">
+	<Coords points="628,1332 645,1332 645,1354 628,1354"/>
+	<TextEquiv conf="0.88391">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c943">
+	<Coords points="648,1331 665,1331 665,1354 648,1354"/>
+	<TextEquiv conf="0.89215">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c945">
+	<Coords points="667,1326 682,1326 682,1354 667,1354"/>
+	<TextEquiv conf="0.85905">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85905">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="749,1325 774,1325 774,1359 749,1359 749,1355 711,1355 711,1332 749,1332"/>
+	<Glyph id="c947">
+	<Coords points="711,1332 726,1332 726,1355 711,1355"/>
+	<TextEquiv conf="0.91658">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c949">
+	<Coords points="729,1332 745,1332 745,1355 729,1355"/>
+	<TextEquiv conf="0.88236">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c951">
+	<Coords points="749,1325 774,1325 774,1359 749,1359"/>
+	<TextEquiv conf="0.81760">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81760">
+	<Unicode>au</Unicode></TextEquiv></Word>
+	<Word id="w27">
+	<Coords points="802,1327 855,1327 855,1335 866,1335 866,1356 855,1356 855,1360 844,1360 844,1357 820,1357 820,1355 802,1355"/>
+	<Glyph id="c953">
+	<Coords points="802,1327 816,1327 816,1355 802,1355"/>
+	<TextEquiv conf="0.85804">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c955">
+	<Coords points="820,1327 828,1327 828,1357 820,1357"/>
+	<TextEquiv conf="0.81490">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c957">
+	<Coords points="831,1335 841,1335 841,1356 831,1356"/>
+	<TextEquiv conf="0.91729">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c959">
+	<Coords points="844,1327 855,1327 855,1360 844,1360"/>
+	<TextEquiv conf="0.85008">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c961">
+	<Coords points="855,1335 866,1335 866,1356 855,1356"/>
+	<TextEquiv conf="0.88134">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81490">
+	<Unicode>dieſe</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="898,1329 907,1329 907,1333 927,1333 927,1358 907,1358 907,1359 898,1359"/>
+	<Glyph id="c963">
+	<Coords points="898,1329 907,1329 907,1359 898,1359"/>
+	<TextEquiv conf="0.79964">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c965">
+	<Coords points="910,1333 927,1333 927,1358 910,1358"/>
+	<TextEquiv conf="0.84201">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79964">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w967">
+	<Coords points="969,1330 977,1330 977,1336 1038,1336 1038,1360 969,1360 969,1358 955,1358 955,1336 969,1336"/>
+	<Glyph id="c969">
+	<Coords points="955,1336 966,1336 966,1358 955,1358"/>
+	<TextEquiv conf="0.91055">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c971">
+	<Coords points="969,1330 977,1330 977,1360 969,1360"/>
+	<TextEquiv conf="0.82053">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c973">
+	<Coords points="980,1336 996,1336 996,1358 980,1358"/>
+	<TextEquiv conf="0.93327">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c975">
+	<Coords points="999,1337 1010,1337 1010,1359 999,1359"/>
+	<TextEquiv conf="0.86637">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c977">
+	<Coords points="1012,1336 1038,1336 1038,1360 1012,1360"/>
+	<TextEquiv conf="0.86855">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82053">
+	<Unicode>einem</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.80599">
+	<Unicode>Prozeß⸗Betriebe, und au dieſe in einem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l42">
+	<Coords points="616,1366 629,1366 629,1370 664,1370 664,1371 706,1371 706,1372 779,1372 779,1377 796,1377 796,1378 900,1378 900,1374 913,1374 913,1375 1023,1375 1023,1378 1038,1378 1038,1403 1023,1403 1023,1405 1008,1405 1008,1402 987,1402 987,1401 916,1401 916,1400 885,1400 885,1399 664,1399 664,1402 647,1402 647,1403 633,1403 633,1399 586,1399 586,1398 436,1398 436,1401 391,1401 391,1402 377,1402 377,1400 331,1400 331,1369 405,1369 405,1371 544,1371 544,1370 586,1370 586,1369 616,1369"/>
+	<Word id="w43">
+	<Coords points="331,1369 405,1369 405,1377 418,1377 418,1386 436,1386 436,1401 391,1401 391,1402 377,1402 377,1400 331,1400"/>
+	<Glyph id="c979">
+	<Coords points="331,1369 362,1369 362,1400 331,1400"/>
+	<TextEquiv conf="0.84394">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c981">
+	<Coords points="364,1373 374,1373 374,1398 364,1398"/>
+	<TextEquiv conf="0.85701">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c983">
+	<Coords points="377,1377 391,1377 391,1402 377,1402"/>
+	<TextEquiv conf="0.85082">
+	<Unicode>y</Unicode></TextEquiv></Glyph>
+	<Glyph id="c985">
+	<Coords points="396,1369 405,1369 405,1398 396,1398"/>
+	<TextEquiv conf="0.89501">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c987">
+	<Coords points="407,1377 418,1377 418,1398 407,1398"/>
+	<TextEquiv conf="0.83686">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c989">
+	<Coords points="427,1386 436,1386 436,1401 427,1401"/>
+	<TextEquiv conf="0.85182">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83686">
+	<Unicode>Style,</Unicode></TextEquiv></Word>
+	<Word id="w50">
+	<Coords points="462,1371 476,1371 476,1377 505,1377 505,1398 462,1398"/>
+	<Glyph id="c991">
+	<Coords points="462,1371 476,1371 476,1398 462,1398"/>
+	<TextEquiv conf="0.84755">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c993">
+	<Coords points="480,1377 491,1377 491,1398 480,1398"/>
+	<TextEquiv conf="0.84370">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c995">
+	<Coords points="493,1377 505,1377 505,1398 493,1398"/>
+	<TextEquiv conf="0.81532">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81532">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w54">
+	<Coords points="544,1370 553,1370 553,1377 567,1377 567,1398 527,1398 527,1371 544,1371"/>
+	<Glyph id="c997">
+	<Coords points="527,1371 541,1371 541,1398 527,1398"/>
+	<TextEquiv conf="0.85495">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c999">
+	<Coords points="544,1370 553,1370 553,1398 544,1398"/>
+	<TextEquiv conf="0.82066">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1001">
+	<Coords points="555,1377 567,1377 567,1398 555,1398"/>
+	<TextEquiv conf="0.81671">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81671">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w58">
+	<Coords points="616,1366 629,1366 629,1370 664,1370 664,1377 674,1377 674,1398 664,1398 664,1402 647,1402 647,1403 633,1403 633,1399 586,1399 586,1369 616,1369"/>
+	<Glyph id="c1003">
+	<Coords points="586,1369 612,1369 612,1399 586,1399"/>
+	<TextEquiv conf="0.73679">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1005">
+	<Coords points="616,1366 629,1366 629,1398 616,1398"/>
+	<TextEquiv conf="0.80985">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1007">
+	<Coords points="633,1377 647,1377 647,1403 633,1403"/>
+	<TextEquiv conf="0.86179">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1009">
+	<Coords points="651,1370 664,1370 664,1402 651,1402"/>
+	<TextEquiv conf="0.84634">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1011">
+	<Coords points="662,1377 674,1377 674,1398 662,1398"/>
+	<TextEquiv conf="0.83473">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73679">
+	<Unicode>Kpfe</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="692,1371 706,1371 706,1378 734,1378 734,1398 692,1398"/>
+	<Glyph id="c1013">
+	<Coords points="692,1371 706,1371 706,1398 692,1398"/>
+	<TextEquiv conf="0.84926">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1015">
+	<Coords points="709,1378 720,1378 720,1398 709,1398"/>
+	<TextEquiv conf="0.84172">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1017">
+	<Coords points="722,1378 734,1378 734,1398 722,1398"/>
+	<TextEquiv conf="0.85207">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84172">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w68">
+	<Coords points="751,1372 779,1372 779,1377 796,1377 796,1378 829,1378 829,1379 863,1379 863,1399 751,1399"/>
+	<Glyph id="c1019">
+	<Coords points="751,1372 779,1372 779,1399 751,1399"/>
+	<TextEquiv conf="0.78389">
+	<Unicode>B</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1021">
+	<Coords points="782,1377 796,1377 796,1398 782,1398"/>
+	<TextEquiv conf="0.85207">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1023">
+	<Coords points="799,1378 815,1378 815,1398 799,1398"/>
+	<TextEquiv conf="0.87832">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1025">
+	<Coords points="819,1378 829,1378 829,1398 819,1398"/>
+	<TextEquiv conf="0.86747">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1027">
+	<Coords points="831,1379 843,1379 843,1399 831,1399"/>
+	<TextEquiv conf="0.86247">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1029">
+	<Coords points="845,1379 863,1379 863,1399 845,1399"/>
+	<TextEquiv conf="0.86699">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78389">
+	<Unicode>Bauern</Unicode></TextEquiv></Word>
+	<Word id="w1031">
+	<Coords points="900,1374 913,1374 913,1380 947,1380 947,1401 916,1401 916,1400 885,1400 885,1380 900,1380"/>
+	<Glyph id="c1033">
+	<Coords points="885,1380 897,1380 897,1400 885,1400"/>
+	<TextEquiv conf="0.87448">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1035">
+	<Coords points="900,1374 913,1374 913,1400 900,1400"/>
+	<TextEquiv conf="0.88841">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1037">
+	<Coords points="916,1381 927,1381 927,1401 916,1401"/>
+	<TextEquiv conf="0.86253">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1039">
+	<Coords points="930,1380 947,1380 947,1401 930,1401"/>
+	<TextEquiv conf="0.89790">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86253">
+	<Unicode>eben</Unicode></TextEquiv></Word>
+	<Word id="w80">
+	<Coords points="1008,1375 1023,1375 1023,1378 1038,1378 1038,1403 1023,1403 1023,1405 1008,1405 1008,1402 987,1402 987,1401 967,1401 967,1381 987,1381 987,1376 1008,1376"/>
+	<Glyph id="c1041">
+	<Coords points="967,1381 984,1381 984,1401 967,1401"/>
+	<TextEquiv conf="0.84705">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1043">
+	<Coords points="987,1376 995,1376 995,1402 987,1402"/>
+	<TextEquiv conf="0.80824">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1045">
+	<Coords points="1008,1375 1023,1375 1023,1405 1008,1405 1008,1402 999,1402 999,1381 1008,1381"/>
+	<TextEquiv conf="0.83310">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1049">
+	<Coords points="1026,1378 1038,1378 1038,1403 1026,1403"/>
+	<TextEquiv conf="0.79895">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79895">
+	<Unicode>nit</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.81160">
+	<Unicode>Style, der die Kpfe der Bauern eben nit</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="490,1410 503,1410 503,1413 634,1413 634,1410 650,1410 650,1416 836,1416 836,1418 930,1418 930,1421 956,1421 956,1426 1000,1426 1000,1427 1038,1427 1038,1451 1020,1451 1020,1450 1004,1450 1004,1449 986,1449 986,1448 907,1448 907,1445 800,1445 800,1446 703,1446 703,1447 634,1447 634,1448 477,1448 477,1446 371,1446 371,1447 331,1447 331,1413 344,1413 344,1414 371,1414 371,1420 477,1420 477,1414 490,1414"/>
+	<Word id="w87">
+	<Coords points="331,1413 344,1413 344,1414 371,1414 371,1421 387,1421 387,1443 371,1443 371,1447 331,1447"/>
+	<Glyph id="c1051">
+	<Coords points="331,1413 344,1413 344,1447 331,1447"/>
+	<TextEquiv conf="0.83255">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1053">
+	<Coords points="344,1422 354,1422 354,1443 344,1443"/>
+	<TextEquiv conf="0.85299">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1055">
+	<Coords points="357,1414 371,1414 371,1447 357,1447"/>
+	<TextEquiv conf="0.81593">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1057">
+	<Coords points="374,1421 387,1421 387,1443 374,1443"/>
+	<TextEquiv conf="0.86565">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.81593">
+	<Unicode>ſehr</Unicode></TextEquiv></Word>
+	<Word id="w1059">
+	<Coords points="490,1410 503,1410 503,1413 591,1413 591,1448 477,1448 477,1446 460,1446 460,1443 418,1443 418,1421 432,1421 432,1420 477,1420 477,1414 490,1414"/>
+	<Glyph id="c1061">
+	<Coords points="418,1421 429,1421 429,1443 418,1443"/>
+	<TextEquiv conf="0.89722">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1063">
+	<Coords points="432,1420 457,1420 457,1443 432,1443"/>
+	<TextEquiv conf="0.90714">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1065">
+	<Coords points="460,1420 474,1420 474,1446 460,1446"/>
+	<TextEquiv conf="0.78600">
+	<Unicode>p</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1067">
+	<Coords points="477,1414 490,1414 490,1448 477,1448"/>
+	<TextEquiv conf="0.91288">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1069">
+	<Coords points="490,1410 503,1410 503,1443 490,1443"/>
+	<TextEquiv conf="0.71835">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1071">
+	<Coords points="506,1420 523,1420 523,1443 506,1443"/>
+	<TextEquiv conf="0.89203">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c99">
+	<Coords points="526,1421 539,1421 539,1448 526,1448"/>
+	<TextEquiv conf="0.87133">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1074">
+	<Coords points="543,1414 553,1414 553,1443 543,1443"/>
+	<TextEquiv conf="0.84358">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1076">
+	<Coords points="556,1414 562,1414 562,1443 556,1443"/>
+	<TextEquiv conf="0.80773">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1078">
+	<Coords points="565,1413 591,1413 591,1448 565,1448"/>
+	<TextEquiv conf="0.85312">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.71835">
+	<Unicode>empfngli</Unicode></TextEquiv></Word>
+	<Word id="w103">
+	<Coords points="634,1410 650,1410 650,1421 666,1421 666,1444 634,1444 634,1448 622,1448 622,1414 634,1414"/>
+	<Glyph id="c1080">
+	<Coords points="622,1414 634,1414 634,1448 622,1448"/>
+	<TextEquiv conf="0.83329">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1082">
+	<Coords points="634,1410 650,1410 650,1444 634,1444"/>
+	<TextEquiv conf="0.86043">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1084">
+	<Coords points="654,1421 666,1421 666,1444 654,1444"/>
+	<TextEquiv conf="0.89119">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83329">
+	<Unicode>fr</Unicode></TextEquiv></Word>
+	<Word id="w1086">
+	<Coords points="694,1416 733,1416 733,1422 747,1422 747,1444 733,1444 733,1445 703,1445 703,1447 694,1447"/>
+	<Glyph id="c1088">
+	<Coords points="694,1416 703,1416 703,1447 694,1447"/>
+	<TextEquiv conf="0.84321">
+	<Unicode>j</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1090">
+	<Coords points="706,1423 717,1423 717,1445 706,1445"/>
+	<TextEquiv conf="0.83252">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1092">
+	<Coords points="719,1416 733,1416 733,1445 719,1445"/>
+	<TextEquiv conf="0.83295">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1094">
+	<Coords points="736,1422 747,1422 747,1444 736,1444"/>
+	<TextEquiv conf="0.87826">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.83252">
+	<Unicode>jede</Unicode></TextEquiv></Word>
+	<Word id="w112">
+	<Coords points="822,1416 836,1416 836,1423 877,1423 877,1445 800,1445 800,1446 786,1446 786,1423 822,1423"/>
+	<Glyph id="c1096">
+	<Coords points="786,1423 800,1423 800,1446 786,1446"/>
+	<TextEquiv conf="0.84571">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1098">
+	<Coords points="803,1423 819,1423 819,1445 803,1445"/>
+	<TextEquiv conf="0.84577">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1100">
+	<Coords points="822,1416 836,1416 836,1445 822,1445"/>
+	<TextEquiv conf="0.88213">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1102">
+	<Coords points="839,1423 849,1423 849,1445 839,1445"/>
+	<TextEquiv conf="0.85414">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1104">
+	<Coords points="853,1423 864,1423 864,1445 853,1445"/>
+	<TextEquiv conf="0.78979">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1106">
+	<Coords points="866,1423 877,1423 877,1445 866,1445"/>
+	<TextEquiv conf="0.89352">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78979">
+	<Unicode>andere</Unicode></TextEquiv></Word>
+	<Word id="w119">
+	<Coords points="907,1418 930,1418 930,1421 956,1421 956,1448 907,1448"/>
+	<Glyph id="c1108">
+	<Coords points="907,1418 930,1418 930,1448 907,1448"/>
+	<TextEquiv conf="0.86932">
+	<Unicode>A</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1110">
+	<Coords points="932,1426 944,1426 944,1448 932,1448"/>
+	<TextEquiv conf="0.85530">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1112">
+	<Coords points="946,1421 956,1421 956,1448 946,1448"/>
+	<TextEquiv conf="0.88164">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85530">
+	<Unicode>Art</Unicode></TextEquiv></Word>
+	<Word id="w123">
+	<Coords points="986,1426 1000,1426 1000,1427 1038,1427 1038,1451 1020,1451 1020,1450 1004,1450 1004,1449 986,1449"/>
+	<Glyph id="c1114">
+	<Coords points="986,1426 1000,1426 1000,1449 986,1449"/>
+	<TextEquiv conf="0.88496">
+	<Unicode>v</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1116">
+	<Coords points="1004,1428 1016,1428 1016,1450 1004,1450"/>
+	<TextEquiv conf="0.85917">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1118">
+	<Coords points="1020,1427 1038,1427 1038,1451 1020,1451"/>
+	<TextEquiv conf="0.87851">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85917">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.81491">
+	<Unicode>ſehr empfngli fr jede andere Art von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l1120">
+	<Coords points="329,1460 360,1460 360,1461 428,1461 428,1465 438,1465 438,1468 543,1468 543,1461 567,1461 567,1462 636,1462 636,1468 747,1468 747,1464 805,1464 805,1463 818,1463 818,1464 898,1464 898,1466 976,1466 976,1475 1017,1475 1017,1476 1038,1476 1038,1500 949,1500 949,1502 935,1502 935,1495 818,1495 818,1496 805,1496 805,1495 747,1495 747,1492 567,1492 567,1495 543,1495 543,1492 428,1492 428,1496 363,1496 363,1492 329,1492"/>
+	<Word id="w1122">
+	<Coords points="329,1460 360,1460 360,1461 428,1461 428,1465 438,1465 438,1468 470,1468 470,1491 428,1491 428,1496 363,1496 363,1492 329,1492"/>
+	<Glyph id="c1124">
+	<Coords points="329,1460 360,1460 360,1492 329,1492"/>
+	<TextEquiv conf="0.87065">
+	<Unicode>S</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1126">
+	<Coords points="363,1461 388,1461 388,1496 363,1496"/>
+	<TextEquiv conf="0.77742">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1128">
+	<Coords points="391,1469 402,1469 402,1491 391,1491"/>
+	<TextEquiv conf="0.85757">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1130">
+	<Coords points="405,1461 413,1461 413,1492 405,1492"/>
+	<TextEquiv conf="0.84846">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1132">
+	<Coords points="416,1461 428,1461 428,1496 416,1496"/>
+	<TextEquiv conf="0.92709">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1134">
+	<Coords points="428,1465 438,1465 438,1491 428,1491"/>
+	<TextEquiv conf="0.91717">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1136">
+	<Coords points="440,1468 451,1468 451,1491 440,1491"/>
+	<TextEquiv conf="0.87444">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1138">
+	<Coords points="454,1468 470,1468 470,1491 454,1491"/>
+	<TextEquiv conf="0.85714">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.77742">
+	<Unicode>Sriften</Unicode></TextEquiv></Word>
+	<Word id="w137">
+	<Coords points="543,1461 567,1461 567,1469 601,1469 601,1492 567,1492 567,1495 543,1495 543,1492 526,1492 526,1491 498,1491 498,1468 543,1468"/>
+	<Glyph id="c1140">
+	<Coords points="498,1468 523,1468 523,1491 498,1491"/>
+	<TextEquiv conf="0.84957">
+	<Unicode>m</Unicode></TextEquiv></Glyph>
+	<Glyph id="c139">
+	<Coords points="526,1469 540,1469 540,1492 526,1492"/>
+	<TextEquiv conf="0.89413">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1143">
+	<Coords points="543,1461 567,1461 567,1495 543,1495"/>
+	<TextEquiv conf="0.86095">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1145">
+	<Coords points="570,1469 580,1469 580,1492 570,1492"/>
+	<TextEquiv conf="0.97462">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1147">
+	<Coords points="583,1469 601,1469 601,1492 583,1492"/>
+	<TextEquiv conf="0.84743">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84743">
+	<Unicode>maen</Unicode></TextEquiv></Word>
+	<Word id="w143">
+	<Coords points="624,1462 636,1462 636,1468 652,1468 652,1469 689,1469 689,1482 702,1482 702,1492 624,1492"/>
+	<Glyph id="c1149">
+	<Coords points="624,1462 636,1462 636,1492 624,1492"/>
+	<TextEquiv conf="0.87360">
+	<Unicode>k</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1151">
+	<Coords points="638,1468 652,1468 652,1492 638,1492"/>
+	<TextEquiv conf="0.92592">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1153">
+	<Coords points="654,1469 670,1469 670,1492 654,1492"/>
+	<TextEquiv conf="0.90301">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1155">
+	<Coords points="673,1469 689,1469 689,1492 673,1492"/>
+	<TextEquiv conf="0.89281">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1157">
+	<Coords points="692,1482 702,1482 702,1492 692,1492"/>
+	<TextEquiv conf="0.85881">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85881">
+	<Unicode>kann.</Unicode></TextEquiv></Word>
+	<Word id="w1159">
+	<Coords points="805,1463 818,1463 818,1470 842,1470 842,1491 827,1491 827,1493 818,1493 818,1496 805,1496 805,1495 747,1495 747,1464 805,1464"/>
+	<Glyph id="c1161">
+	<Coords points="747,1464 777,1464 777,1495 747,1495"/>
+	<TextEquiv conf="0.80899">
+	<Unicode>D</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1163">
+	<Coords points="782,1464 790,1464 790,1493 782,1493"/>
+	<TextEquiv conf="0.86468">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1165">
+	<Coords points="792,1471 803,1471 803,1492 792,1492"/>
+	<TextEquiv conf="0.80155">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1167">
+	<Coords points="805,1463 818,1463 818,1496 805,1496"/>
+	<TextEquiv conf="0.84708">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1169">
+	<Coords points="816,1471 827,1471 827,1493 816,1493"/>
+	<TextEquiv conf="0.87945">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1171">
+	<Coords points="829,1470 842,1470 842,1491 829,1491"/>
+	<TextEquiv conf="0.81635">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.80155">
+	<Unicode>Dieſer</Unicode></TextEquiv></Word>
+	<Word id="w156">
+	<Coords points="863,1464 898,1464 898,1466 976,1466 976,1496 949,1496 949,1502 935,1502 935,1495 863,1495"/>
+	<Glyph id="c1173">
+	<Coords points="863,1464 898,1464 898,1495 863,1495"/>
+	<TextEquiv conf="0.81714">
+	<Unicode>M</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1175">
+	<Coords points="900,1472 913,1472 913,1494 900,1494"/>
+	<TextEquiv conf="0.86701">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1177">
+	<Coords points="917,1472 932,1472 932,1494 917,1494"/>
+	<TextEquiv conf="0.85367">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1179">
+	<Coords points="935,1475 949,1475 949,1502 935,1502"/>
+	<TextEquiv conf="0.86914">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1181">
+	<Coords points="953,1474 963,1474 963,1496 953,1496"/>
+	<TextEquiv conf="0.82119">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1183">
+	<Coords points="966,1466 976,1466 976,1496 966,1496"/>
+	<TextEquiv conf="0.79471">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.79471">
+	<Unicode>Mangel</Unicode></TextEquiv></Word>
+	<Word id="w163">
+	<Coords points="1003,1475 1017,1475 1017,1476 1038,1476 1038,1500 1020,1500 1020,1498 1003,1498"/>
+	<Glyph id="c1185">
+	<Coords points="1003,1475 1017,1475 1017,1498 1003,1498"/>
+	<TextEquiv conf="0.95135">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1187">
+	<Coords points="1020,1476 1038,1476 1038,1500 1020,1500"/>
+	<TextEquiv conf="0.87215">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87215">
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82534">
+	<Unicode>Sriften maen kann. Dieſer Mangel an</Unicode></TextEquiv></TextLine>
+	<TextLine id="l166">
+	<Coords points="374,1509 478,1509 478,1510 679,1510 679,1513 692,1513 692,1517 844,1517 844,1511 853,1511 853,1515 985,1515 985,1517 1036,1517 1036,1546 951,1546 951,1548 928,1548 928,1544 909,1544 909,1543 891,1543 891,1541 844,1541 844,1540 710,1540 710,1541 579,1541 579,1544 565,1544 565,1540 388,1540 388,1543 374,1543 374,1539 330,1539 330,1515 374,1515"/>
+	<Word id="w167">
+	<Coords points="374,1509 388,1509 388,1517 431,1517 431,1539 388,1539 388,1543 374,1543 374,1539 330,1539 330,1515 374,1515"/>
+	<Glyph id="c1189">
+	<Coords points="330,1515 353,1515 353,1539 330,1539"/>
+	<TextEquiv conf="0.83800">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1191">
+	<Coords points="357,1516 371,1516 371,1538 357,1538"/>
+	<TextEquiv conf="0.82390">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1193">
+	<Coords points="374,1509 388,1509 388,1543 374,1543"/>
+	<TextEquiv conf="0.82379">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1195">
+	<Coords points="391,1517 403,1517 403,1539 391,1539"/>
+	<TextEquiv conf="0.87118">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1197">
+	<Coords points="405,1518 416,1518 416,1538 405,1538"/>
+	<TextEquiv conf="0.92820">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1199">
+	<Coords points="418,1517 431,1517 431,1539 418,1539"/>
+	<TextEquiv conf="0.88541">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82379">
+	<Unicode>wahrer</Unicode></TextEquiv></Word>
+	<Word id="w1201">
+	<Coords points="448,1509 478,1509 478,1510 679,1510 679,1513 692,1513 692,1519 726,1519 726,1540 710,1540 710,1541 579,1541 579,1544 565,1544 565,1540 448,1540"/>
+	<Glyph id="c1203">
+	<Coords points="448,1509 478,1509 478,1540 448,1540"/>
+	<TextEquiv conf="0.81308">
+	<Unicode>V</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1205">
+	<Coords points="481,1516 491,1516 491,1538 481,1538"/>
+	<TextEquiv conf="0.84309">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1207">
+	<Coords points="494,1516 505,1516 505,1538 494,1538"/>
+	<TextEquiv conf="0.83211">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c178">
+	<Coords points="507,1516 524,1516 524,1538 507,1538"/>
+	<TextEquiv conf="0.89288">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1210">
+	<Coords points="527,1516 543,1516 543,1539 527,1539"/>
+	<TextEquiv conf="0.87085">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1212">
+	<Coords points="546,1516 562,1516 562,1539 546,1539"/>
+	<TextEquiv conf="0.88818">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1214">
+	<Coords points="565,1510 579,1510 579,1544 565,1544"/>
+	<TextEquiv conf="0.89125">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1216">
+	<Coords points="577,1514 588,1514 588,1539 577,1539"/>
+	<TextEquiv conf="0.82732">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1218">
+	<Coords points="598,1522 608,1522 608,1534 598,1534"/>
+	<TextEquiv conf="0.80755">
+	<Unicode>⸗</Unicode></TextEquiv></Glyph>
+	<Glyph id="c184">
+	<Coords points="620,1511 646,1511 646,1541 620,1541"/>
+	<TextEquiv conf="0.78009">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1221">
+	<Coords points="650,1518 666,1518 666,1540 650,1540"/>
+	<TextEquiv conf="0.89432">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1223">
+	<Coords points="669,1510 679,1510 679,1541 669,1541"/>
+	<TextEquiv conf="0.78784">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1225">
+	<Coords points="681,1513 692,1513 692,1541 681,1541"/>
+	<TextEquiv conf="0.89690">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1227">
+	<Coords points="693,1519 710,1519 710,1541 693,1541"/>
+	<TextEquiv conf="0.86715">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1229">
+	<Coords points="713,1519 726,1519 726,1540 713,1540"/>
+	<TextEquiv conf="0.82734">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78009">
+	<Unicode>Vernunft⸗Kultur</Unicode></TextEquiv></Word>
+	<Word id="w190">
+	<Coords points="748,1517 803,1517 803,1539 771,1539 771,1540 748,1540"/>
+	<Glyph id="c1231">
+	<Coords points="748,1517 771,1517 771,1540 748,1540"/>
+	<TextEquiv conf="0.84250">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1233">
+	<Coords points="774,1518 788,1518 788,1539 774,1539"/>
+	<TextEquiv conf="0.90358">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1235">
+	<Coords points="791,1517 803,1517 803,1539 791,1539"/>
+	<TextEquiv conf="0.87630">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.84250">
+	<Unicode>war</Unicode></TextEquiv></Word>
+	<Word id="w194">
+	<Coords points="844,1511 853,1511 853,1519 866,1519 866,1541 844,1541 844,1539 824,1539 824,1517 844,1517"/>
+	<Glyph id="c1237">
+	<Coords points="824,1517 841,1517 841,1539 824,1539"/>
+	<TextEquiv conf="0.88293">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c196">
+	<Coords points="844,1511 853,1511 853,1541 844,1541"/>
+	<TextEquiv conf="0.89476">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1240">
+	<Coords points="856,1519 866,1519 866,1541 856,1541"/>
+	<TextEquiv conf="0.90407">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.88293">
+	<Unicode>nie</Unicode></TextEquiv></Word>
+	<Word id="w198">
+	<Coords points="928,1515 985,1515 985,1517 1036,1517 1036,1546 951,1546 951,1548 928,1548 928,1544 909,1544 909,1543 891,1543 891,1520 928,1520"/>
+	<Glyph id="c1242">
+	<Coords points="891,1520 905,1520 905,1543 891,1543"/>
+	<TextEquiv conf="0.93442">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1244">
+	<Coords points="909,1521 925,1521 925,1544 909,1544"/>
+	<TextEquiv conf="0.88428">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1246">
+	<Coords points="928,1515 940,1515 940,1548 928,1548"/>
+	<TextEquiv conf="0.86726">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1248">
+	<Coords points="940,1515 951,1515 951,1548 940,1548"/>
+	<TextEquiv conf="0.83524">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1250">
+	<Coords points="951,1522 964,1522 964,1544 951,1544"/>
+	<TextEquiv conf="0.89284">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1252">
+	<Coords points="968,1515 985,1515 985,1544 968,1544"/>
+	<TextEquiv conf="0.88486">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1254">
+	<Coords points="988,1523 999,1523 999,1544 988,1544"/>
+	<TextEquiv conf="0.89322">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1256">
+	<Coords points="1001,1523 1017,1523 1017,1545 1001,1545"/>
+	<TextEquiv conf="0.89505">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1258">
+	<Coords points="1021,1517 1036,1517 1036,1546 1021,1546"/>
+	<TextEquiv conf="0.82243">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82243">
+	<Unicode>auffaend</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83035">
+	<Unicode>wahrer Vernunft⸗Kultur war nie auffaend</Unicode></TextEquiv></TextLine>
+	<TextLine id="l208">
+	<Coords points="344,1552 359,1552 359,1555 389,1555 389,1556 405,1556 405,1562 523,1562 523,1556 533,1556 533,1557 652,1557 652,1556 664,1556 664,1557 717,1557 717,1558 837,1558 837,1560 877,1560 877,1562 882,1562 882,1563 898,1563 898,1567 1003,1567 1003,1561 1021,1561 1021,1568 1036,1568 1036,1591 1021,1591 1021,1595 1003,1595 1003,1594 865,1594 865,1590 854,1590 854,1589 747,1589 747,1593 732,1593 732,1591 652,1591 652,1587 639,1587 639,1586 480,1586 480,1589 342,1589 342,1590 328,1590 328,1556 344,1556"/>
+	<Word id="w209">
+	<Coords points="344,1552 359,1552 359,1555 389,1555 389,1556 405,1556 405,1562 437,1562 437,1563 464,1563 464,1571 480,1571 480,1589 342,1589 342,1590 328,1590 328,1556 344,1556"/>
+	<Glyph id="c1260">
+	<Coords points="328,1556 342,1556 342,1590 328,1590"/>
+	<TextEquiv conf="0.84877">
+	<Unicode>f</Unicode></TextEquiv></Glyph>
+	<Glyph id="c211">
+	<Coords points="344,1552 359,1552 359,1585 344,1585"/>
+	<TextEquiv conf="0.74749">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1263">
+	<Coords points="362,1555 377,1555 377,1589 362,1589"/>
+	<TextEquiv conf="0.82183">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1265">
+	<Coords points="380,1555 389,1555 389,1585 380,1585"/>
+	<TextEquiv conf="0.88902">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1267">
+	<Coords points="392,1556 405,1556 405,1585 392,1585"/>
+	<TextEquiv conf="0.84542">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1269">
+	<Coords points="408,1563 422,1563 422,1585 408,1585"/>
+	<TextEquiv conf="0.91885">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1271">
+	<Coords points="424,1562 437,1562 437,1585 424,1585"/>
+	<TextEquiv conf="0.84868">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1273">
+	<Coords points="439,1563 449,1563 449,1585 439,1585"/>
+	<TextEquiv conf="0.91032">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1275">
+	<Coords points="452,1563 464,1563 464,1585 452,1585"/>
+	<TextEquiv conf="0.89030">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c219">
+	<Coords points="470,1571 480,1571 480,1589 470,1589"/>
+	<TextEquiv conf="0.88625">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74749">
+	<Unicode>fhlbarer,</Unicode></TextEquiv></Word>
+	<Word id="w220">
+	<Coords points="523,1556 533,1556 533,1558 548,1558 548,1585 506,1585 506,1563 523,1563"/>
+	<Glyph id="c1278">
+	<Coords points="506,1563 521,1563 521,1585 506,1585"/>
+	<TextEquiv conf="0.84157">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1280">
+	<Coords points="523,1556 533,1556 533,1585 523,1585"/>
+	<TextEquiv conf="0.85685">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1282">
+	<Coords points="534,1558 548,1558 548,1585 534,1585"/>
+	<TextEquiv conf="0.75503">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.75503">
+	<Unicode>als</Unicode></TextEquiv></Word>
+	<Word id="w224">
+	<Coords points="566,1557 574,1557 574,1563 594,1563 594,1585 574,1585 574,1586 566,1586"/>
+	<Glyph id="c1284">
+	<Coords points="566,1557 574,1557 574,1586 566,1586"/>
+	<TextEquiv conf="0.78839">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1286">
+	<Coords points="577,1563 594,1563 594,1585 577,1585"/>
+	<TextEquiv conf="0.90166">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78839">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w227">
+	<Coords points="652,1556 664,1556 664,1565 688,1565 688,1587 673,1587 673,1588 664,1588 664,1591 652,1591 652,1587 639,1587 639,1586 610,1586 610,1558 627,1558 627,1557 652,1557"/>
+	<Glyph id="c228">
+	<Coords points="610,1558 624,1558 624,1586 610,1586"/>
+	<TextEquiv conf="0.82218">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1289">
+	<Coords points="627,1557 636,1557 636,1586 627,1586"/>
+	<TextEquiv conf="0.85431">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1291">
+	<Coords points="639,1564 649,1564 649,1587 639,1587"/>
+	<TextEquiv conf="0.89128">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1293">
+	<Coords points="652,1556 664,1556 664,1591 652,1591"/>
+	<TextEquiv conf="0.84459">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1295">
+	<Coords points="663,1565 673,1565 673,1588 663,1588"/>
+	<TextEquiv conf="0.87234">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c233">
+	<Coords points="677,1565 688,1565 688,1587 677,1587"/>
+	<TextEquiv conf="0.83498">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82218">
+	<Unicode>dieſer</Unicode></TextEquiv></Word>
+	<Word id="w234">
+	<Coords points="706,1557 717,1557 717,1560 761,1560 761,1564 793,1564 793,1587 761,1587 761,1588 747,1588 747,1593 732,1593 732,1588 706,1588"/>
+	<Glyph id="c1298">
+	<Coords points="706,1557 717,1557 717,1588 706,1588"/>
+	<TextEquiv conf="0.84255">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1300">
+	<Coords points="719,1565 730,1565 730,1587 719,1587"/>
+	<TextEquiv conf="0.93335">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1302">
+	<Coords points="732,1561 747,1561 747,1593 732,1593"/>
+	<TextEquiv conf="0.71258">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1304">
+	<Coords points="750,1560 761,1560 761,1588 750,1588"/>
+	<TextEquiv conf="0.89140">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1306">
+	<Coords points="763,1564 774,1564 774,1587 763,1587"/>
+	<TextEquiv conf="0.80161">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1308">
+	<Coords points="776,1564 793,1564 793,1587 776,1587"/>
+	<TextEquiv conf="0.92212">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.71258">
+	<Unicode>leten</Unicode></TextEquiv></Word>
+	<Word id="w241">
+	<Coords points="811,1558 837,1558 837,1560 877,1560 877,1562 882,1562 882,1563 898,1563 898,1577 914,1577 914,1594 865,1594 865,1590 854,1590 854,1589 811,1589"/>
+	<Glyph id="c1310">
+	<Coords points="811,1558 837,1558 837,1589 811,1589"/>
+	<TextEquiv conf="0.76449">
+	<Unicode>K</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1312">
+	<Coords points="839,1566 851,1566 851,1589 839,1589"/>
+	<TextEquiv conf="0.85474">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1314">
+	<Coords points="854,1560 861,1560 861,1590 854,1590"/>
+	<TextEquiv conf="0.75550">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1316">
+	<Coords points="865,1560 877,1560 877,1594 865,1594"/>
+	<TextEquiv conf="0.86809">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1318">
+	<Coords points="875,1562 882,1562 882,1589 875,1589"/>
+	<TextEquiv conf="0.83347">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1322">
+	<Coords points="884,1563 898,1563 898,1590 884,1588"/>
+	<TextEquiv conf="0.65612">
+	<Unicode>s</Unicode></TextEquiv></Glyph>
+	<Glyph id="c249">
+	<Coords points="905,1577 914,1577 914,1594 905,1594"/>
+	<TextEquiv conf="0.91648">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.65612">
+	<Unicode>Kriſis,</Unicode></TextEquiv></Word>
+	<Word id="w250">
+	<Coords points="944,1567 967,1567 967,1569 984,1569 984,1591 971,1591 971,1590 944,1590"/>
+	<Glyph id="c1325">
+	<Coords points="944,1567 967,1567 967,1590 944,1590"/>
+	<TextEquiv conf="0.90990">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1327">
+	<Coords points="971,1569 984,1569 984,1591 971,1591"/>
+	<TextEquiv conf="0.87380">
+	<Unicode>o</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.87380">
+	<Unicode>wo</Unicode></TextEquiv></Word>
+	<Word id="w1329">
+	<Coords points="1003,1561 1021,1561 1021,1568 1036,1568 1036,1591 1021,1591 1021,1595 1003,1595"/>
+	<Glyph id="c1331">
+	<Coords points="1003,1561 1021,1561 1021,1595 1003,1595"/>
+	<TextEquiv conf="0.84703">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1333">
+	<Coords points="1024,1568 1036,1568 1036,1591 1024,1591"/>
+	<TextEquiv conf="0.82399">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.82399">
+	<Unicode>e</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.77245">
+	<Unicode>fhlbarer, als in dieſer leten Kriſis, wo e</Unicode></TextEquiv></TextLine>
+	<TextLine id="l256">
+	<Coords points="528,1601 542,1601 542,1603 631,1603 631,1610 787,1610 787,1605 812,1605 812,1604 826,1604 826,1613 941,1613 941,1608 1000,1608 1000,1613 1035,1613 1035,1639 966,1639 966,1642 864,1642 864,1637 842,1637 842,1635 732,1635 732,1639 701,1639 701,1640 687,1640 687,1637 633,1637 633,1636 528,1636 528,1632 379,1632 379,1637 328,1637 328,1602 528,1602"/>
+	<Word id="w257">
+	<Coords points="328,1602 379,1602 379,1637 328,1637"/>
+	<Glyph id="c258">
+	<Coords points="328,1602 348,1602 348,1637 328,1637"/>
+	<TextEquiv conf="0.78595">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1336">
+	<Coords points="354,1602 379,1602 379,1637 354,1637"/>
+	<TextEquiv conf="0.84009">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78595">
+	<Unicode></Unicode></TextEquiv></Word>
+	<Word id="w260">
+	<Coords points="432,1603 440,1603 440,1608 455,1608 455,1630 440,1630 440,1632 404,1632 404,1608 432,1608"/>
+	<Glyph id="c1338">
+	<Coords points="404,1608 427,1608 427,1632 404,1632"/>
+	<TextEquiv conf="0.89364">
+	<Unicode>w</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1340">
+	<Coords points="432,1603 440,1603 440,1632 432,1632"/>
+	<TextEquiv conf="0.86500">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1342">
+	<Coords points="444,1608 455,1608 455,1630 444,1630"/>
+	<TextEquiv conf="0.88746">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.86500">
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="w264">
+	<Coords points="528,1601 542,1601 542,1603 631,1603 631,1610 663,1610 663,1633 648,1633 648,1637 633,1637 633,1636 528,1636 528,1632 473,1632 473,1602 528,1602"/>
+	<Glyph id="c1344">
+	<Coords points="473,1602 507,1602 507,1632 473,1632"/>
+	<TextEquiv conf="0.84231">
+	<Unicode>W</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1346">
+	<Coords points="510,1609 525,1609 525,1631 510,1631"/>
+	<TextEquiv conf="0.87193">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1348">
+	<Coords points="528,1601 542,1601 542,1636 528,1636"/>
+	<TextEquiv conf="0.82048">
+	<Unicode>h</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1350">
+	<Coords points="545,1609 561,1609 561,1632 545,1632"/>
+	<TextEquiv conf="0.86976">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1352">
+	<Coords points="565,1603 578,1603 578,1605 581,1605 581,1631 578,1631 578,1636 565,1636"/>
+	<TextEquiv conf="0.90335">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1356">
+	<Coords points="585,1610 601,1610 601,1632 585,1632"/>
+	<TextEquiv conf="0.82829">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c272">
+	<Coords points="603,1609 620,1609 620,1633 603,1633"/>
+	<TextEquiv conf="0.84821">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1359">
+	<Coords points="623,1603 631,1603 631,1633 623,1633"/>
+	<TextEquiv conf="0.82496">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1361">
+	<Coords points="633,1610 648,1610 648,1637 633,1637"/>
+	<TextEquiv conf="0.82251">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1363">
+	<Coords points="651,1610 663,1610 663,1633 651,1633"/>
+	<TextEquiv conf="0.88145">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.78958">
+	<Unicode>Wahnnnige</Unicode></TextEquiv></Word>
+	<Word id="w276">
+	<Coords points="717,1610 732,1610 732,1611 766,1611 766,1632 746,1632 746,1633 732,1633 732,1639 701,1639 701,1640 687,1640 687,1611 717,1611"/>
+	<Glyph id="c1365">
+	<Coords points="687,1611 701,1611 701,1640 687,1640"/>
+	<TextEquiv conf="0.86465">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1367">
+	<Coords points="705,1611 716,1611 716,1633 705,1633"/>
+	<TextEquiv conf="0.85917">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c279">
+	<Coords points="717,1610 732,1610 732,1639 717,1639"/>
+	<TextEquiv conf="0.86386">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1370">
+	<Coords points="735,1611 746,1611 746,1633 735,1633"/>
+	<TextEquiv conf="0.86354">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c281">
+	<Coords points="749,1611 766,1611 766,1632 749,1632"/>
+	<TextEquiv conf="0.86771">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.85917">
+	<Unicode>gegen</Unicode></TextEquiv></Word>
+	<Word id="w282">
+	<Coords points="812,1604 826,1604 826,1613 859,1613 859,1624 875,1624 875,1642 864,1642 864,1637 842,1637 842,1635 829,1635 829,1634 787,1634 787,1605 812,1605"/>
+	<Glyph id="c1373">
+	<Coords points="787,1605 796,1605 796,1634 787,1634"/>
+	<TextEquiv conf="0.83217">
+	<Unicode>j</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1375">
+	<Coords points="800,1611 810,1611 810,1632 800,1632"/>
+	<TextEquiv conf="0.87041">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1377">
+	<Coords points="812,1604 826,1604 826,1634 812,1634"/>
+	<TextEquiv conf="0.87894">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1379">
+	<Coords points="829,1613 840,1613 840,1635 829,1635"/>
+	<TextEquiv conf="0.90312">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1381">
+	<Coords points="842,1613 859,1613 859,1637 842,1637"/>
+	<TextEquiv conf="0.82872">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1383">
+	<Coords points="864,1624 875,1624 875,1642 864,1642"/>
+	<TextEquiv conf="0.75876">
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.75876">
+	<Unicode>jeden,</Unicode></TextEquiv></Word>
+	<Word id="w289">
+	<Coords points="941,1608 966,1608 966,1642 941,1642 941,1641 922,1641 922,1639 903,1639 903,1614 941,1614"/>
+	<Glyph id="c1385">
+	<Coords points="903,1614 918,1614 918,1639 903,1639"/>
+	<TextEquiv conf="0.79814">
+	<Unicode>a</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1387">
+	<Coords points="922,1614 937,1614 937,1641 922,1641"/>
+	<TextEquiv conf="0.73668">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1389">
+	<Coords points="941,1608 966,1608 966,1642 941,1642"/>
+	<TextEquiv conf="0.82452">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.73668">
+	<Unicode>au</Unicode></TextEquiv></Word>
+	<Word id="w293">
+	<Coords points="986,1608 1000,1608 1000,1613 1035,1613 1035,1639 1017,1639 1017,1638 986,1638"/>
+	<Glyph id="c1391">
+	<Coords points="986,1608 1000,1608 1000,1638 986,1638"/>
+	<TextEquiv conf="0.78663">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1393">
+	<Coords points="1004,1614 1014,1614 1014,1637 1004,1637"/>
+	<TextEquiv conf="0.77386">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1395">
+	<Coords points="1017,1613 1035,1613 1035,1639 1017,1639"/>
+	<TextEquiv conf="0.83809">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.77386">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.79557">
+	<Unicode> wie Wahnnnige gegen jeden, au den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l297">
+	<Coords points="379,1648 499,1648 499,1650 604,1650 604,1651 713,1651 713,1654 739,1654 739,1657 803,1657 803,1658 822,1658 822,1671 835,1671 835,1684 789,1684 789,1686 774,1686 774,1683 716,1683 716,1682 541,1682 541,1683 499,1683 499,1685 379,1685 379,1684 368,1684 368,1679 329,1679 329,1655 368,1655 368,1649 379,1649"/>
+	<Word id="w298">
+	<Coords points="379,1648 499,1648 499,1655 519,1655 519,1656 528,1656 528,1657 529,1657 529,1658 530,1658 530,1659 531,1659 531,1666 547,1666 547,1673 546,1673 546,1675 545,1675 545,1677 544,1677 544,1678 543,1678 543,1680 542,1680 542,1682 541,1682 541,1683 499,1683 499,1685 379,1685 379,1684 368,1684 368,1679 329,1679 329,1655 368,1655 368,1649 379,1649"/>
+	<Glyph id="c1397">
+	<Coords points="329,1655 348,1655 348,1679 329,1679"/>
+	<TextEquiv conf="0.77466">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c300">
+	<Coords points="350,1656 367,1656 367,1678 350,1678"/>
+	<TextEquiv conf="0.79473">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1400">
+	<Coords points="368,1649 379,1649 379,1684 368,1684"/>
+	<TextEquiv conf="0.83488">
+	<Unicode>ſ</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1402">
+	<Coords points="379,1648 404,1648 404,1685 379,1685"/>
+	<TextEquiv conf="0.82731">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1404">
+	<Coords points="406,1656 424,1656 424,1679 406,1679"/>
+	<TextEquiv conf="0.80853">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1406">
+	<Coords points="427,1650 435,1650 435,1680 427,1680"/>
+	<TextEquiv conf="0.74776">
+	<Unicode>l</Unicode></TextEquiv></Glyph>
+	<Glyph id="c305">
+	<Coords points="437,1650 451,1650 451,1680 437,1680"/>
+	<TextEquiv conf="0.75144">
+	<Unicode>d</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1409">
+	<Coords points="455,1648 463,1648 463,1680 455,1680"/>
+	<TextEquiv conf="0.78560">
+	<Unicode>i</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1411">
+	<Coords points="465,1655 480,1655 480,1684 465,1684"/>
+	<TextEquiv conf="0.76521">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1413">
+	<Coords points="484,1648 499,1648 499,1685 484,1685"/>
+	<TextEquiv conf="0.87398">
+	<Unicode></Unicode></TextEquiv></Glyph>
+	<Glyph id="c1415">
+	<Coords points="502,1655 513,1655 513,1679 502,1679"/>
+	<TextEquiv conf="0.88832">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c334">
+	<Coords points="519,1655 519,1656 528,1656 528,1657 529,1657 529,1658 530,1658 530,1659 531,1659 531,1674 530,1674 530,1676 529,1676 529,1677 528,1677 528,1678 517,1678 517,1677 516,1677 516,1674 515,1674 515,1659 516,1659 516,1657 517,1657 517,1656 518,1656 518,1655"/>
+	<TextEquiv>
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c338">
+	<Coords points="547,1666 547,1673 546,1673 546,1675 545,1675 545,1677 544,1677 544,1678 543,1678 543,1680 542,1680 542,1682 541,1682 541,1683 540,1683 540,1682 539,1682 539,1677 540,1677 540,1675 541,1675 541,1674 542,1674 542,1671 543,1671 543,1669 544,1669 544,1667 545,1667 545,1666"/>
+	<TextEquiv>
+	<Unicode>,</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.69737">
+	<Unicode>unſuldigen,</Unicode></TextEquiv></Word>
+	<Word id="w311">
+	<Coords points="575,1650 604,1650 604,1657 650,1657 650,1658 678,1658 678,1682 575,1682"/>
+	<Glyph id="c1419">
+	<Coords points="575,1650 604,1650 604,1682 575,1682"/>
+	<TextEquiv conf="0.76277">
+	<Unicode>B</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1421">
+	<Coords points="607,1657 617,1657 617,1680 607,1680"/>
+	<TextEquiv conf="0.88251">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1423">
+	<Coords points="619,1657 632,1657 632,1681 619,1681"/>
+	<TextEquiv conf="0.87213">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1425">
+	<Coords points="633,1657 650,1657 650,1681 633,1681"/>
+	<TextEquiv conf="0.89157">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1427">
+	<Coords points="653,1658 663,1658 663,1681 653,1681"/>
+	<TextEquiv conf="0.91165">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1429">
+	<Coords points="666,1658 678,1658 678,1682 666,1682"/>
+	<TextEquiv conf="0.82051">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76277">
+	<Unicode>Berner</Unicode></TextEquiv></Word>
+	<Word id="w1431">
+	<Coords points="698,1651 713,1651 713,1654 739,1654 739,1657 803,1657 803,1658 822,1658 822,1671 835,1671 835,1684 789,1684 789,1686 774,1686 774,1683 716,1683 716,1680 698,1680"/>
+	<Glyph id="c1433">
+	<Coords points="698,1651 713,1651 713,1680 698,1680"/>
+	<TextEquiv conf="0.88407">
+	<Unicode>b</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1435">
+	<Coords points="716,1657 727,1657 727,1683 716,1683"/>
+	<TextEquiv conf="0.80710">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c321">
+	<Coords points="730,1654 739,1654 739,1682 730,1682"/>
+	<TextEquiv conf="0.84734">
+	<Unicode>t</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1438">
+	<Coords points="742,1657 754,1657 754,1681 742,1681"/>
+	<TextEquiv conf="0.82024">
+	<Unicode>r</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1440">
+	<Coords points="756,1657 773,1657 773,1680 756,1680"/>
+	<TextEquiv conf="0.74626">
+	<Unicode>u</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1442">
+	<Coords points="774,1657 789,1657 789,1686 774,1686"/>
+	<TextEquiv conf="0.85108">
+	<Unicode>g</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1444">
+	<Coords points="792,1657 803,1657 803,1680 792,1680"/>
+	<TextEquiv conf="0.89075">
+	<Unicode>e</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1446">
+	<Coords points="806,1658 822,1658 822,1683 806,1683"/>
+	<TextEquiv conf="0.89618">
+	<Unicode>n</Unicode></TextEquiv></Glyph>
+	<Glyph id="c1448">
+	<Coords points="824,1671 835,1671 835,1684 824,1684"/>
+	<TextEquiv conf="0.76628">
+	<Unicode>.</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.74626">
+	<Unicode>betrugen.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.73547">
+	<Unicode>unſuldigen, Berner betrugen.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Prozeß⸗Betriebe, und au dieſe in einem
+Style, der die Kpfe der Bauern eben nit
+ſehr empfngli fr jede andere Art von
+Sriften maen kann. Dieſer Mangel an
+wahrer Vernunft⸗Kultur war nie auffaend
+fhlbarer, als in dieſer leten Kriſis, wo e
+ wie Wahnnnige gegen jeden, au den
+unſuldigen, Berner betrugen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Fraktur"/></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="257,198 315,198 315,241 257,241"/>
+	<TextLine id="l7">
+	<Coords points="264,202 310,202 310,240 285,240 285,230 264,230"/>
+	<Word id="w9">
+	<Coords points="264,202 310,202 310,240 285,240 285,230 264,230"/>
+	<Glyph id="c253">
+	<Coords points="264,202 279,202 279,230 264,230"/>
+	<TextEquiv conf="0.81432">
+	<Unicode>1</Unicode></TextEquiv></Glyph>
+	<Glyph id="c330">
+	<Coords points="285,202 310,202 310,240 285,240"/>
+	<TextEquiv conf="0.76595">
+	<Unicode>4</Unicode></TextEquiv></Glyph>
+	<TextEquiv conf="0.76595">
+	<Unicode>14</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.76595">
+	<Unicode>14</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>14</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="695,206 695,207 711,207 711,208 713,208 713,209 714,209 714,212 715,212 715,214 716,214 716,222 717,222 716,222 716,232 703,232 703,233 703,229 599,229 599,227 598,227 598,225 594,225 594,224 593,224 593,211 594,211 594,209 595,209 595,207 603,207 603,206"/></SeparatorRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="394,1260 394,1261 544,1261 544,1262 607,1262 607,1263 683,1263 683,1264 782,1264 782,1265 785,1265 785,1266 821,1266 821,1267 854,1267 854,1268 899,1268 899,1269 927,1269 927,1270 959,1270 959,1271 1036,1271 1036,1272 1037,1272 1037,1278 1036,1278 1036,1279 1036,1278 1035,1278 1035,1276 1030,1276 1030,1275 995,1275 995,1274 942,1274 942,1273 923,1273 923,1272 866,1272 866,1271 830,1271 830,1270 802,1270 802,1269 746,1269 746,1268 640,1268 640,1267 616,1267 616,1266 257,1266 257,1267 246,1267 246,1265 247,1265 247,1261 248,1261 248,1260"/></SeparatorRegion></Page></PcGts>
